@@ -5,13 +5,13 @@ Any executable file and associated documentation (code) in this
 repository is licensed under the MIT License (MIT).  Any other written
 content and data (data) in this repository is licensed under a Creative
 Commons Attribution 4.0 International License (CC-BY).  Each file
-identifies its license and refers to this document.
+identifies its license.
 
 
 MIT License
 -----------
 
-Copyright (c) 2017 Aubrey Barnard
+Copyright (c) 2017 AIRG Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
