@@ -1,0 +1,7 @@
+# Patterns of files for Git to ignore
+#
+# Copyright (c) 2017 AIRG Authors.  This is free, open software released
+# under the MIT License.  See `AUTHORS.md` and `LICENSE.md` for details.
+
+# Ignore backups
+*~
