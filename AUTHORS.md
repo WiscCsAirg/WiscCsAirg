@@ -2,8 +2,8 @@ AIRG Authors
 ============
 
 
-The following people are the authors of this AIRG website for the
-pursposes of copyright.
+The following people are the authors of the AIRG website for the purpose
+of copyright.
 
 
 2017
