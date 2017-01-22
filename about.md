@@ -9,7 +9,7 @@ Madison](http://www.wisc.edu/).  We gather weekly during the semester to
 discuss papers in the areas of ML, AI, natural language processing,
 bioinformatics, and (occasionally) computer vision.  We are the primary
 reading group for the [AI area](https://research.cs.wisc.edu/areas/ai/)
-and cater to all its various topics, but ML has been the focus recently.
+and cater to all its various topics, but recently ML has been the focus.
 
 
 Meetings
@@ -95,7 +95,7 @@ Ideas for What to Present
 
 * Papers from conferences and journals (e.g. NIPS, ICML, JMLR, KDD,
   IJCAI, AAAI, IJCAI, UAI, ECML-PKDD, AISTATS, RECOMB, CVPR)
-* Papers / Chapters from the [qualifying exam
+* Papers / Chapters from the [PhD qualifying exam
   list](http://aiqual.cs.wisc.edu/).  This material is always worth
   reviewing, even for advanced students.
 * Papers / Chapters you have read as part of a class (especially
@@ -125,7 +125,7 @@ meetings going back to 2001!
 
 -----
 
-Copyright (c) 2017 (AIRG Authors)[AUTHORS.md]
+Copyright (c) 2017 [AIRG Authors](AUTHORS.md)
 [(CC-BY)](https://creativecommons.org/licenses/by/4.0/).  This is a free
 culture work licensed to the public under a [Creative Commons
 Attribution 4.0 International
