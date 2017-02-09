@@ -5,3 +5,7 @@
 
 # Ignore backups
 *~
+
+# Jekyll-generated files
+.sass-cache
+_site

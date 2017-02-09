@@ -1,3 +1,8 @@
+---
+copyright_year: 2017
+title: Machine Learning and Artificial Intelligence Reading Group
+---
+
 Machine Learning and Artificial Intelligence Reading Group
 ==========================================================
 
@@ -121,12 +126,3 @@ Archive
 
 We have an [archive](archive.yaml) (under construction) of all the AIRG
 meetings going back to 2001!
-
-
------
-
-Copyright (c) 2017 [AIRG Authors](AUTHORS.md)
-[(CC-BY)](https://creativecommons.org/licenses/by/4.0/).  This is a free
-culture work licensed to the public under a [Creative Commons
-Attribution 4.0 International
-License](https://creativecommons.org/licenses/by/4.0/).

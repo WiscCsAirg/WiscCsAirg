@@ -1,3 +1,8 @@
+---
+copyright_year: 2017
+title: Authors
+---
+
 AIRG Authors
 ============
 

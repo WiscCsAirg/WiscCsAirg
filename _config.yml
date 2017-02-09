@@ -1,1 +1,22 @@
-theme: jekyll-theme-minimal
+# Jekyll configuration
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Site information
+title: UW-Madison AIRG
+description: >
+  Machine learning and artificial intelligence reading group (AIRG) in
+  the Computer Sciences Department at the University of Wisconsin -
+  Madison
+
+# Default site configuration
+defaults:
+  - scope:
+      path: "" # global scope
+    values:
+      layout: "default"
