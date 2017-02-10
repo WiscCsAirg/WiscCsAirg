@@ -89,11 +89,11 @@ How to Participate
 * Read papers (as best you can!)
 * Lead paper discussions (optional but beneficial)
 * Join the mailing list (optional but essential):
-  https://lists.cs.wisc.edu/mailman/listinfo/airg.  The mailing list is
-  the primary means of communication.  All readings are announced via
-  the mailing list.  The list is limited to those with a `*.wisc.edu`
-  e-mail address or community members that have showed up to a meeting
-  and asked to sign up.
+  [AIRG](https://lists.cs.wisc.edu/mailman/listinfo/airg).  The mailing
+  list is the primary means of communication.  All readings are
+  announced via the mailing list.  The list is limited to those with a
+  `*.wisc.edu` e-mail address or community members that have showed up
+  to a meeting and asked to sign up.
 
 
 Ideas for What to Present
