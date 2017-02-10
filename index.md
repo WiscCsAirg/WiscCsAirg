@@ -14,13 +14,13 @@ gather weekly during the semester to discuss papers in the areas of ML,
 AI, natural language processing, bioinformatics, and (occasionally)
 computer vision.  We are the primary reading group for the [AI
 area](https://research.cs.wisc.edu/areas/ai/) and cater to all its
-various topics, but recently ML has been the focus.
+various topics, but mostly focus on ML.
 
 
 Meetings
 --------
 
-AIRG meets Wednesdays from 4-5pm in MSC 47??.
+AIRG meets Wednesdays from 4-5pm in MSC 4765 during spring 2017.
 
 
 Mission
@@ -52,6 +52,7 @@ Why Participate?
 * Meet your colleagues
 * Satisfy your curiosity and explore new topics
 * Build your résumé (presentations go down in [history](archive.yaml)!)
+* Earn the respect of your peers
 
 
 How it Works
@@ -63,7 +64,7 @@ by contacting the coordinators.  About a week before the assigned
 meeting date, the member announces [2] their paper via the mailing list.
 Other members then read the paper [3] and come to the meeting prepared
 to discuss it.  The volunteering member presents an overview of the
-paper (about 10-20 minutes if uninterrupted) and leads the ensuing
+paper (about 15-30 minutes if uninterrupted) and leads the ensuing
 discussion.  Questions of any kind are always welcome at any time.
 
 [1] A member is anyone who participates!
@@ -99,7 +100,7 @@ Ideas for What to Present
 -------------------------
 
 * Papers from conferences and journals (e.g. NIPS, ICML, JMLR, KDD,
-  IJCAI, AAAI, IJCAI, UAI, ECML-PKDD, AISTATS, RECOMB, CVPR)
+  IJCAI, AAAI, IJCAI, MLJ, UAI, ECML-PKDD, AISTATS, RECOMB, CVPR)
 * Papers / Chapters from the [PhD qualifying exam
   list](http://aiqual.cs.wisc.edu/).  This material is always worth
   reviewing, even for advanced students.
@@ -108,6 +109,7 @@ Ideas for What to Present
 * Papers you have read for your research
 * Material of personal interest and relevance to AIRG
 * Slides about a paper from a talk given at a conference
+* Practice talks of relevance to AIRG
 
 The material should be short enough to discuss in an hour, although, for
 longer topics, we have occasionally arranged "special sessions" that
