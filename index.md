@@ -22,6 +22,9 @@ Meetings
 
 AIRG meets Wednesdays from 4-5pm in MSC 4765 during spring 2017.
 
+Occasionally, when appropriate, AIRG is canceled in favor of the
+[Statistics Seminar](https://www.stat.wisc.edu/seminars).
+
 
 Mission
 -------
