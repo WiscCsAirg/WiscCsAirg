@@ -12,6 +12,8 @@
 
 presentations:
 
+  # Spring 2017
+
   - when: 2017-02-15
     who: Aubrey Barnard
     title: Finding Optimal Bayesian Networks
@@ -29,6 +31,15 @@ presentations:
     year: 2008
     metalink: https://doi.org/10.1093/biostatistics/kxm045
     link: https://academic.oup.com/biostatistics/article-pdf/9/3/432/600643/kxm045.pdf
+
+  - when: 2017-03-08
+    who: Akshay Sood
+    title: A Critical Review of Recurrent Neural Networks for Sequence Learning
+    authors: Zachary C. Lipton, John Berkowitz, Charles Elkan
+    venue: arXiv
+    year: 2015
+    metalink: https://arxiv.org/abs/1506.00019
+    link: https://arxiv.org/pdf/1506.00019
 
 
 #  - when:
