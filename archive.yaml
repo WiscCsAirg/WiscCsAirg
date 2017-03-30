@@ -41,6 +41,15 @@ presentations:
     metalink: https://arxiv.org/abs/1506.00019
     link: https://arxiv.org/pdf/1506.00019
 
+  - when: 2017-03-29
+    who: Hyunwoo Kim
+    title: A Penalized Matrix Decomposition, with Applications to Sparse Principal Components and Canonical Correlation Analysis
+    authors: Daniela M. Witten, Robert Tibshirani, Trevor Hastie
+    venue: Biostatistics
+    year: 2009
+    metalink: https://doi.org/10.1093/biostatistics/kxp008
+    link: https://academic.oup.com/biostatistics/article-pdf/10/3/515/828497/kxp008.pdf
+
 
 #  - when:
 #    who:
@@ -50,3 +59,5 @@ presentations:
 #    year:
 #    metalink:
 #    link:
+
+# TODO additional publication information like volume and issue?
