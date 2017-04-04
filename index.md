@@ -39,8 +39,8 @@ We strive to accommodate differing levels of education and experience
 and to provide a welcoming, accessible, open, and safe environment for
 all participants.
 
-All UW students and community members are welcome to participate in
-AIRG.
+All UW students and interested members of the public are welcome to
+participate in AIRG.
 
 
 Why Participate?
@@ -95,8 +95,8 @@ How to Participate
   [AIRG](https://lists.cs.wisc.edu/mailman/listinfo/airg).  The mailing
   list is the primary means of communication.  All readings are
   announced via the mailing list.  The list is limited to those with a
-  `*.wisc.edu` e-mail address or community members that have showed up
-  to a meeting and asked to sign up.
+  `*wisc.edu` e-mail address or members of the public that have showed
+  up to a meeting and asked to sign up.
 
 
 Ideas for What to Present
