@@ -22,7 +22,7 @@ presentations:
     number: 18
     year: 2002
     metalink: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=849&proceeding_id=18
-    link: https://dslpitt.org/uai/papers/02/p94-chickering.pdf
+    pdflink: https://dslpitt.org/uai/papers/02/p94-chickering.pdf
 
   - when: 2017-03-01
     who: Ronak Mehta
@@ -32,7 +32,7 @@ presentations:
     number: 9(3)
     year: 2008
     metalink: https://doi.org/10.1093/biostatistics/kxm045
-    link: https://academic.oup.com/biostatistics/article-pdf/9/3/432/600643/kxm045.pdf
+    pdflink: https://academic.oup.com/biostatistics/article-pdf/9/3/432/600643/kxm045.pdf
 
   - when: 2017-03-08
     who: Akshay Sood
@@ -41,7 +41,7 @@ presentations:
     venue: arXiv
     year: 2015
     metalink: https://arxiv.org/abs/1506.00019
-    link: https://arxiv.org/pdf/1506.00019
+    pdflink: https://arxiv.org/pdf/1506.00019
 
   - when: 2017-03-29
     who: Hyunwoo Kim
@@ -51,7 +51,7 @@ presentations:
     number: 10(3)
     year: 2009
     metalink: https://doi.org/10.1093/biostatistics/kxp008
-    link: https://academic.oup.com/biostatistics/article-pdf/10/3/515/828497/kxp008.pdf
+    pdflink: https://academic.oup.com/biostatistics/article-pdf/10/3/515/828497/kxp008.pdf
 
   - when: 2017-04-05
     who: Finn Kuusisto
@@ -61,7 +61,7 @@ presentations:
     number: 11(6)
     year: 2015
     metalink: https://doi.org/10.1371/journal.pcbi.1004295
-    link: http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004295&type=printable
+    pdflink: http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004295&type=printable
 
   - when: 2017-04-12
     who: Vamsi Ithapu
@@ -71,14 +71,18 @@ presentations:
     number: 31
     year: 2014
     metalink: http://proceedings.mlr.press/v32/kondor14.html
-    link: http://proceedings.mlr.press/v32/kondor14.pdf
+    pdflink: http://proceedings.mlr.press/v32/kondor14.pdf
+    author_pdflink: http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf
 
 
-#  - when:
-#    who:
-#    title:
-#    authors:
-#    venue:
-#    year:
-#    metalink:
-#    link:
+#  - when:             # date of AIRG, YYYY-MM-DD
+#    who:              # who presented at AIRG
+#    title:            # Title Words in Title Case
+#    authors:          # first middle last, first middle last
+#    venue:            # publication venue, conference, journal, publisher, etc.
+#    number:           # conference #, volume(issue), etc. (optional)
+#    year:             # publication year
+#    metalink:         # link to publisher's page about paper
+#    pdflink:          # link to publisher's PDF
+#    author_metalink:  # link to author's page about paper (if it and `author_pdflink` exist, optional)
+#    author_pdflink:   # link to author's PDF (if different than publisher's PDF, optional)
