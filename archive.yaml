@@ -18,7 +18,8 @@ presentations:
     who: Aubrey Barnard
     title: Finding Optimal Bayesian Networks
     authors: David Maxwell Chickering, Christopher Meek
-    venue: UAI 18
+    venue: UAI
+    number: 18
     year: 2002
     metalink: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=849&proceeding_id=18
     link: https://dslpitt.org/uai/papers/02/p94-chickering.pdf
@@ -28,6 +29,7 @@ presentations:
     title: Sparse Inverse Covariance Estimation with the Graphical Lasso
     authors: Jerome Friedman, Trevor Hastie, Robert Tibshirani
     venue: Biostatistics
+    number: 9(3)
     year: 2008
     metalink: https://doi.org/10.1093/biostatistics/kxm045
     link: https://academic.oup.com/biostatistics/article-pdf/9/3/432/600643/kxm045.pdf
@@ -46,6 +48,7 @@ presentations:
     title: A Penalized Matrix Decomposition, with Applications to Sparse Principal Components and Canonical Correlation Analysis
     authors: Daniela M. Witten, Robert Tibshirani, Trevor Hastie
     venue: Biostatistics
+    number: 10(3)
     year: 2009
     metalink: https://doi.org/10.1093/biostatistics/kxp008
     link: https://academic.oup.com/biostatistics/article-pdf/10/3/515/828497/kxp008.pdf
@@ -55,6 +58,7 @@ presentations:
     title: Inferring Regulatory Networks from Experimental Morphological Phenotypes: A Computational Method Reverse-Engineers Planarian Regeneration
     authors: Daniel Lobo, Michael Levin
     venue: PLOS Computational Biology
+    number: 11(6)
     year: 2015
     metalink: https://doi.org/10.1371/journal.pcbi.1004295
     link: http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004295&type=printable
@@ -63,7 +67,8 @@ presentations:
     who: Vamsi Ithapu
     title: Multiresolution Matrix Factorization
     authors: Risi Kondor, Nedelina Teneva, Vikas Garg
-    venue: ICML 31
+    venue: ICML
+    number: 31
     year: 2014
     metalink: http://proceedings.mlr.press/v32/kondor14.html
     link: http://proceedings.mlr.press/v32/kondor14.pdf
@@ -77,5 +82,3 @@ presentations:
 #    year:
 #    metalink:
 #    link:
-
-# TODO additional publication information like volume and issue?
