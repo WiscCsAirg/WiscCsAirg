@@ -20,7 +20,7 @@ various topics, but mostly focus on ML.
 Meetings
 --------
 
-AIRG meets Wednesdays from 4-5pm in MSC 4765 during spring 2017.
+AIRG meets Wednesdays from 4-5pm in MSC 4765 during fall 2017.
 
 Occasionally, when appropriate, AIRG is canceled in favor of the
 [Statistics Seminar](https://www.stat.wisc.edu/seminars).
@@ -67,7 +67,7 @@ by contacting the coordinators.  About a week before the assigned
 meeting date, the member announces [2] their paper via the mailing list.
 Other members then read the paper [3] and come to the meeting prepared
 to discuss it.  The volunteering member presents an overview of the
-paper (about 15-30 minutes if uninterrupted) and leads the ensuing
+paper (about 30-45 minutes if uninterrupted) and leads the ensuing
 discussion.  Questions of any kind are always welcome at any time.
 
 [1] A member is anyone who participates!
@@ -95,8 +95,8 @@ How to Participate
   [AIRG](https://lists.cs.wisc.edu/mailman/listinfo/airg).  The mailing
   list is the primary means of communication.  All readings are
   announced via the mailing list.  The list is limited to those with a
-  `*wisc.edu` e-mail address or members of the public that have showed
-  up to a meeting and asked to sign up.
+  `*wisc.edu` e-mail address or members of the public that have shown up
+  to a meeting and asked to sign up.
 
 
 Ideas for What to Present
