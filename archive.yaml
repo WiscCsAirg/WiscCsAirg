@@ -74,6 +74,35 @@ presentations:
     pdflink: http://proceedings.mlr.press/v32/kondor14.pdf
     author_pdflink: http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf
 
+  - when: 2017-04-19
+    who: Ara Vartanian
+    title: Wasserstein GAN
+    authors: Martin Arjovsky, Soumith Chintala, Léon Bottou
+    venue: arXiv
+    year: 2017
+    metalink: https://arxiv.org/abs/1701.07875
+    pdflink: https://arxiv.org/pdf/1701.07875
+
+  - when: 2017-04-26
+    who: Sid Kiblawi
+    title: Data Programming: Creating Large Training Sets, Quickly
+    authors: Alexander J. Ratner, Christopher M. De Sa, Sen Wu, Daniel Selsam, Christopher Ré
+    venue: NIPS
+    number: 29
+    year: 2016
+    metalink: https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly
+    pdflink: https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf
+
+  - when: 2017-05-03
+    who: Charles Kuang
+    title: Trace Lasso: A Trace Norm Regularization for Correlated Designs
+    authors: Edouard Grave, Guillaume R. Obozinski, Francis R. Bach
+    venue: NIPS
+    number: 24
+    year: 2011
+    metalink: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs
+    pdflink: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs.pdf
+
 
 #  - when:             # date of AIRG, YYYY-MM-DD
 #    who:              # who presented at AIRG
