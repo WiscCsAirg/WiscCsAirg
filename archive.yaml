@@ -12,6 +12,166 @@
 
 presentations:
 
+  # Spring 2002
+
+  - when: 2002-02-01
+    who: Marios Skounakis
+    title: Global Training of Document Processing Systems using Graph Transformer Networks
+    authors: Léon Bottou, Yoshua Bengio, Yann Le Cun
+    venue: CVPR
+    year: 1997
+    metalink: http://ieeexplore.ieee.org/document/609370/
+    author_metalink: http://yann.lecun.com/exdb/publis/index.html
+    author_pdflink: http://yann.lecun.com/exdb/publis/pdf/bottou-lecun-bengio-97.pdf
+
+  - when: 2002-02-15
+    who:  Mark Rich
+    title: Stochastic Logic Programs
+    authors: Stephen Muggleton
+    venue: Advances in Inductive Logic Programming, IOS Press
+    year: 1996
+    author_metalink: http://www.doc.ic.ac.uk/~shm/mypubs.html
+    author_pdflink: http://www.doc.ic.ac.uk/~shm/Papers/slp.pdf
+
+  - when: 2002-02-15
+    who: Mark Rich
+    title: Learning Stochastic Logic Programs
+    authors: Stephen Muggleton
+    venue: AAAI Technical Report
+    number: WS-00-06
+    year: 2000
+    metalink: http://www.aaai.org/Library/Workshops/ws00-06.php
+    pdflink: https://www.aaai.org/Papers/Workshops/2000/WS-00-06/WS00-06-006.pdf
+    author_metalink: http://www.doc.ic.ac.uk/~shm/mypubs.html
+    author_pdflink: http://www.doc.ic.ac.uk/~shm/Papers/slplearn.pdf
+
+  - when: 2002-03-01
+    who: Irene Ong
+    title: Feature Construction with Version Spaces for Biochemical Applications
+    authors: Stefan Kramer, Luc De Raedt
+    venue: ICML
+    number: 18
+    year: 2001
+    metalink: http://dl.acm.org/citation.cfm?id=655667
+    author_pdflink: https://lirias.kuleuven.be/bitstream/123456789/134426/1/icml01.pdf
+
+  - when: 2002-03-01
+    who: Irene Ong
+    title: Feature Selection for High-Dimensional Genomic Microarray Data
+    authors: Eric P. Xing, Michael I. Jordan, Richard M. Karp
+    venue: ICML
+    number: 18
+    year: 2001
+    metalink: http://dl.acm.org/citation.cfm?id=655823
+
+  - when: 2002-03-15
+    who: Glenn Fung
+    title: A Tutorial on Support Vector Machines for Pattern Recognition
+    authors: Christopher J. C. Burges
+    venue: Data Mining and Knowledge Discovery
+    number: 2
+    year: 1998
+    metalink: https://link.springer.com/article/10.1023/A:1009715923555
+
+  - when: 2002-04-12
+    who: Darryl Roy
+    title: The Ant Colony Optimization Metaheuristic: Algorithms, Applications, and Advances
+    authors: Marco Dorigo, Thomas Stützle
+    venue: Handbook of Metaheuristics, ISOR
+    number: 57
+    year: 2003
+    metalink: https://link.springer.com/chapter/10.1007/0-306-48056-5_9
+
+  - when: 2002-04-26
+    who: Joe Bockhorst
+    title: Exploiting Generative Models in Discriminative Classifiers
+    authors: Tommi Jaakkola, David Haussler
+    venue: NIPS
+    number: 11
+    year: 1998
+    metalink: https://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers
+    pdflink: https://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers.pdf
+
+  - when: 2002-04-26
+    who: Joe Bockhorst
+    title: A Discriminative Framework for Detecting Remote Protein Homologies
+    authors: Tommi Jaakkola, Mark Diekhans, David Haussler
+    venue: Journal of Computational Biology
+    number: 7
+    year: 2000
+    metalink: https://doi.org/10.1089/10665270050081405
+
+  # Fall 2002
+
+  - when: 2002-09-13
+    who: Soumya Ray
+    title: Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods
+    authors: Robert E. Shapire, Yoav Freund, Peter Bartlett, Wee Sun Lee
+    venue: Annals of Statistics
+    number: 26
+    year: 1998
+    metalink: https://projecteuclid.org/euclid.aos/1024691352
+    author_pdflink: https://cseweb.ucsd.edu/~yfreund/papers/BoostingtheMargin.pdf
+
+  - when: 2002-09-27
+    who: Louis Oliphant
+    title: Data Perturbation for Escaping Local Maxima in Learning
+    authors: Gal Elidan, Matan Ninio, Nir Friedman, Dale Shuurmans
+    venue: AAAI
+    number: 18
+    year: 2002
+    metalink: http://www.aaai.org/Library/AAAI/2002/aaai02-021.php
+    pdflink: http://www.aaai.org/Papers/AAAI/2002/AAAI02-021.pdf
+    author_pdflink: http://pluto.huji.ac.il/~galelidan/papers/ElidanAnneal.pdf
+
+  - when: 2002-10-11
+    who: Mark Rich
+    title: Boosted Wrapper Induction
+    authors: Dayne Freitag, Nicholas Kushmerick
+    venue: AAAI
+    number: 17
+    year: 2000
+    metalink: http://www.aaai.org/Library/AAAI/2000/aaai00-088.php
+    pdflink: http://www.aaai.org/Papers/AAAI/2000/AAAI00-088.pdf
+
+  - when: 2002-10-25
+    who: Frank DiMaio
+    title: A Study of Two Probabilistic Methods for Searching Large Spaces with ILP
+    authors: Ashwin Srinivasan
+    year: 1999
+
+  - when: 2002-11-08
+    who: Sean McIlwain
+    title: A Sequence-Profile-Based HMM for Predicting and Discriminating β Barrel Membrane Proteins
+    authors: Pier Luigi Martelli, Piero Fariselli, Anders Krogh, Rita Casadio
+    venue: Bioinformatics
+    number: 18
+    year: 2002
+    metalink: https://doi.org/10.1093/bioinformatics/18.suppl_1.S46
+    pdflink: https://academic.oup.com/bioinformatics/article-pdf/18/suppl_1/S46/629337/18S046.pdf
+    author_pdflink: http://people.binf.ku.dk/krogh/publications/pdf/MartelliEtal02.pdf
+
+  - when: 2002-11-22
+    who: Michael Molla
+    title: "Genes, Themes, and Microarrays: Using Information Retrieval for Large-Scale Gene Analysis"
+    authors: Hagit Shatkay, Stephen Edwards, W. John Wilbur, Mark Boguski
+    venue: ISMB
+    number: 8
+    year: 2000
+    metalink: https://aaai.org/Library/ISMB/ismb00contents.php
+    pdflink: https://aaai.org/Papers/ISMB/2000/ISMB00-033.pdf
+    author_pdflink: https://www.eecis.udel.edu/~shatkay/papers/ismb2000.pdf
+
+  - when: 2002-12-06
+    who: Glenn Fung
+    title: Transductive Inference for Text Classification using Support Vector Machines
+    authors: Thorsten Joachims
+    venue: ICML
+    number: 16
+    year: 1999
+    metalink: http://dl.acm.org/citation.cfm?id=657646
+    author_pdflink: https://www.cs.cornell.edu/people/tj/publications/joachims_99c.pdf
+
   # Spring 2017
 
   - when: 2017-02-15
