@@ -10,9 +10,10 @@ Machine Learning and Artificial Intelligence Reading Group
 We are the machine learning and artificial intelligence reading group
 (AIRG) in the [Computer Sciences Department](https://www.cs.wisc.edu/)
 at the [University of Wisconsin -- Madison](http://www.wisc.edu/).  We
-gather weekly during the semester to discuss papers in the areas of ML,
-AI, natural language processing, bioinformatics, and (occasionally)
-computer vision.  We are the primary reading group for the [AI
+gather weekly during the semester to discuss papers in the areas of
+machine learning (ML), artificial intelligence (AI), natural language
+processing (NLP), bioinformatics, and computer vision (CV).  We are the
+primary reading group for the [AI
 area](https://research.cs.wisc.edu/areas/ai/) and cater to all its
 various topics, but mostly focus on ML.
 
