@@ -55,7 +55,7 @@ Why Participate?
 * Keep up with developments in ML and AI
 * Meet your colleagues
 * Satisfy your curiosity and explore new topics
-* Build your résumé (presentations go down in [history](archive.yaml)!)
+* Build your résumé (presentations go down in [history](archive.html)!)
 * Earn the respect of your peers
 
 
@@ -130,5 +130,5 @@ Coordinators
 Archive
 -------
 
-We have an [archive](archive.yaml) (under construction) of all the AIRG
+We have an [archive](archive.html) (under construction) of all the AIRG
 meetings going back to 2001!
