@@ -26,6 +26,11 @@ Website Update Process
     will just be copied as is.
   * Site mechanics are in `_config.yml`, `_layouts`, `_includes`, and
     `css`
+* To update the archive, edit `archive.yaml` and then run
+
+      python3 archive.py archive.yaml > archive.md
+
+  Then commit both `archive.yaml` and `archive.md`.
 * Optionally preview your work with Jekyll locally (https://jekyllrb.com/docs/usage/)
   * Installing Jekyll on Fedora:
     https://developer.fedoraproject.org/start/sw/web-app/jekyll.html
@@ -42,8 +47,8 @@ Website Update Process
     * http://bundler.io/v1.9/man/gemfile.5.html
     * http://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/
     * http://bundler.io/v1.12/bundler_workflow.html
-* Push your branch
-* Merge the branch into `master`
+* Merge the branch into `master` and delete the branch
+* Push `master`
 
 
 Style
