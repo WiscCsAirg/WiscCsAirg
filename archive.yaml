@@ -1,14 +1,13 @@
 %YAML 1.2
 ---
 
-# Archive of AIRG presentations
+# Archive of AIRG presentations, based in part on the old AIRG archive:
+# http://research.cs.wisc.edu/areas/ai/airg/archive.html
 #
 # Copyright (c) 2017 AIRG Authors (CC-BY).  This is a free culture work
 # licensed to the public under a Creative Commons Attribution 4.0
 # International License (https://creativecommons.org/licenses/by/4.0/).
 
-
-# TODO copy in archive from: http://research.cs.wisc.edu/areas/ai/airg/archive.html
 
 presentations:
 
@@ -28,7 +27,8 @@ presentations:
     who:  Mark Rich
     title: Stochastic Logic Programs
     authors: Stephen Muggleton
-    venue: Advances in Inductive Logic Programming, IOS Press
+    venue: Advances in Inductive Logic Programming
+    series: IOS Press
     year: 1996
     author_metalink: http://www.doc.ic.ac.uk/~shm/mypubs.html
     author_pdflink: http://www.doc.ic.ac.uk/~shm/Papers/slp.pdf
@@ -37,8 +37,8 @@ presentations:
     who: Mark Rich
     title: Learning Stochastic Logic Programs
     authors: Stephen Muggleton
-    venue: AAAI Technical Report
-    number: WS-00-06
+    venue: AAAI
+    number: Technical Report WS-00-06
     year: 2000
     metalink: http://www.aaai.org/Library/Workshops/ws00-06.php
     pdflink: https://www.aaai.org/Papers/Workshops/2000/WS-00-06/WS00-06-006.pdf
@@ -75,10 +75,11 @@ presentations:
 
   - when: 2002-04-12
     who: Darryl Roy
-    title: The Ant Colony Optimization Metaheuristic: Algorithms, Applications, and Advances
+    title: "The Ant Colony Optimization Metaheuristic: Algorithms, Applications, and Advances"
     authors: Marco Dorigo, Thomas Stützle
-    venue: Handbook of Metaheuristics, ISOR
+    venue: Handbook of Metaheuristics
     number: 57
+    series: International Series in Operations Research
     year: 2003
     metalink: https://link.springer.com/chapter/10.1007/0-306-48056-5_9
 
@@ -105,7 +106,7 @@ presentations:
 
   - when: 2002-09-13
     who: Soumya Ray
-    title: Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods
+    title: "Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods"
     authors: Robert E. Shapire, Yoav Freund, Peter Bartlett, Wee Sun Lee
     venue: Annals of Statistics
     number: 26
@@ -215,7 +216,7 @@ presentations:
 
   - when: 2017-04-05
     who: Finn Kuusisto
-    title: Inferring Regulatory Networks from Experimental Morphological Phenotypes: A Computational Method Reverse-Engineers Planarian Regeneration
+    title: "Inferring Regulatory Networks from Experimental Morphological Phenotypes: A Computational Method Reverse-Engineers Planarian Regeneration"
     authors: Daniel Lobo, Michael Levin
     venue: PLOS Computational Biology
     number: 11(6)
@@ -245,7 +246,7 @@ presentations:
 
   - when: 2017-04-26
     who: Sid Kiblawi
-    title: Data Programming: Creating Large Training Sets, Quickly
+    title: "Data Programming: Creating Large Training Sets, Quickly"
     authors: Alexander J. Ratner, Christopher M. De Sa, Sen Wu, Daniel Selsam, Christopher Ré
     venue: NIPS
     number: 29
@@ -255,7 +256,7 @@ presentations:
 
   - when: 2017-05-03
     who: Charles Kuang
-    title: Trace Lasso: A Trace Norm Regularization for Correlated Designs
+    title: "Trace Lasso: A Trace Norm Regularization for Correlated Designs"
     authors: Edouard Grave, Guillaume R. Obozinski, Francis R. Bach
     venue: NIPS
     number: 24
@@ -270,6 +271,7 @@ presentations:
 #    authors:          # first middle last, first middle last
 #    venue:            # publication venue, conference, journal, publisher, etc.
 #    number:           # conference #, volume(issue), etc. (optional)
+#    series:           # series (if needed)
 #    year:             # publication year
 #    metalink:         # link to publisher's page about paper
 #    pdflink:          # link to publisher's PDF

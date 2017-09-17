@@ -1,10 +1,27 @@
 ---
 ---
 
-// Use Minima theme as the base style
+/* Use Minima theme as the base style */
 @import "minima";
 
-// Center page titles
+/* Center page titles */
 h1 {
     text-align: center;
+}
+
+/* Archive formatting */
+.archive > .year {
+  font-size: 150%;
+}
+.archive > dd {
+  margin-left: 3em;
+}
+li.paper {
+  margin-bottom: 1em;
+}
+.paper > p {
+  margin: 0;
+}
+.paper > .title {
+  font-size: 125%;
 }
