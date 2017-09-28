@@ -19,9 +19,12 @@ presentations:
     authors: Léon Bottou, Yoshua Bengio, Yann Le Cun
     venue: CVPR
     year: 1997
-    metalink: http://ieeexplore.ieee.org/document/609370/
-    author_metalink: http://yann.lecun.com/exdb/publis/index.html
-    author_pdflink: http://yann.lecun.com/exdb/publis/pdf/bottou-lecun-bengio-97.pdf
+    links:
+      venue:
+        meta: https://doi.org/10.1109/CVPR.1997.609370
+      author:
+        toc: http://yann.lecun.com/exdb/publis/index.html
+        pdf: http://yann.lecun.com/exdb/publis/pdf/bottou-lecun-bengio-97.pdf
 
   - when: 2002-02-15
     who:  Mark Rich
@@ -30,8 +33,10 @@ presentations:
     venue: Advances in Inductive Logic Programming
     series: IOS Press
     year: 1996
-    author_metalink: http://www.doc.ic.ac.uk/~shm/mypubs.html
-    author_pdflink: http://www.doc.ic.ac.uk/~shm/Papers/slp.pdf
+    links:
+      author:
+        toc: http://www.doc.ic.ac.uk/~shm/mypubs.html
+        pdf: http://www.doc.ic.ac.uk/~shm/Papers/slp.pdf
 
   - when: 2002-02-15
     who: Mark Rich
@@ -40,10 +45,14 @@ presentations:
     venue: AAAI
     number: Technical Report WS-00-06
     year: 2000
-    metalink: http://www.aaai.org/Library/Workshops/ws00-06.php
-    pdflink: https://www.aaai.org/Papers/Workshops/2000/WS-00-06/WS00-06-006.pdf
-    author_metalink: http://www.doc.ic.ac.uk/~shm/mypubs.html
-    author_pdflink: http://www.doc.ic.ac.uk/~shm/Papers/slplearn.pdf
+    links:
+      venue:
+        toc:  http://www.aaai.org/Library/Workshops/ws00-06.php
+        meta: http://www.aaai.org/Library/Workshops/2000/ws00-06-006.php
+        pdf:  https://www.aaai.org/Papers/Workshops/2000/WS-00-06/WS00-06-006.pdf
+      author:
+        toc: http://www.doc.ic.ac.uk/~shm/mypubs.html
+        pdf: http://www.doc.ic.ac.uk/~shm/Papers/slplearn.pdf
 
   - when: 2002-03-01
     who: Irene Ong
@@ -52,8 +61,11 @@ presentations:
     venue: ICML
     number: 18
     year: 2001
-    metalink: http://dl.acm.org/citation.cfm?id=655667
-    author_pdflink: https://lirias.kuleuven.be/bitstream/123456789/134426/1/icml01.pdf
+    links:
+      venue:
+        meta: http://dl.acm.org/citation.cfm?id=655667
+      author:
+        pdf:  https://lirias.kuleuven.be/bitstream/123456789/134426/1/icml01.pdf
 
   - when: 2002-03-01
     who: Irene Ong
@@ -62,7 +74,9 @@ presentations:
     venue: ICML
     number: 18
     year: 2001
-    metalink: http://dl.acm.org/citation.cfm?id=655823
+    links:
+      venue:
+        meta: http://dl.acm.org/citation.cfm?id=655823
 
   - when: 2002-03-15
     who: Glenn Fung
@@ -71,7 +85,9 @@ presentations:
     venue: Data Mining and Knowledge Discovery
     number: 2
     year: 1998
-    metalink: https://link.springer.com/article/10.1023/A:1009715923555
+    links:
+      venue:
+        meta: https://doi.org/10.1023/A:1009715923555
 
   - when: 2002-04-12
     who: Darryl Roy
@@ -81,7 +97,9 @@ presentations:
     number: 57
     series: International Series in Operations Research
     year: 2003
-    metalink: https://link.springer.com/chapter/10.1007/0-306-48056-5_9
+    links:
+      venue:
+        meta: https://doi.org/10.1007/0-306-48056-5_9
 
   - when: 2002-04-26
     who: Joe Bockhorst
@@ -90,8 +108,11 @@ presentations:
     venue: NIPS
     number: 11
     year: 1998
-    metalink: https://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers
-    pdflink: https://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers.pdf
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-11-1998
+        meta: https://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers
+        pdf:  https://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers.pdf
 
   - when: 2002-04-26
     who: Joe Bockhorst
@@ -100,7 +121,9 @@ presentations:
     venue: Journal of Computational Biology
     number: 7
     year: 2000
-    metalink: https://doi.org/10.1089/10665270050081405
+    links:
+      venue:
+        meta: https://doi.org/10.1089/10665270050081405
 
   # Fall 2002
 
@@ -111,8 +134,11 @@ presentations:
     venue: Annals of Statistics
     number: 26
     year: 1998
-    metalink: https://projecteuclid.org/euclid.aos/1024691352
-    author_pdflink: https://cseweb.ucsd.edu/~yfreund/papers/BoostingtheMargin.pdf
+    links:
+      venue:
+        meta: https://doi.org/10.1214/aos/1024691352
+      author:
+        pdf:  https://cseweb.ucsd.edu/~yfreund/papers/BoostingtheMargin.pdf
 
   - when: 2002-09-27
     who: Louis Oliphant
@@ -121,9 +147,13 @@ presentations:
     venue: AAAI
     number: 18
     year: 2002
-    metalink: http://www.aaai.org/Library/AAAI/2002/aaai02-021.php
-    pdflink: http://www.aaai.org/Papers/AAAI/2002/AAAI02-021.pdf
-    author_pdflink: http://pluto.huji.ac.il/~galelidan/papers/ElidanAnneal.pdf
+    links:
+      venue:
+        toc:  http://www.aaai.org/Library/AAAI/aaai02contents.php
+        meta: http://www.aaai.org/Library/AAAI/2002/aaai02-021.php
+        pdf:  http://www.aaai.org/Papers/AAAI/2002/AAAI02-021.pdf
+      author:
+        pdf:  http://pluto.huji.ac.il/~galelidan/papers/ElidanAnneal.pdf
 
   - when: 2002-10-11
     who: Mark Rich
@@ -132,8 +162,11 @@ presentations:
     venue: AAAI
     number: 17
     year: 2000
-    metalink: http://www.aaai.org/Library/AAAI/2000/aaai00-088.php
-    pdflink: http://www.aaai.org/Papers/AAAI/2000/AAAI00-088.pdf
+    links:
+      venue:
+        toc:  http://www.aaai.org/Library/AAAI/aaai00contents.php
+        meta: http://www.aaai.org/Library/AAAI/2000/aaai00-088.php
+        pdf:  http://www.aaai.org/Papers/AAAI/2000/AAAI00-088.pdf
 
   - when: 2002-10-25
     who: Frank DiMaio
@@ -148,9 +181,12 @@ presentations:
     venue: Bioinformatics
     number: 18
     year: 2002
-    metalink: https://doi.org/10.1093/bioinformatics/18.suppl_1.S46
-    pdflink: https://academic.oup.com/bioinformatics/article-pdf/18/suppl_1/S46/629337/18S046.pdf
-    author_pdflink: http://people.binf.ku.dk/krogh/publications/pdf/MartelliEtal02.pdf
+    links:
+      venue:
+        meta: https://doi.org/10.1093/bioinformatics/18.suppl_1.S46
+        pdf:  https://academic.oup.com/bioinformatics/article-pdf/18/suppl_1/S46/629337/18S046.pdf
+      author:
+        pdf:  http://people.binf.ku.dk/krogh/publications/pdf/MartelliEtal02.pdf
 
   - when: 2002-11-22
     who: Michael Molla
@@ -159,9 +195,13 @@ presentations:
     venue: ISMB
     number: 8
     year: 2000
-    metalink: https://aaai.org/Library/ISMB/ismb00contents.php
-    pdflink: https://aaai.org/Papers/ISMB/2000/ISMB00-033.pdf
-    author_pdflink: https://www.eecis.udel.edu/~shatkay/papers/ismb2000.pdf
+    links:
+      venue:
+        toc:  https://aaai.org/Library/ISMB/ismb00contents.php
+        meta: https://aaai.org/Library/ISMB/2000/ismb00-033.php
+        pdf:  https://aaai.org/Papers/ISMB/2000/ISMB00-033.pdf
+      author:
+        pdf:  https://www.eecis.udel.edu/~shatkay/papers/ismb2000.pdf
 
   - when: 2002-12-06
     who: Glenn Fung
@@ -170,8 +210,11 @@ presentations:
     venue: ICML
     number: 16
     year: 1999
-    metalink: http://dl.acm.org/citation.cfm?id=657646
-    author_pdflink: https://www.cs.cornell.edu/people/tj/publications/joachims_99c.pdf
+    links:
+      venue:
+        meta: http://dl.acm.org/citation.cfm?id=657646
+      author:
+        pdf:  https://www.cs.cornell.edu/people/tj/publications/joachims_99c.pdf
 
   # Spring 2017
 
@@ -182,8 +225,10 @@ presentations:
     venue: UAI
     number: 18
     year: 2002
-    metalink: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=849&proceeding_id=18
-    pdflink: https://dslpitt.org/uai/papers/02/p94-chickering.pdf
+    links:
+      venue:
+        meta: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=849&proceeding_id=18
+        pdf:  https://dslpitt.org/uai/papers/02/p94-chickering.pdf
 
   - when: 2017-03-01
     who: Ronak Mehta
@@ -192,8 +237,10 @@ presentations:
     venue: Biostatistics
     number: 9(3)
     year: 2008
-    metalink: https://doi.org/10.1093/biostatistics/kxm045
-    pdflink: https://academic.oup.com/biostatistics/article-pdf/9/3/432/600643/kxm045.pdf
+    links:
+      venue:
+        meta: https://doi.org/10.1093/biostatistics/kxm045
+        pdf:  https://academic.oup.com/biostatistics/article-pdf/9/3/432/600643/kxm045.pdf
 
   - when: 2017-03-08
     who: Akshay Sood
@@ -201,8 +248,11 @@ presentations:
     authors: Zachary C. Lipton, John Berkowitz, Charles Elkan
     venue: arXiv
     year: 2015
-    metalink: https://arxiv.org/abs/1506.00019
-    pdflink: https://arxiv.org/pdf/1506.00019
+    links:
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1506
+        meta: https://arxiv.org/abs/1506.00019
+        pdf:  https://arxiv.org/pdf/1506.00019
 
   - when: 2017-03-29
     who: Hyunwoo Kim
@@ -211,8 +261,10 @@ presentations:
     venue: Biostatistics
     number: 10(3)
     year: 2009
-    metalink: https://doi.org/10.1093/biostatistics/kxp008
-    pdflink: https://academic.oup.com/biostatistics/article-pdf/10/3/515/828497/kxp008.pdf
+    links:
+      venue:
+        meta: https://doi.org/10.1093/biostatistics/kxp008
+        pdf:  https://academic.oup.com/biostatistics/article-pdf/10/3/515/828497/kxp008.pdf
 
   - when: 2017-04-05
     who: Finn Kuusisto
@@ -221,8 +273,10 @@ presentations:
     venue: PLOS Computational Biology
     number: 11(6)
     year: 2015
-    metalink: https://doi.org/10.1371/journal.pcbi.1004295
-    pdflink: http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004295&type=printable
+    links:
+      venue:
+        meta: https://doi.org/10.1371/journal.pcbi.1004295
+        pdf:  http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004295&type=printable
 
   - when: 2017-04-12
     who: Vamsi Ithapu
@@ -231,18 +285,30 @@ presentations:
     venue: ICML
     number: 31
     year: 2014
-    metalink: http://proceedings.mlr.press/v32/kondor14.html
-    pdflink: http://proceedings.mlr.press/v32/kondor14.pdf
-    author_pdflink: http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf
+    links:
+      venue:
+        toc:  http://proceedings.mlr.press/v32/
+        meta: http://proceedings.mlr.press/v32/kondor14.html
+        pdf:  http://proceedings.mlr.press/v32/kondor14.pdf
+      author:
+        pdf:  http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf
 
   - when: 2017-04-19
     who: Ara Vartanian
-    title: Wasserstein GAN
+    title: Wasserstein Generative Adversarial Networks
     authors: Martin Arjovsky, Soumith Chintala, Léon Bottou
-    venue: arXiv
+    venue: ICML
+    number: 34
     year: 2017
-    metalink: https://arxiv.org/abs/1701.07875
-    pdflink: https://arxiv.org/pdf/1701.07875
+    links:
+      venue:
+        toc:  http://proceedings.mlr.press/v70/
+        meta: http://proceedings.mlr.press/v70/arjovsky17a.html
+        pdf:  http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/stat.ML/1701
+        meta: https://arxiv.org/abs/1701.07875
+        pdf:  https://arxiv.org/pdf/1701.07875
 
   - when: 2017-04-26
     who: Sid Kiblawi
@@ -251,8 +317,11 @@ presentations:
     venue: NIPS
     number: 29
     year: 2016
-    metalink: https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly
-    pdflink: https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016
+        meta: https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly
+        pdf:  https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf
 
   - when: 2017-05-03
     who: Charles Kuang
@@ -261,19 +330,34 @@ presentations:
     venue: NIPS
     number: 24
     year: 2011
-    metalink: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs
-    pdflink: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs.pdf
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-24-2011
+        meta: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs
+        pdf:  https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs.pdf
 
 
-#  - when:             # date of AIRG, YYYY-MM-DD
-#    who:              # who presented at AIRG
-#    title:            # Title Words in Title Case
-#    authors:          # first middle last, first middle last
-#    venue:            # publication venue, conference, journal, publisher, etc.
-#    number:           # conference #, volume(issue), etc. (optional)
-#    series:           # series (if needed)
-#    year:             # publication year
-#    metalink:         # link to publisher's page about paper
-#    pdflink:          # link to publisher's PDF
-#    author_metalink:  # link to author's page about paper (if it and `author_pdflink` exist, optional)
-#    author_pdflink:   # link to author's PDF (if different than publisher's PDF, optional)
+#  - when:     # date of AIRG, YYYY-MM-DD
+#    who:      # who presented at AIRG
+#    title:    # Title Words in Title Case
+#    authors:  # first middle last, first middle last
+#    venue:    # publication venue, conference, journal, publisher, etc.
+#    number:   # conference #, volume(issue), etc. (optional)
+#    series:   # series (if needed)
+#    year:     # publication year
+#    links:    # Provide as many of the links as make sense or as can
+#              # easily be found, with preference to the canonical
+#              # version from the publisher (venue) using a DOI link.
+#              # Aim for at least one 'meta' and one 'pdf' as possible.
+#      venue:
+#        toc:  # link to table of contents for venue
+#        meta: # link to publisher's page about paper
+#        pdf:  # link to publisher's PDF
+#      arxiv:
+#        toc:  # link to table of contents for group
+#        meta: # link to page about paper on arXiv
+#        pdf:  # link to paper on arXiv (inferable from meta-link)
+#      author:
+#        toc:  # link to an author's list of publications
+#        meta: # link to an author's page about paper
+#        pdf:  # link to an author's PDF

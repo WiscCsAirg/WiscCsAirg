@@ -28,6 +28,18 @@ def link(content, url):
     return '<a href="{}">{}</a>'.format(url, content)
 
 
+def prune_empty_values(dict_):
+    new_dict = {}
+    for key, val in dict_.items():
+        if isinstance(val, dict):
+            new_val = prune_empty_values(val)
+            if new_val:
+                new_dict[key] = new_val
+        elif val:
+            new_dict[key] = val
+    return new_dict
+
+
 # Script
 
 
@@ -79,10 +91,7 @@ for presentation in presentations:
     pub_number = presentation.get('number')
     pub_series = presentation.get('series')
     pub_year = presentation.get('year')
-    link_venu_meta = presentation.get('metalink')
-    link_venu_pdf = presentation.get('pdflink')
-    link_auth_meta = presentation.get('author_metalink')
-    link_auth_pdf = presentation.get('author_pdflink')
+    links = presentation.get('links')
 
     # Start a new year if necessary
     curr_year = pres_when.year
@@ -123,28 +132,29 @@ for presentation in presentations:
         output.write('</p>\n')
 
     # Links
-    has_venu_link = link_venu_meta or link_venu_pdf
-    has_auth_link = link_auth_meta or link_auth_pdf
-    if has_venu_link or has_auth_link:
+    if isinstance(links, dict):
+        links = prune_empty_values(links)
+    if links:
         output.write('<p class="links">')
-        if has_venu_link:
-            output.write('venue: ')
-            if link_venu_meta:
-                output.write(link('meta', link_venu_meta))
-            if link_venu_meta and link_venu_pdf:
-                output.write(' ')
-            if link_venu_pdf:
-                output.write(link('pdf', link_venu_pdf))
-        if has_venu_link and has_auth_link:
-            output.write(' | ')
-        if has_auth_link:
-            output.write('author: ')
-            if link_auth_meta:
-                output.write(link('meta', link_auth_meta))
-            if link_auth_meta and link_auth_pdf:
-                output.write(' ')
-            if link_auth_pdf:
-                output.write(link('pdf', link_auth_pdf))
+        n_sections = 0
+        for link_section in ('venue', 'arxiv', 'author'):
+            if link_section not in links:
+                continue
+            link_types = links[link_section]
+            if n_sections >= 1:
+                output.write(' | ')
+            output.write(link_section)
+            output.write(': ')
+            n_types = 0
+            for link_type in ('toc', 'meta', 'pdf'):
+                if link_type not in link_types:
+                    continue
+                link_url = link_types[link_type]
+                if n_types >= 1:
+                    output.write(' ')
+                output.write(link(link_type, link_url))
+                n_types += 1
+            n_sections += 1
         output.write('</p>\n')
 
     # End the paper list item
