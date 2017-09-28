@@ -336,6 +336,34 @@ presentations:
         meta: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs
         pdf:  https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs.pdf
 
+  - when: 2017-09-20
+    who: Ross Kleiman
+    title: Artificial Intelligence and Life in 2030
+    authors: Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, Shivaram Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie Shah, Milind Tambe, Astro Teller
+    venue: One Hundred Year Study on Artificial Intelligence, Stanford University
+    year: 2016
+    links:
+      venue:
+        toc:  https://ai100.stanford.edu/
+        meta: https://ai100.stanford.edu/2016-report
+        pdf:  https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf
+
+  - when: 2017-09-27
+    who: Hyunwoo Kim
+    title: Scene Graph Generation by Iterative Message Passing
+    authors: Danfei Xu, Yuke Zhu, Christopher B. Choy, Li Fei-Fei
+    venue: CVPR
+    year: 2017
+    links:
+      venue:
+        toc:  http://openaccess.thecvf.com/CVPR2017.py
+        meta: http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Scene_Graph_Generation_CVPR_2017_paper.html
+        pdf:  http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Scene_Graph_Generation_CVPR_2017_paper.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CV/1701
+        meta: https://arxiv.org/abs/1701.02426
+        pdf:  https://arxiv.org/pdf/1701.02426
+
 
 #  - when:     # date of AIRG, YYYY-MM-DD
 #    who:      # who presented at AIRG
