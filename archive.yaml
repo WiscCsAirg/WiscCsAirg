@@ -125,6 +125,7 @@ presentations:
       venue:
         meta: https://doi.org/10.1089/10665270050081405
 
+
   # Fall 2002
 
   - when: 2002-09-13
@@ -215,6 +216,7 @@ presentations:
         meta: http://dl.acm.org/citation.cfm?id=657646
       author:
         pdf:  https://www.cs.cornell.edu/people/tj/publications/joachims_99c.pdf
+
 
   # Spring 2017
 
@@ -336,6 +338,9 @@ presentations:
         meta: https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs
         pdf:  https://papers.nips.cc/paper/4277-trace-lasso-a-trace-norm-regularization-for-correlated-designs.pdf
 
+
+  # Fall 2017
+
   - when: 2017-09-20
     who: Ross Kleiman
     title: Artificial Intelligence and Life in 2030
@@ -364,6 +369,99 @@ presentations:
         meta: https://arxiv.org/abs/1701.02426
         pdf:  https://arxiv.org/pdf/1701.02426
 
+  - when: 2017-10-04
+    who: Vamsi Ithapu
+    title: Going Deeper With Convolutions
+    authors: Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
+    venue: CVPR
+    year: 2015
+    links:
+      venue:
+        toc:  http://openaccess.thecvf.com/CVPR2015.py
+        meta: http://openaccess.thecvf.com/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html
+        pdf:  http://openaccess.thecvf.com/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf
+      author:
+        pdf:  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf
+
+  - when: 2017-10-11
+    who: Felipe Gutierrez-Barragan
+    title: Generative Adversarial Nets
+    authors: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+    venue: NIPS
+    number: 27
+    year: 2014
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-27-2014
+        meta: http://papers.nips.cc/paper/5423-generative-adversarial-nets
+        pdf:  http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+
+  - when: 2017-10-18
+    who: Vamsi Ithapu
+    title: Deep Residual Learning for Image Recognition
+    authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+    venue: CVPR
+    year: 2016
+    links:
+      venue:
+        toc:  http://openaccess.thecvf.com/CVPR2016.py
+        meta: http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html
+        pdf:  http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CV/1512
+        meta: https://arxiv.org/abs/1512.03385
+        pdf:  https://arxiv.org/pdf/1512.03385
+
+  - when: 2017-10-18
+    who: Vamsi Ithapu
+    title: Densely Connected Convolutional Networks
+    authors: Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
+    venue: CVPR
+    year: 2017
+    links:
+      venue:
+        toc:  http://openaccess.thecvf.com/CVPR2017.py
+        meta: http://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.html
+        pdf:  http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CV/1608
+        meta: https://arxiv.org/abs/1608.06993
+        pdf:  https://arxiv.org/pdf/1608.06993
+
+  - when: 2017-10-25
+    who: Tyler Bradshaw
+    title: Machine Learning in Positron Emission Tomography
+    authors: Tyler Bradshaw
+    links:
+      author:
+        meta: https://www.medphysics.wisc.edu/research/imageGuidedTherapy/people/bradshaw.php
+
+  - when: 2017-11-01
+    who: Ronak Mehta
+    title: Auto-Encoding Variational Bayes
+    authors: Diederik P. Kingma, Max Welling
+    venue: ICLR
+    year: 2014
+    links:
+      venue:
+        toc:  https://sites.google.com/site/representationlearning2014/conference-proceedings
+      arxiv:
+        toc:  https://arxiv.org/list/stat.ML/1312
+        meta: https://arxiv.org/abs/1312.6114
+        pdf:  https://arxiv.org/pdf/1312.6114
+
+  - when: 2017-11-08
+    who: Sumeet Katariya
+    title: Improved Algorithms for Linear Stochastic Bandits
+    authors: Yasin Abbasi-Yadkori, Dávid Pál, Csaba Szepesvári
+    venue: NIPS
+    number: 24
+    year: 2011
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-24-2011
+        meta: https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits
+        pdf:  https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits.pdf
 
 #  - when:     # date of AIRG, YYYY-MM-DD
 #    who:      # who presented at AIRG
