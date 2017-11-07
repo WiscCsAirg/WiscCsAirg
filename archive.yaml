@@ -218,6 +218,221 @@ presentations:
         pdf:  https://www.cs.cornell.edu/people/tj/publications/joachims_99c.pdf
 
 
+  # Spring 2003
+
+
+  # Fall 2003
+
+  - when: 2003-10-02
+    who: Soumya Ray
+    title: "Learning Quickly When Irrelevant Attributes Abound: A New Linear-Threshold Algorithm"
+    authors: Nick Littlestone
+    venue: Machine Learning
+    number: 2(4)
+    year: 1988
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/10994/2/4/page/1
+        meta: https://link.springer.com/article/10.1023/A:1022869011914
+        pdf:  https://link.springer.com/content/pdf/10.1023%2FA%3A1022869011914.pdf
+
+  - when: 2003-10-16
+    who: Mark Goadrich
+    title: "Scaling Up ILP to Large Examples: Results on Link Discovery for Counter-Terrorism"
+    authors: Lappoon R. Tang, Raymond J. Mooney, Prem Melville
+    venue: KDD Workshop on Multi-Relational Data Mining (MRDM)
+    year: 2003
+    links:
+      author:
+        meta: http://www.cs.utexas.edu/users/ai-lab/?tang:kdd-mrdm03
+        pdf:  http://www.cs.utexas.edu/~ml/papers/ld-kdd-wkshp-03.pdf
+
+  - when: 2003-10-30
+    who: Michael Waddell
+    title: Human-Machine Collaborative Planning
+    authors: James Allen, George Ferguson
+    venue: International NASA Workshop on Planning and Scheduling for Space
+    number: 3
+    year: 2002
+    links:
+      author:
+        toc:  https://www.cs.rochester.edu/research/cisd/pubs/
+        meta: https://www.cs.rochester.edu/research/cisd/pubs/#S2002
+        pdf:  https://www.cs.rochester.edu/research/cisd/pubs/2002/allen-ferguson-nasa2002.pdf
+
+  - when: 2003-11-06
+    who: Louis Oliphant
+    title: Advantages of Decision Lists and Implicit Negatives in Inductive Logic Programming
+    authors: Mary Elaine Califf, Raymond J. Mooney
+    venue: New Generation Computing
+    number: 16(3)
+    year: 1998
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/354/16/3/page/1
+        meta: https://link.springer.com/article/10.1007/BF03037482
+        pdf:  https://link.springer.com/content/pdf/10.1007%2FBF03037482.pdf
+      author:
+        meta: http://www.cs.utexas.edu/users/ai-lab/?califf:tech96
+        pdf:  http://www.cs.utexas.edu/~ml/papers/foidl-ml-96.pdf
+
+  - when: 2003-11-20
+    who: Michael Shultz
+    title: Finding Motifs Using Random Projections
+    authors: Jeremy Buhler, Martin Tompa
+    venue: Journal of Computational Biology
+    number: 9(2)
+    year: 2002
+    links:
+      venue:
+        meta: https://doi.org/10.1089/10665270252935430
+        pdf:  http://online.liebertpub.com/doi/pdf/10.1089/10665270252935430
+
+  - when: 2003-11-20
+    who: Michael Shultz
+    title: Genome-scale approaches to resolving incongruence in molecular phylogenies
+    authors: Antonis Rokas, Barry L. Williams, Nicole King, Sean B. Carroll
+    venue: Nature
+    number: 425
+    year: 2003
+    links:
+      venue:
+        meta: http://www.nature.com/nature/journal/v425/n6960/abs/nature02053.html
+        pdf:  http://www.nature.com/nature/journal/v425/n6960/pdf/nature02053.pdf
+
+  - when: 2003-12-04
+    who: Beverly Seavy
+    title: Learning from Cluster Examples
+    authors: Toshihiro Kamishima, Fumio Motoyoshi
+    venue: Machine Learning
+    number: 53(3)
+    year: 2003
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/10994/53/3/page/1
+        meta: https://link.springer.com/article/10.1023/A:1026351106797
+        pdf:  https://link.springer.com/content/pdf/10.1023%2FA%3A1026351106797.pdf
+
+
+  # Spring 2004
+
+  # Fall 2004
+
+  # Spring 2005
+
+  # Fall 2005
+
+  - when: 2005-10-12
+    who: Jerry Zhu
+    title:  Graph Kernels by Spectral Transforms
+    authors: Xiaojin Zhu, Jaz Kandola, John Lafferty, Zoubin Ghahramani
+    venue: Semi-Supervised Learning
+    series: MIT Press
+    year: 2006
+    links:
+      venue:
+        toc:  https://doi.org/10.7551/mitpress/9780262033589.001.0001
+      author:
+        toc:  http://mlg.eng.cam.ac.uk/zoubin/papers.html
+        pdf:  http://mlg.eng.cam.ac.uk/zoubin/papers/ssl-book.pdf
+
+  - when: 2005-10-26
+    who: Lisa Torrey
+    title: Relational Instance Based Regression for Relational Reinforcement Learning
+    authors: Kurt Driessens, Jan Ramon
+    venue: ICML
+    number: 20
+    year: 2003
+    links:
+      venue:
+        toc:  https://aaai.org/Library/ICML/icml03contents.php
+        meta: https://aaai.org/Library/ICML/2003/icml03-019.php
+        pdf:  https://aaai.org/Papers/ICML/2003/ICML03-019.pdf
+
+  - when: 2005-11-09
+    who: Ted Wild
+    title: The Entire Regularization Path for the Support Vector Machine
+    authors: Trevor Hastie, Saharon Rosset, Robert Tibshirani, Ji Zhu
+    venue: NIPS
+    number: 17
+    year: 2004
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-17-2004
+        meta: http://papers.nips.cc/paper/2713-the-entire-regularization-path-for-the-support-vector-machine
+        pdf: http://papers.nips.cc/paper/2713-the-entire-regularization-path-for-the-support-vector-machine.pdf
+
+  - when: 2005-11-30
+    who: Héctor Corrada Bravo
+    title: Markov Logic Networks
+    authors: Matthew Richardson, Pedro Domingos
+    venue: Machine Learning
+    number: 62(1-2)
+    year: 2005
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/10994/62/1/page/1
+        meta: https://link.springer.com/article/10.1007/s10994-006-5833-1
+        pdf:  https://link.springer.com/content/pdf/10.1007%2Fs10994-006-5833-1.pdf
+
+  - when: 2005-12-07
+    who: Ted Wild
+    title: Latent Dirichlet Allocation
+    authors: David M. Blei, Andrew Y. Ng, and Michael I. Jordan
+    venue: JMLR
+    number: 3
+    year: 2003
+    links:
+      venue:
+        toc:  http://jmlr.org/papers/v3/
+        meta: http://jmlr.org/papers/v3/blei03a.html
+        pdf:  http://jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
+
+  # Spring 2006
+
+  # Fall 2006
+
+  # Spring 2007
+
+  # Fall 2007
+
+  # Spring 2008
+
+  # Fall 2008
+
+  # Spring 2009
+
+  # Fall 2009
+
+  # Spring 2010
+
+  # Fall 2010
+
+  # Spring 2011
+
+  # Fall 2011
+
+  # Spring 2012
+
+  # Fall 2012
+
+  # Spring 2013
+
+  # Fall 2013
+
+  # Spring 2014
+
+  # Fall 2014
+
+  # Spring 2015
+
+  # Fall 2015
+
+  # Spring 2016
+
+  # Fall 2016
+
   # Spring 2017
 
   - when: 2017-02-15
@@ -467,9 +682,9 @@ presentations:
 #    who:      # who presented at AIRG
 #    title:    # Title Words in Title Case
 #    authors:  # first middle last, first middle last
-#    venue:    # publication venue, conference, journal, publisher, etc.
+#    venue:    # publication venue, conference, journal, publisher, book (if chapter), etc.
 #    number:   # conference #, volume(issue), etc. (optional)
-#    series:   # series (if needed)
+#    series:   # series (if needed), publisher (if chapter)
 #    year:     # publication year
 #    links:    # Provide as many of the links as make sense or as can
 #              # easily be found, with preference to the canonical
