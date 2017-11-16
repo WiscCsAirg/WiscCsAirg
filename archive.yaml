@@ -678,6 +678,22 @@ presentations:
         meta: https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits
         pdf:  https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits.pdf
 
+  - when: 2017-11-15
+    who: Ayon Sen
+    title: Understanding deep learning requires rethinking generalization
+    authors: Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
+    venue: ICLR
+    year: 2017
+    links:
+      venue:
+        toc:  http://www.iclr.cc/doku.php?id=iclr2017:schedule
+        meta: "https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx"
+        pdf:  https://openreview.net/pdf?id=Sy8gdB9xx
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1611
+        meta: https://arxiv.org/abs/1611.03530
+        pdf:  https://arxiv.org/pdf/1611.03530
+
 #  - when:     # date of AIRG, YYYY-MM-DD
 #    who:      # who presented at AIRG
 #    title:    # Title Words in Title Case
