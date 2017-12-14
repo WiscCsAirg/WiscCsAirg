@@ -21,6 +21,8 @@ li.paper {
 }
 .paper > p {
   margin: 0;
+  margin-left:  1em;
+  text-indent: -1em;
 }
 .paper > .title {
   font-size: 125%;
