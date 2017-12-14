@@ -293,7 +293,7 @@ presentations:
     title: Genome-scale approaches to resolving incongruence in molecular phylogenies
     authors: Antonis Rokas, Barry L. Williams, Nicole King, Sean B. Carroll
     venue: Nature
-    number: 425
+    number: 425(6960)
     year: 2003
     links:
       venue:
@@ -648,8 +648,8 @@ presentations:
     title: Machine Learning in Positron Emission Tomography
     authors: Tyler Bradshaw
     links:
-      author:
-        meta: https://www.medphysics.wisc.edu/research/imageGuidedTherapy/people/bradshaw.php
+      info:
+        bio:  https://www.medphysics.wisc.edu/research/imageGuidedTherapy/people/bradshaw.php
 
   - when: 2017-11-01
     who: Ronak Mehta
@@ -694,6 +694,78 @@ presentations:
         meta: https://arxiv.org/abs/1611.03530
         pdf:  https://arxiv.org/pdf/1611.03530
 
+  - when: 2017-11-29
+    who: Matthew Bernstein
+    title: Visualizing Data using t-SNE
+    authors: Laurens van der Maaten, Geoffrey Hinton
+    venue: JMLR
+    number: 9
+    year: 2008
+    links:
+      venue:
+        toc:  http://www.jmlr.org/papers/v9/
+        meta: http://www.jmlr.org/papers/v9/vandermaaten08a.html
+        pdf:  http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
+  - when: 2017-11-29
+    who: Matthew Bernstein
+    title: How to Use t-SNE Effectively
+    authors: Martin Wattenberg, Fernanda Viégas, Ian Johnson
+    venue: Distill
+    year: 2016
+    links:
+      venue:
+        toc:  https://distill.pub/archive/
+        web:  https://doi.org/10.23915/distill.00002
+
+  - when: 2017-12-06
+    who: Sathya Ravi
+    title: Gradient Descent Only Converges to Minimizers
+    authors: Jason D. Lee, Max Simchowitz, Michael I. Jordan, Benjamin Recht
+    venue: COLT
+    number: 29
+    year: 2016
+    links:
+      venue:
+        toc:  http://proceedings.mlr.press/v49/
+        meta: http://proceedings.mlr.press/v49/lee16.html
+        pdf:  http://proceedings.mlr.press/v49/lee16.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/stat.ML/1602
+        meta: https://arxiv.org/abs/1602.04915
+        pdf:  https://arxiv.org/pdf/1602.04915
+
+  - when: 2017-12-06
+    who: Sathya Ravi
+    title: "Resilience: A Criterion for Learning in the Presence of Arbitrary Outliers"
+    authors: Jacob Steinhardt, Moses Charikar, Gregory Valiant
+    venue: ITCS
+    year: 2018
+    links:
+      venue:
+        toc:  http://itcs-conf.org/itcs18/itcs18-accepted.html
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1703
+        meta: https://arxiv.org/abs/1703.04940
+        pdf:  https://arxiv.org/pdf/1703.04940
+
+  - when: 2017-12-13
+    who: Aubrey Barnard
+    title: Mastering the game of Go without human knowledge
+    authors: David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja Huang, Arthur Guez, Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton, Yutian Chen, Timothy Lillicrap, Fan Hui, Laurent Sifre, George van den Driessche, Thore Graepel, Demis Hassabis
+    venue: Nature
+    number: 550(7676)
+    year: 2017
+    links:
+      venue:
+        toc:  https://www.nature.com/nature/journal/v550/n7676/index.html
+        meta: https://www.nature.com/articles/nature24270
+        pdf:  https://www.nature.com/articles/nature24270.pdf
+      author:
+        pdf:  https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
+      info:
+        blog: https://deepmind.com/blog/alphago-zero-learning-scratch/
+
 #  - when:     # date of AIRG, YYYY-MM-DD
 #    who:      # who presented at AIRG
 #    title:    # Title Words in Title Case
@@ -706,15 +778,19 @@ presentations:
 #              # easily be found, with preference to the canonical
 #              # version from the publisher (venue) using a DOI link.
 #              # Aim for at least one 'meta' and one 'pdf' as possible.
+#              # A 'web' version of the paper can be substituted if no
+#              # PDF is available.
 #      venue:
 #        toc:  # link to table of contents for venue
-#        meta: # link to publisher's page about paper
+#        meta: # link to publisher's page about paper (abstract, references, etc.)
 #        pdf:  # link to publisher's PDF
+#        web:  # link to publisher's web version of paper (in absence of PDF)
 #      arxiv:
 #        toc:  # link to table of contents for group
 #        meta: # link to page about paper on arXiv
-#        pdf:  # link to paper on arXiv (inferable from meta-link)
+#        pdf:  # link to paper on arXiv
 #      author:
 #        toc:  # link to an author's list of publications
 #        meta: # link to an author's page about paper
 #        pdf:  # link to an author's PDF
+#      info:   # any additional links using self-describing keys
