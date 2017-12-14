@@ -7,9 +7,17 @@
 /* Center page titles */
 h1 {
     text-align: center;
+    margin-bottom: 1em;
 }
 
 /* Archive formatting */
+.toc {
+  -webkit-columns: 6em auto;
+  -moz-columns:    6em auto;
+  columns:         6em auto;
+  text-align: center;
+  margin-bottom: 2em;
+}
 .archive > .year {
   font-size: 150%;
 }

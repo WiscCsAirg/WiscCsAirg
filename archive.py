@@ -78,6 +78,13 @@ AIRG Archive
 """
 .lstrip())
 
+# Table of contents
+years = sorted(set(p['when'].year for p in presentations), reverse=True)
+output.write('<div class="toc">\n<ul>\n')
+for year in years:
+    output.write('<li><a href="#{0}">{0}</a></li>\n'.format(year))
+output.write('</ul>\n</div>\n\n')
+
 # List all presentations by year marked up as HTML
 output.write('<dl class="archive">\n')
 prev_year = None
@@ -99,7 +106,7 @@ for presentation in presentations:
         # Close previous year
         if prev_year is not None:
             output.write('</ul>\n</dd>\n')
-        output.write('<dt class="year">{}</dt>\n<dd>\n<ul>\n'
+        output.write('<dt class="year" id="{0}">{0}</dt>\n<dd>\n<ul>\n'
                      .format(curr_year))
     prev_year = curr_year
 
