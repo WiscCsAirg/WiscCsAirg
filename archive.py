@@ -146,7 +146,7 @@ for presentation in presentations:
             output.write(link_section)
             output.write(': ')
             n_types = 0
-            for link_type in ('toc', 'meta', 'pdf'):
+            for link_type in ('toc', 'meta', 'pdf', 'web'):
                 if link_type not in link_types:
                     continue
                 link_url = link_types[link_type]
@@ -155,6 +155,18 @@ for presentation in presentations:
                 output.write(link(link_type, link_url))
                 n_types += 1
             n_sections += 1
+        if 'info' in links:
+            info_links = links['info']
+            if info_links:
+                if n_sections >= 1:
+                    output.write(' | ')
+                output.write('info: ')
+                n_infos = 0
+                for key, url in info_links.items():
+                    if n_infos >= 1:
+                        output.write(' ')
+                    output.write(link(key, url))
+                    n_infos += 1
         output.write('</p>\n')
 
     # End the paper list item
