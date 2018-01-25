@@ -1,5 +1,5 @@
 ---
-copyright_year: 2017
+copyright_year: 2018
 title: Machine Learning and Artificial Intelligence Reading Group
 ---
 
@@ -21,7 +21,7 @@ various topics, but mostly focus on ML.
 Meetings
 --------
 
-AIRG meets Wednesdays from 4-5pm in CS 3310 during fall 2017.
+AIRG meets Wednesdays from 4-5pm in CS 4310 during spring 2018.
 
 Occasionally, when appropriate, AIRG is canceled in favor of the
 [Statistics Seminar](https://www.stat.wisc.edu/seminars).
@@ -131,4 +131,4 @@ Archive
 -------
 
 We have an [archive](archive.html) (under construction) of all the AIRG
-meetings going back to 2001!
+meetings going back to 2002!
