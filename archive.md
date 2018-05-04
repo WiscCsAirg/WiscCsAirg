@@ -1,5 +1,5 @@
 ---
-copyright_year: 2017
+copyright_year: 2018
 title: Archive
 ---
 
@@ -9,6 +9,7 @@ AIRG Archive
 
 <div class="toc">
 <ul>
+<li><a href="#2018">2018</a></li>
 <li><a href="#2017">2017</a></li>
 <li><a href="#2005">2005</a></li>
 <li><a href="#2003">2003</a></li>
@@ -17,6 +18,88 @@ AIRG Archive
 </div>
 
 <dl class="archive">
+<dt class="year" id="2018">2018</dt>
+<dd>
+<ul>
+<li class="paper">
+<p class="presentation">05/02, Felipe Gutierrez</p>
+<p class="title">Matrix capsules with EM routing</p>
+<p class="authors">Geoffrey E. Hinton, Sara Sabour, Nicholas Frosst</p>
+<p class="publication"><span class="venue">ICLR</span> <span class="number">6</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2018/Conference">toc</a> <a href="https://openreview.net/forum?id=HJWLfGWRb">meta</a> <a href="https://openreview.net/pdf?id=HJWLfGWRb">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">04/25, Finn Kuusisto</p>
+<p class="title">Hominin skeletal part abundances and claims of deliberate disposal of corpses in the Middle Pleistocene</p>
+<p class="authors">Charles P. Egeland, Manuel Domínguez-Rodrigo, Travis Rayne Pickering, Colin G. Menter, Jason L. Heaton</p>
+<p class="publication"><span class="venue">PNAS</span> <span class="number">115(18)</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://www.pnas.org/content/115/18/4519">toc</a> <a href="https://doi.org/10.1073/pnas.1718678115">meta</a> <a href="https://www.pnas.org/content/115/18/4601.full.pdf">pdf</a> <a href="https://www.pnas.org/content/115/18/4601">web</a> | info: <a href="https://arstechnica.com/science/2018/04/machine-learning-says-homo-naledi-may-not-have-buried-its-dead/">news</a></p>
+</li>
+<li class="paper">
+<p class="presentation">04/18, Ross Kleiman</p>
+<p class="title">Cost-Sensitive Multi-class Classification from Probability Estimates</p>
+<p class="authors">Deirdre O'Brien, Maya Gupta, and Robert Gray</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">25</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2008/abstracts.shtml.html">toc</a> <a href="https://icml.cc/Conferences/2008/abstracts.shtml.html#150">meta</a> <a href="https://icml.cc/Conferences/2008/papers/150.pdf">pdf</a> | author: <a href="http://www.mayagupta.org/publications/icml2008OBrienGuptaGray.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">04/11, Jiefeng Chen</p>
+<p class="title">Towards Deep Learning Models Resistant to Adversarial Attacks</p>
+<p class="authors">Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu</p>
+<p class="publication"><span class="venue">ICLR</span> <span class="number">6</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2018/Conference">toc</a> <a href="https://openreview.net/forum?id=rJzIBfZAb">meta</a> <a href="https://openreview.net/pdf?id=rJzIBfZAb">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">04/04, Wei Zhang</p>
+<p class="title">RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism</p>
+<p class="authors">Edward Choi, Mohammad Taha Bahadori, Jimeng Sun, Joshua Kulas, Andy Schuetz, Walter Stewart</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">29</span>, <span class="year">2016</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016">toc</a> <a href="https://papers.nips.cc/paper/6321-retain-an-interpretable-predictive-model-for-healthcare-using-reverse-time-attention-mechanism">meta</a> <a href="https://papers.nips.cc/paper/6321-retain-an-interpretable-predictive-model-for-healthcare-using-reverse-time-attention-mechanism.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">03/21, Nikhil Nakhate</p>
+<p class="title">SSD: Single Shot MultiBox Detector</p>
+<p class="authors">Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg</p>
+<p class="publication"><span class="venue">ECCV</span> <span class="number">14</span>, <span class="year">2016</span></p>
+<p class="links">venue: <a href="http://www.eccv2016.org/main-conference/">toc</a> | arxiv: <a href="https://arxiv.org/list/cs.CV/1512">toc</a> <a href="https://arxiv.org/abs/1512.02325">meta</a> <a href="https://arxiv.org/pdf/1512.02325">pdf</a> | info: <a href="http://www.eccv2016.org/files/posters/O-1A-02.pdf">poster</a></p>
+</li>
+<li class="paper">
+<p class="presentation">03/07, Aubrey Barnard</p>
+<p class="title">Inference via low-dimensional couplings</p>
+<p class="authors">Alessio Spantini, Daniele Bigoni, Youssef Marzouk</p>
+<p class="publication"><span class="venue">arXiv</span>, <span class="year">2017</span></p>
+<p class="links">arxiv: <a href="https://arxiv.org/list/stat.ME/1703">toc</a> <a href="https://arxiv.org/abs/1703.06131">meta</a> <a href="https://arxiv.org/pdf/1703.06131">pdf</a> | info: <a href="https://vimeo.com/256123271">video</a> <a href="https://silo.ece.wisc.edu/web/content/seminar/id/263">talk</a></p>
+</li>
+<li class="paper">
+<p class="presentation">02/28, Jinnian Zhang</p>
+<p class="title">PacGAN: The power of two samples in generative adversarial networks</p>
+<p class="authors">Zinan Lin, Ashish Khetan, Giulia Fanti, Sewoong Oh</p>
+<p class="publication"><span class="venue">arXiv</span>, <span class="year">2018</span></p>
+<p class="links">arxiv: <a href="https://arxiv.org/list/cs.LG/1712">toc</a> <a href="https://arxiv.org/abs/1712.04086">meta</a> <a href="https://arxiv.org/pdf/1712.04086">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">02/21, Jinman Zhao</p>
+<p class="title">Enriching Word Vectors with Subword Information</p>
+<p class="authors">Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov</p>
+<p class="publication"><span class="venue">TACL</span> <span class="number">5</span>, <span class="year">2017</span></p>
+<p class="links">venue: <a href="https://transacl.org/ojs/index.php/tacl/issue/view/13">toc</a> <a href="https://transacl.org/ojs/index.php/tacl/article/view/999">meta</a> <a href="https://transacl.org/ojs/index.php/tacl/article/download/999/231">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.CL/1607">toc</a> <a href="https://arxiv.org/abs/1607.04606">meta</a> <a href="https://arxiv.org/pdf/1607.04606">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">02/14, Matthew Bernstein</p>
+<p class="title">Semi-Supervised Prediction-Constrained Topic Models</p>
+<p class="authors">Michael Hughes, Gabriel Hope, Leah Weiner, Thomas McCoy, Roy Perlis, Erik Sudderth, Finale Doshi-Velez</p>
+<p class="publication"><span class="venue">AISTATS</span> <span class="number">21</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="http://proceedings.mlr.press/v84/">toc</a> <a href="http://proceedings.mlr.press/v84/hughes18a.html">meta</a> <a href="http://proceedings.mlr.press/v84/hughes18a/hughes18a.pdf">pdf</a> | arxiv: <a href="https://arxiv.org/list/stat.ML/1707">toc</a> <a href="https://arxiv.org/abs/1707.07341">meta</a> <a href="https://arxiv.org/pdf/1707.07341">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">01/31, Xuezhou Zhang</p>
+<p class="title">Training Set Debugging Using Trusted Items</p>
+<p class="authors">Xuezhou Zhang, Xiaojin Zhu, Stephen Wright</p>
+<p class="publication"><span class="venue">AAAI</span> <span class="number">32</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations">toc</a> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16155">meta</a> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16155/16760">pdf</a> | author: <a href="http://pages.cs.wisc.edu/~jerryzhu/pub/AAAI2018.pdf">pdf</a></p>
+</li>
+</ul>
+</dd>
 <dt class="year" id="2017">2017</dt>
 <dd>
 <ul>

@@ -3,8 +3,8 @@
 
 # Archive of AIRG presentations, based in part on the old AIRG archive:
 # http://research.cs.wisc.edu/areas/ai/airg/archive.html
-#
-# Copyright (c) 2017 AIRG Authors (CC-BY).  This is a free culture work
+
+# Copyright (c) 2018 AIRG Authors (CC-BY).  This is a free culture work
 # licensed to the public under a Creative Commons Attribution 4.0
 # International License (https://creativecommons.org/licenses/by/4.0/).
 
@@ -765,6 +765,172 @@ presentations:
         pdf:  https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
       info:
         blog: https://deepmind.com/blog/alphago-zero-learning-scratch/
+
+
+  # Spring 2018
+
+  - when: 2018-01-31
+    who: Xuezhou Zhang
+    title: Training Set Debugging Using Trusted Items
+    authors: Xuezhou Zhang, Xiaojin Zhu, Stephen Wright
+    venue: AAAI
+    number: 32
+    year: 2018
+    links:
+      venue:
+        toc:  https://www.aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations
+        meta: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16155
+        pdf:  https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16155/16760
+      author:
+        pdf:  http://pages.cs.wisc.edu/~jerryzhu/pub/AAAI2018.pdf
+
+  - when: 2018-02-14
+    who: Matthew Bernstein
+    title: Semi-Supervised Prediction-Constrained Topic Models
+    authors: Michael Hughes, Gabriel Hope, Leah Weiner, Thomas McCoy, Roy Perlis, Erik Sudderth, Finale Doshi-Velez
+    venue: AISTATS
+    number: 21
+    year: 2018
+    links:
+      venue:
+        toc:  http://proceedings.mlr.press/v84/
+        meta: http://proceedings.mlr.press/v84/hughes18a.html
+        pdf:  http://proceedings.mlr.press/v84/hughes18a/hughes18a.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/stat.ML/1707
+        meta: https://arxiv.org/abs/1707.07341
+        pdf:  https://arxiv.org/pdf/1707.07341
+
+  - when: 2018-02-21
+    who: Jinman Zhao
+    title: Enriching Word Vectors with Subword Information
+    authors: Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov
+    venue: TACL
+    number: 5
+    year: 2017
+    links:
+      venue:
+        toc:  https://transacl.org/ojs/index.php/tacl/issue/view/13
+        meta: https://transacl.org/ojs/index.php/tacl/article/view/999
+        pdf:  https://transacl.org/ojs/index.php/tacl/article/download/999/231
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CL/1607
+        meta: https://arxiv.org/abs/1607.04606
+        pdf:  https://arxiv.org/pdf/1607.04606
+
+  - when: 2018-02-28
+    who: Jinnian Zhang
+    title: "PacGAN: The power of two samples in generative adversarial networks"
+    authors: Zinan Lin, Ashish Khetan, Giulia Fanti, Sewoong Oh
+    venue: arXiv
+    year: 2018
+    links:
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1712
+        meta: https://arxiv.org/abs/1712.04086
+        pdf:  https://arxiv.org/pdf/1712.04086
+
+  - when: 2018-03-07
+    who: Aubrey Barnard
+    title: Inference via low-dimensional couplings
+    authors: Alessio Spantini, Daniele Bigoni, Youssef Marzouk
+    venue: arXiv
+    year: 2017
+    links:
+      arxiv:
+        toc:  https://arxiv.org/list/stat.ME/1703
+        meta: https://arxiv.org/abs/1703.06131
+        pdf:  https://arxiv.org/pdf/1703.06131
+      info:
+        talk: https://silo.ece.wisc.edu/web/content/seminar/id/263
+        video: https://vimeo.com/256123271
+
+  - when: 2018-03-21
+    who: Nikhil Nakhate
+    title: "SSD: Single Shot MultiBox Detector"
+    authors: Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg
+    venue: ECCV
+    number: 14
+    year: 2016
+    links:
+      venue:
+        toc:  http://www.eccv2016.org/main-conference/
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CV/1512
+        meta: https://arxiv.org/abs/1512.02325
+        pdf:  https://arxiv.org/pdf/1512.02325
+      info:
+        poster: http://www.eccv2016.org/files/posters/O-1A-02.pdf
+
+  - when: 2018-04-04
+    who: Wei Zhang
+    title: "RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism"
+    authors: Edward Choi, Mohammad Taha Bahadori, Jimeng Sun, Joshua Kulas, Andy Schuetz, Walter Stewart
+    venue: NIPS
+    number: 29
+    year: 2016
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016
+        meta: https://papers.nips.cc/paper/6321-retain-an-interpretable-predictive-model-for-healthcare-using-reverse-time-attention-mechanism
+        pdf:  https://papers.nips.cc/paper/6321-retain-an-interpretable-predictive-model-for-healthcare-using-reverse-time-attention-mechanism.pdf
+
+  - when: 2018-04-11
+    who: Jiefeng Chen
+    title: Towards Deep Learning Models Resistant to Adversarial Attacks
+    authors: Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu
+    venue: ICLR
+    number: 6
+    year: 2018
+    links:
+      venue:
+        toc:  https://openreview.net/group?id=ICLR.cc/2018/Conference
+        meta: https://openreview.net/forum?id=rJzIBfZAb
+        pdf:  https://openreview.net/pdf?id=rJzIBfZAb
+
+  - when: 2018-04-18
+    who: Ross Kleiman
+    title: Cost-Sensitive Multi-class Classification from Probability Estimates
+    authors: "Deirdre O'Brien, Maya Gupta, and Robert Gray"
+    venue: ICML
+    number: 25
+    year: 2008
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2008/abstracts.shtml.html
+        meta: https://icml.cc/Conferences/2008/abstracts.shtml.html#150
+        pdf:  https://icml.cc/Conferences/2008/papers/150.pdf
+      author:
+        pdf:  http://www.mayagupta.org/publications/icml2008OBrienGuptaGray.pdf
+
+  - when: 2018-04-25
+    who: Finn Kuusisto
+    title: Hominin skeletal part abundances and claims of deliberate disposal of corpses in the Middle Pleistocene
+    authors: Charles P. Egeland, Manuel Domínguez-Rodrigo, Travis Rayne Pickering, Colin G. Menter, Jason L. Heaton
+    venue: PNAS
+    number: 115(18)
+    year: 2018
+    links:
+      venue:
+        toc:  https://www.pnas.org/content/115/18/4519
+        meta: https://doi.org/10.1073/pnas.1718678115
+        pdf:  https://www.pnas.org/content/115/18/4601.full.pdf
+        web:  https://www.pnas.org/content/115/18/4601
+      info:
+        news: https://arstechnica.com/science/2018/04/machine-learning-says-homo-naledi-may-not-have-buried-its-dead/
+
+  - when: 2018-05-02
+    who: Felipe Gutierrez
+    title: Matrix capsules with EM routing
+    authors: Geoffrey E. Hinton, Sara Sabour, Nicholas Frosst
+    venue: ICLR
+    number: 6
+    year: 2018
+    links:
+      venue:
+        toc:  https://openreview.net/group?id=ICLR.cc/2018/Conference
+        meta: https://openreview.net/forum?id=HJWLfGWRb
+        pdf:  https://openreview.net/pdf?id=HJWLfGWRb
 
 #  - when:     # date of AIRG, YYYY-MM-DD
 #    who:      # who presented at AIRG
