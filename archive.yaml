@@ -391,6 +391,217 @@ presentations:
 
   # Spring 2006
 
+  - when: 2006-02-06
+    who: Ted Wild
+    title: Statistical Comparisons of Classifiers over Multiple Data Sets
+    authors: Janez Demšar
+    venue: JMLR
+    number: 7
+    year: 2006
+    links:
+      venue:
+        toc:  http://www.jmlr.org/papers/v7/
+        meta: http://www.jmlr.org/papers/v7/demsar06a.html
+        pdf:  http://www.jmlr.org/papers/volume7/demsar06a/demsar06a.pdf
+
+  - when: 2006-02-24
+    title: "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars"
+    authors: Luke Zettlemoyer, Michael Collins
+    venue: UAI
+    number: 21
+    year: 2005
+    links:
+      venue:
+        toc:  https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=21
+        meta: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=1209&proceeding_id=21
+        pdf: https://dslpitt.org/uai/papers/05/p658-zettlemoyer.pdf
+
+  - when: 2006-03-10
+    who: Pradheep Elango
+    title: A Survey of Kernels for Structured Data
+    authors: Thomas Gärtner
+    venue: SIGKDD Explorations
+    number: 5(1)
+    year: 2003
+    links:
+      venue:
+        toc:  http://www.kdd.org/Explorations/view/july-2003-volume-5-issue-1
+        pdf:  http://kdd.org/exploration_files/Gaertner.pdf
+
+  - when: 2006-03-24
+    who: Jesse Davis
+    title: Combining Top-down and Bottom-up Techniques in Inductive Logic Programming
+    authors: John M. Zelle, Raymond J. Mooney, Joshua B. Konvisser
+    venue: ICML
+    number: 11
+    year: 1994
+    links:
+      author:
+        pdf:  http://www.cs.utexas.edu/users/ml/papers/chill-ml-94.pdf
+
+  - when: 2006-03-24
+    who: Jesse Davis
+    title: Machine Invention of First-Order Predicates by Inverting Resolution
+    authors: Stephen Muggleton, Wray Buntine
+    venue: ICML
+    number: 5
+    year: 1988
+    links:
+      author:
+        pdf:  http://www.doc.ic.ac.uk/~shm/Papers/cigol.pdf
+
+  - when: 2006-04-07
+    who: Trevor Walker
+    title: Recent Advances in Hierarchical Reinforcement Learning
+    authors: Andrew G. Barto, Sridhar Mahadevan
+    venue: Discrete Event Dynamic Systems
+    number: 13(4)
+    year: 2003
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/10626/13/4/page/1
+        meta: https://link.springer.com/article/10.1023/A:1025696116075
+        pdf:  https://link.springer.com/content/pdf/10.1023%2FA%3A1025696116075.pdf
+      author:
+        pdf:  https://people.cs.umass.edu/~mahadeva/papers/hrl.pdf
+
+  - when: 2006-04-21
+    who: Louis Oliphant
+    title: Probabilistic Reasoning with Hierarchically Structured Variables
+    authors: Rita Sharma, David Poole
+    venue: IJCAI
+    number: 19
+    year: 2005
+    links:
+      venue:
+        toc:  http://www.ijcai.org/proceedings/2005
+        pdf:  http://www.ijcai.org/Proceedings/05/Papers/0681.pdf
+
+  - when: 2006-05-05
+    who: Keith Noto
+    title: Being Bayesian about Network Structure
+    authors: Nir Friedman, Daphne Koller
+    venue: UAI
+    number: 16
+    year: 2000
+    links:
+      venue:
+        toc:  https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=16
+        meta: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=24&proceeding_id=16
+        pdf:  https://dslpitt.org/papers/00/p201-friedman.pdf
+
+
+  # Summer 2006
+
+  - when: 2006-05-24
+    who: Frank DiMaio
+    title: Generalized Belief Propagation
+    authors: Jonathan S. Yedidia, William T. Freeman, Yair Weiss
+    venue: NIPS
+    number: 13
+    year: 2000
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-13-2000
+        meta: http://papers.nips.cc/paper/1832-generalized-belief-propagation
+        pdf:  http://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf
+
+  - when: 2006-06-07
+    who: Keith Noto
+    title: Evolving the Structure of Hidden Markov Models
+    authors: Kyoung-Jae Won, Adam Prügel-Bennett, Anders Krogh
+    venue: IEEE Transactions on Evolutionary Computation
+    number: 10(1)
+    year: 2006
+    links:
+      venue:
+        toc:  https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=33420
+        meta: https://ieeexplore.ieee.org/document/1583626/
+        pdf:  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1583626
+
+  - when: 2006-06-21
+    who: Lisa Torrey
+    title: Exploiting Task Relatedness for Multiple Task Learning
+    authors: Shai Ben-DavidReba Schuller
+    venue: COLT
+    number: 16
+    year: 2003
+    links:
+      venue:
+        toc:  https://link.springer.com/book/10.1007/b12006
+        meta: https://doi.org/10.1007/978-3-540-45167-9_41
+        pdf:  https://link.springer.com/content/pdf/10.1007%2Fb12006.pdf
+      author:
+        pdf:  http://www.cs.technion.ac.il/~shai/colt03_paper.pdf
+
+  - when: 2006-07-05
+    who: Ted Wild
+    title: Generalized Approximate Cross Validation for Support Vector Machines, or, Another Way to Look at Margin-Like Quantities
+    authors: Grace Wahba, Yi Lin, Hao Zhang
+    venue: Advances in Large Margin Classifiers
+    series: MIT Press
+    year: 2000
+    links:
+      author:
+        pdf:  http://www.stat.wisc.edu/~wahba/ftp1/svm.ps
+      info:
+        book: https://mitpress.mit.edu/books/advances-large-margin-classifiers
+        similar: https://ieeexplore.ieee.org/document/788118/
+
+  - when: 2006-07-19
+    who: David Andrzejewski
+    title: Hierarchical Topic Models and the Nested Chinese Restaurant Process
+    authors: Thomas L. Griffiths, Michael I. Jordan, Joshua B. Tenenbaum, David M. Blei
+    venue: NIPS
+    number: 16
+    year: 2003
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003
+        meta: https://papers.nips.cc/paper/2466-hierarchical-topic-models-and-the-nested-chinese-restaurant-process
+        pdf:  https://papers.nips.cc/paper/2466-hierarchical-topic-models-and-the-nested-chinese-restaurant-process.pdf
+
+  - when: 2006-08-16
+    who: Jurgen Van Gael
+    title: "Topic Modeling: Beyond Bag-of-Words"
+    authors: Hanna M. Wallach
+    venue: ICML
+    number: 23
+    year: 2006
+    links:
+      venue:
+        toc:  https://icml.cc/imls/conferences/2006/proceedings.html
+      author:
+        toc:  http://dirichlet.net/publications/
+        pdf:  http://dirichlet.net/pdf/wallach06topic.pdf
+
+  - when: 2006-08-16
+    who: Jurgen Van Gael
+    title: Latent Dirichlet Allocation
+    authors: David M. Blei, Andrew Y. Ng, and Michael I. Jordan
+    venue: JMLR
+    number: 3
+    year: 2003
+    links:
+      venue:
+        toc:  http://jmlr.org/papers/v3/
+        meta: http://jmlr.org/papers/v3/blei03a.html
+        pdf:  http://jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
+  - when: 2006-08-30
+    who: Mark Goadrich
+    title: "Cost curves: An improved method for visualizing classifier performance"
+    authors: Chris Drummond, Robert C. Holte
+    venue: Machine Learning
+    number: 65(1)
+    year: 2006
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/10994/65/1/page/1
+        meta: https://link.springer.com/article/10.1007/s10994-006-8199-5
+        pdf:  https://link.springer.com/content/pdf/10.1007%2Fs10994-006-8199-5.pdf
+
+
   # Fall 2006
 
   # Spring 2007
