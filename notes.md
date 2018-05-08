@@ -40,13 +40,15 @@ Website Update Process
         gem install jekyll bundler # https://jekyllrb.com/docs/quickstart/
         bundle exec jekyll serve & # Run in background but not detached
 
-  * Use `gem outdated` to see what gems can be updated and `gem update`
-    to update them
+  * Use `bundle update` to update gems to the latest versions allowed by
+    your `Gemfile`
+    * (When not bundling, use `gem outdated` to see what gems can be
+      updated and `gem update` to update them.)
   * Use `bundle install` to bring things up to date with `Gemfile`.  See
     the following for more information about Gemfiles.
-    * http://bundler.io/v1.9/man/gemfile.5.html
+    * http://bundler.io/man/gemfile.5.html
+    * http://bundler.io/bundler_workflow.html
     * http://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/
-    * http://bundler.io/v1.12/bundler_workflow.html
 * Merge the branch into `master` and delete the branch
 * Push `master`
 
