@@ -91,7 +91,7 @@ prev_year = None
 for presentation in presentations:
     # Unpack the presentation dictionary
     pres_when = presentation['when']
-    pres_who = presentation['who']
+    pres_who = presentation.get('who')
     paper_title = presentation['title']
     paper_authors = presentation['authors']
     pub_venue = presentation.get('venue')
@@ -114,8 +114,10 @@ for presentation in presentations:
     output.write('<li class="paper">\n')
 
     # Date and presenter
-    output.write('<p class="presentation">{:%m/%d}, {}</p>\n'
-                 .format(pres_when, pres_who))
+    output.write('<p class="presentation">{:%m/%d}'.format(pres_when))
+    if pres_who:
+        output.write(', {}'.format(pres_who))
+    output.write('</p>\n')
 
     # Title, authors
     output.write('<p class="title">{}</p>\n'.format(paper_title))
