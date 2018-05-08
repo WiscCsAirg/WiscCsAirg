@@ -11,6 +11,7 @@ AIRG Archive
 <ul>
 <li><a href="#2018">2018</a></li>
 <li><a href="#2017">2017</a></li>
+<li><a href="#2006">2006</a></li>
 <li><a href="#2005">2005</a></li>
 <li><a href="#2003">2003</a></li>
 <li><a href="#2002">2002</a></li>
@@ -68,7 +69,7 @@ AIRG Archive
 <p class="title">Inference via low-dimensional couplings</p>
 <p class="authors">Alessio Spantini, Daniele Bigoni, Youssef Marzouk</p>
 <p class="publication"><span class="venue">arXiv</span>, <span class="year">2017</span></p>
-<p class="links">arxiv: <a href="https://arxiv.org/list/stat.ME/1703">toc</a> <a href="https://arxiv.org/abs/1703.06131">meta</a> <a href="https://arxiv.org/pdf/1703.06131">pdf</a> | info: <a href="https://vimeo.com/256123271">video</a> <a href="https://silo.ece.wisc.edu/web/content/seminar/id/263">talk</a></p>
+<p class="links">arxiv: <a href="https://arxiv.org/list/stat.ME/1703">toc</a> <a href="https://arxiv.org/abs/1703.06131">meta</a> <a href="https://arxiv.org/pdf/1703.06131">pdf</a> | info: <a href="https://silo.ece.wisc.edu/web/content/seminar/id/263">talk</a> <a href="https://vimeo.com/256123271">video</a></p>
 </li>
 <li class="paper">
 <p class="presentation">02/28, Jinnian Zhang</p>
@@ -269,6 +270,123 @@ AIRG Archive
 <p class="authors">David Maxwell Chickering, Christopher Meek</p>
 <p class="publication"><span class="venue">UAI</span> <span class="number">18</span>, <span class="year">2002</span></p>
 <p class="links">venue: <a href="https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=849&proceeding_id=18">meta</a> <a href="https://dslpitt.org/uai/papers/02/p94-chickering.pdf">pdf</a></p>
+</li>
+</ul>
+</dd>
+<dt class="year" id="2006">2006</dt>
+<dd>
+<ul>
+<li class="paper">
+<p class="presentation">08/30, Mark Goadrich</p>
+<p class="title">Cost curves: An improved method for visualizing classifier performance</p>
+<p class="authors">Chris Drummond, Robert C. Holte</p>
+<p class="publication"><span class="venue">Machine Learning</span> <span class="number">65(1)</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="https://link.springer.com/journal/10994/65/1/page/1">toc</a> <a href="https://link.springer.com/article/10.1007/s10994-006-8199-5">meta</a> <a href="https://link.springer.com/content/pdf/10.1007%2Fs10994-006-8199-5.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">08/16, Jurgen Van Gael</p>
+<p class="title">Topic Modeling: Beyond Bag-of-Words</p>
+<p class="authors">Hanna M. Wallach</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">23</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="https://icml.cc/imls/conferences/2006/proceedings.html">toc</a> | author: <a href="http://dirichlet.net/publications/">toc</a> <a href="http://dirichlet.net/pdf/wallach06topic.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">08/16, Jurgen Van Gael</p>
+<p class="title">Latent Dirichlet Allocation</p>
+<p class="authors">David M. Blei, Andrew Y. Ng, and Michael I. Jordan</p>
+<p class="publication"><span class="venue">JMLR</span> <span class="number">3</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="http://jmlr.org/papers/v3/">toc</a> <a href="http://jmlr.org/papers/v3/blei03a.html">meta</a> <a href="http://jmlr.org/papers/volume3/blei03a/blei03a.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">07/19, David Andrzejewski</p>
+<p class="title">Hierarchical Topic Models and the Nested Chinese Restaurant Process</p>
+<p class="authors">Thomas L. Griffiths, Michael I. Jordan, Joshua B. Tenenbaum, David M. Blei</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">16</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003">toc</a> <a href="https://papers.nips.cc/paper/2466-hierarchical-topic-models-and-the-nested-chinese-restaurant-process">meta</a> <a href="https://papers.nips.cc/paper/2466-hierarchical-topic-models-and-the-nested-chinese-restaurant-process.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">07/05, Ted Wild</p>
+<p class="title">Generalized Approximate Cross Validation for Support Vector Machines, or, Another Way to Look at Margin-Like Quantities</p>
+<p class="authors">Grace Wahba, Yi Lin, Hao Zhang</p>
+<p class="publication"><span class="venue">Advances in Large Margin Classifiers</span>, <span class="series">MIT Press</span>, <span class="year">2000</span></p>
+<p class="links">author: <a href="http://www.stat.wisc.edu/~wahba/ftp1/svm.ps">pdf</a> | info: <a href="https://mitpress.mit.edu/books/advances-large-margin-classifiers">book</a> <a href="https://ieeexplore.ieee.org/document/788118/">similar</a></p>
+</li>
+<li class="paper">
+<p class="presentation">06/21, Lisa Torrey</p>
+<p class="title">Exploiting Task Relatedness for Multiple Task Learning</p>
+<p class="authors">Shai Ben-DavidReba Schuller</p>
+<p class="publication"><span class="venue">COLT</span> <span class="number">16</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="https://link.springer.com/book/10.1007/b12006">toc</a> <a href="https://doi.org/10.1007/978-3-540-45167-9_41">meta</a> <a href="https://link.springer.com/content/pdf/10.1007%2Fb12006.pdf">pdf</a> | author: <a href="http://www.cs.technion.ac.il/~shai/colt03_paper.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">06/07, Keith Noto</p>
+<p class="title">Evolving the Structure of Hidden Markov Models</p>
+<p class="authors">Kyoung-Jae Won, Adam Prügel-Bennett, Anders Krogh</p>
+<p class="publication"><span class="venue">IEEE Transactions on Evolutionary Computation</span> <span class="number">10(1)</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=33420">toc</a> <a href="https://ieeexplore.ieee.org/document/1583626/">meta</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1583626">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">05/24, Frank DiMaio</p>
+<p class="title">Generalized Belief Propagation</p>
+<p class="authors">Jonathan S. Yedidia, William T. Freeman, Yair Weiss</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">13</span>, <span class="year">2000</span></p>
+<p class="links">venue: <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-13-2000">toc</a> <a href="http://papers.nips.cc/paper/1832-generalized-belief-propagation">meta</a> <a href="http://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">05/05, Keith Noto</p>
+<p class="title">Being Bayesian about Network Structure</p>
+<p class="authors">Nir Friedman, Daphne Koller</p>
+<p class="publication"><span class="venue">UAI</span> <span class="number">16</span>, <span class="year">2000</span></p>
+<p class="links">venue: <a href="https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=16">toc</a> <a href="https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=24&proceeding_id=16">meta</a> <a href="https://dslpitt.org/papers/00/p201-friedman.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">04/21, Louis Oliphant</p>
+<p class="title">Probabilistic Reasoning with Hierarchically Structured Variables</p>
+<p class="authors">Rita Sharma, David Poole</p>
+<p class="publication"><span class="venue">IJCAI</span> <span class="number">19</span>, <span class="year">2005</span></p>
+<p class="links">venue: <a href="http://www.ijcai.org/proceedings/2005">toc</a> <a href="http://www.ijcai.org/Proceedings/05/Papers/0681.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">04/07, Trevor Walker</p>
+<p class="title">Recent Advances in Hierarchical Reinforcement Learning</p>
+<p class="authors">Andrew G. Barto, Sridhar Mahadevan</p>
+<p class="publication"><span class="venue">Discrete Event Dynamic Systems</span> <span class="number">13(4)</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="https://link.springer.com/journal/10626/13/4/page/1">toc</a> <a href="https://link.springer.com/article/10.1023/A:1025696116075">meta</a> <a href="https://link.springer.com/content/pdf/10.1023%2FA%3A1025696116075.pdf">pdf</a> | author: <a href="https://people.cs.umass.edu/~mahadeva/papers/hrl.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">03/24, Jesse Davis</p>
+<p class="title">Combining Top-down and Bottom-up Techniques in Inductive Logic Programming</p>
+<p class="authors">John M. Zelle, Raymond J. Mooney, Joshua B. Konvisser</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">11</span>, <span class="year">1994</span></p>
+<p class="links">author: <a href="http://www.cs.utexas.edu/users/ml/papers/chill-ml-94.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">03/24, Jesse Davis</p>
+<p class="title">Machine Invention of First-Order Predicates by Inverting Resolution</p>
+<p class="authors">Stephen Muggleton, Wray Buntine</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">5</span>, <span class="year">1988</span></p>
+<p class="links">author: <a href="http://www.doc.ic.ac.uk/~shm/Papers/cigol.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">03/10, Pradheep Elango</p>
+<p class="title">A Survey of Kernels for Structured Data</p>
+<p class="authors">Thomas Gärtner</p>
+<p class="publication"><span class="venue">SIGKDD Explorations</span> <span class="number">5(1)</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="http://www.kdd.org/Explorations/view/july-2003-volume-5-issue-1">toc</a> <a href="http://kdd.org/exploration_files/Gaertner.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">02/24</p>
+<p class="title">Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars</p>
+<p class="authors">Luke Zettlemoyer, Michael Collins</p>
+<p class="publication"><span class="venue">UAI</span> <span class="number">21</span>, <span class="year">2005</span></p>
+<p class="links">venue: <a href="https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=21">toc</a> <a href="https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=1209&proceeding_id=21">meta</a> <a href="https://dslpitt.org/uai/papers/05/p658-zettlemoyer.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">02/06, Ted Wild</p>
+<p class="title">Statistical Comparisons of Classifiers over Multiple Data Sets</p>
+<p class="authors">Janez Demšar</p>
+<p class="publication"><span class="venue">JMLR</span> <span class="number">7</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="http://www.jmlr.org/papers/v7/">toc</a> <a href="http://www.jmlr.org/papers/v7/demsar06a.html">meta</a> <a href="http://www.jmlr.org/papers/volume7/demsar06a/demsar06a.pdf">pdf</a></p>
 </li>
 </ul>
 </dd>
