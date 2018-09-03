@@ -12,7 +12,7 @@ We are the machine learning and artificial intelligence reading group
 at the [University of Wisconsin -- Madison](http://www.wisc.edu/).  We
 gather weekly during the semester to discuss papers in the areas of
 machine learning (ML), artificial intelligence (AI), natural language
-processing (NLP), bioinformatics, and computer vision (CV).  We are the
+processing (NLP), computer vision (CV), and bioinformatics.  We are the
 primary reading group for the [AI
 area](https://research.cs.wisc.edu/areas/ai/) and cater to all its
 various topics, but mostly focus on ML.
@@ -21,7 +21,9 @@ various topics, but mostly focus on ML.
 Meetings
 --------
 
-AIRG meets Wednesdays from 4-5pm in CS 4310 during spring 2018.
+AIRG meets Wednesdays from 4-5pm in CS 3310 during fall 2018.  (The
+exceptions are CS 4310 on 09/19 and 10/10, and no meeting on 11/21
+before Thanksgiving.)
 
 Occasionally, when appropriate, AIRG is canceled in favor of the
 [Statistics Seminar](https://www.stat.wisc.edu/seminars).
@@ -103,8 +105,11 @@ How to Participate
 Ideas for What to Present
 -------------------------
 
-* Papers from conferences and journals (e.g. NIPS, ICML, JMLR, KDD,
-  IJCAI, AAAI, IJCAI, MLJ, UAI, ECML-PKDD, AISTATS, RECOMB, CVPR)
+* Papers from conferences and journals (e.g. CVPR, NIPS, TPAMI, ICML,
+  Bioinformatics, JMLR, KDD, AAAI, Annals of Statistics, JAMIA, BMC
+  Bioinformatics, IJCAI, WSDM, Royal Statistical Society B, AIJ, JASA,
+  AISTATS, IJAR, MLJ, ICDM, JAIR, SDM, ECML-PKDD, UAI, AMIA, ECAI,
+  RECOMB, ICMLA, ICLR, etc.)
 * Papers / Chapters from the [PhD qualifying exam
   list](http://aiqual.cs.wisc.edu/).  This material is always worth
   reviewing, even for advanced students.

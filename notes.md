@@ -31,7 +31,8 @@ Website Update Process
       python3 archive.py archive.yaml > archive.md
 
   Then commit both `archive.yaml` and `archive.md`.
-* Optionally preview your work with Jekyll locally (https://jekyllrb.com/docs/usage/)
+* Optionally preview your work with Jekyll locally at
+  http://127.0.0.1:4000/ (see https://jekyllrb.com/docs/usage/)
   * Installing Jekyll on Fedora:
     https://developer.fedoraproject.org/start/sw/web-app/jekyll.html
 
