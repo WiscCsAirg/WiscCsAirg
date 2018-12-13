@@ -867,10 +867,12 @@ presentations:
     title: Auto-Encoding Variational Bayes
     authors: Diederik P. Kingma, Max Welling
     venue: ICLR
+    number: 2
     year: 2014
     links:
       venue:
-        toc:  https://sites.google.com/site/representationlearning2014/conference-proceedings
+        toc:  https://openreview.net/group?id=ICLR.cc/2014/conference
+        meta: https://openreview.net/forum?id=33X9fd2-9FyZd
       arxiv:
         toc:  https://arxiv.org/list/stat.ML/1312
         meta: https://arxiv.org/abs/1312.6114
@@ -894,11 +896,12 @@ presentations:
     title: Understanding deep learning requires rethinking generalization
     authors: Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
     venue: ICLR
+    number: 5
     year: 2017
     links:
       venue:
-        toc:  http://www.iclr.cc/doku.php?id=iclr2017:schedule
-        meta: "https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx"
+        toc:  https://openreview.net/group?id=ICLR.cc/2017/conference
+        meta: https://openreview.net/forum?id=Sy8gdB9xx
         pdf:  https://openreview.net/pdf?id=Sy8gdB9xx
       arxiv:
         toc:  https://arxiv.org/list/cs.LG/1611
@@ -1142,6 +1145,310 @@ presentations:
         toc:  https://openreview.net/group?id=ICLR.cc/2018/Conference
         meta: https://openreview.net/forum?id=HJWLfGWRb
         pdf:  https://openreview.net/pdf?id=HJWLfGWRb
+
+
+  # Fall 2018
+
+  - when: 2018-09-12
+    who: Jinman Zhao
+    title: "code2vec: Learning Distributed Representations of Code"
+    authors: Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav
+    venue: (to appear) POPL
+    number: 46
+    year: 2019
+    links:
+      venue:
+        toc:
+        meta:
+        pdf:
+        web:
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1803
+        meta: https://arxiv.org/abs/1803.09473
+        pdf:  https://arxiv.org/pdf/1803.09473
+
+  - when: 2018-09-12
+    who: Jinman Zhao
+    title: A General Path-Based Representation for Predicting Program Properties
+    authors: Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav
+    venue: PLDI
+    number: 39
+    year: 2018
+    links:
+      venue:
+        toc:  https://pldi18.sigplan.org/track/pldi-2018-papers
+        meta: https://pldi18.sigplan.org/event/pldi-2018-papers-a-general-path-based-representation-for-predicting-program-properties
+        pdf:  https://dl.acm.org/authorize.cfm?key=N650439
+      arxiv:
+        toc:  https://arxiv.org/list/cs.PL/1803
+        meta: https://arxiv.org/abs/1803.09544
+        pdf:  https://arxiv.org/pdf/1803.09544
+
+  - when: 2018-09-26
+    who: Vishnu Lokhande
+    title: Learning One-hidden-layer Neural Networks with Landscape Design
+    authors: Rong Ge, Jason D. Lee, Tengyu Ma
+    venue: ICLR
+    number: 6
+    year: 2018
+    links:
+      venue:
+        toc:  https://openreview.net/group?id=ICLR.cc/2018/Conference
+        meta: https://openreview.net/forum?id=BkwHObbRZ
+        pdf:  https://openreview.net/pdf?id=BkwHObbRZ
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1711
+        meta: https://arxiv.org/abs/1711.00501
+        pdf:  https://arxiv.org/pdf/1711.00501
+
+  - when: 2018-09-26
+    who: Vishnu Lokhande
+    title: Identifying Generalization Properties in Neural Networks
+    authors: Huan Wang, Nitish Shirish Keskar, Caiming Xiong, Richard Socher
+    venue: arXiv
+    number:
+    series:
+    year: 2018
+    links:
+      venue:
+        toc:
+        meta:
+        pdf:
+        web:
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1809
+        meta: https://arxiv.org/abs/1809.07402
+        pdf:  https://arxiv.org/pdf/1809.07402
+      info:
+        blog: https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks
+
+  - when: 2018-10-03
+    who: Matthew Bernstein
+    title: Bayesian Inference for a Generative Model of Transcriptome Profiles from Single-Cell RNA Sequencing
+    authors: Romain Lopez, Jeffrey Regier, Michael B. Cole, Michael I. Jordan, Nir Yosef
+    venue: bioRXiv
+    number:
+    series:
+    year: 2018
+    links:
+      venue:
+        toc:
+        meta:
+        pdf:
+        web:
+      arxiv:
+        toc:
+        meta: https://doi.org/10.1101/292037
+        pdf:  https://www.biorxiv.org/content/biorxiv/early/2018/10/14/292037.full-text.pdf
+
+  - when: 2018-10-10
+    who: Collin Engstrom
+    title: Applying family analyses to electronic health records to facilitate genetic research
+    authors: Xiayuan Huang, Robert C. Elston, Guilherme J. Rosa, John Mayer, Zhan Ye, Terrie Kitchner, Murray H. Brilliant, David Page, Scott J. Hebbring
+    venue: Bioinformatics
+    number: 34(4)
+    year: 2018
+    links:
+      venue:
+        toc:  https://academic.oup.com/bioinformatics/issue/34/4
+        meta: https://doi.org/10.1093/bioinformatics/btx569
+        pdf:  https://academic.oup.com/bioinformatics/article-pdf/34/4/635/25117276/btx569.pdf
+
+  - when: 2018-10-17
+    who: Finn Kuusisto
+    title: Learning Dexterous In-Hand Manipulation
+    authors: "OpenAI: Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba"
+    venue: arXiv
+    number:
+    series:
+    year: 2018
+    links:
+      venue:
+        toc:
+        meta:
+        pdf:
+        web:
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1808
+        meta: https://arxiv.org/abs/1808.00177
+        pdf:  https://arxiv.org/pdf/1808.00177
+      info:
+        blog: https://blog.openai.com/learning-dexterity/
+
+  - when: 2018-10-24
+    who: Jinman Zhao
+    title: Generalizing Word Embeddings using Bag of Subwords
+    authors: Jinman Zhao, Sidharth Mudgal, Yingyu Liang
+    venue: EMNLP
+    year: 2018
+    links:
+      venue:
+        toc:  https://aclanthology.coli.uni-saarland.de/events/emnlp-2018
+        meta: https://aclanthology.coli.uni-saarland.de/papers/D18-1059/d18-1059
+        pdf:  http://aclweb.org/anthology/D18-1059
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CL/1809
+        meta: https://arxiv.org/abs/1809.04259
+        pdf:  https://arxiv.org/pdf/1809.04259
+
+  - when: 2018-10-31
+    who: Yuriy Sverchkov
+    title: "Anchors: High-Precision Model-Agnostic Explanations"
+    authors: Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
+    venue: AAAI
+    number: 32
+    year: 2018
+    links:
+      venue:
+        toc:  https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations
+        meta: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982
+        pdf:  https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850
+      author:
+        pdf:  https://homes.cs.washington.edu/~marcotcr/aaai18.pdf
+
+  - when: 2018-10-31
+    who: Yuriy Sverchkov
+    title: "\"Why Should I Trust You?\": Explaining the Predictions of Any Classifier"
+    authors: Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
+    venue: KDD
+    number: 22
+    year: 2016
+    links:
+      venue:
+        toc:  https://www.kdd.org/kdd2016/program/accepted-papers
+        meta: https://www.kdd.org/kdd2016/subtopic/view/why-should-i-trust-you-explaining-the-predictions-of-any-classifier
+        pdf:  https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
+      info:
+        doi: https://doi.org/10.1145/2939672.2939778
+
+  - when: 2018-10-31
+    who: Yuriy Sverchkov
+    title: Extracting Tree-Structured Representations of Trained Networks
+    authors: Mark Craven, Jude W. Shavlik
+    venue: NIPS
+    number: 8
+    year: 1995
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-8-1995
+        meta: http://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-trained-networks
+        pdf:  http://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-trained-networks.pdf
+
+  - when: 2018-11-07
+    who: Xianda (Bryce) Xu
+    title: Binarized Neural Networks
+    authors: Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv, Yoshua Bengio
+    venue: NIPS
+    number: 29
+    year: 2016
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016
+        meta: http://papers.nips.cc/paper/6573-binarized-neural-networks
+        pdf:  http://papers.nips.cc/paper/6573-binarized-neural-networks.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1602
+        meta: https://arxiv.org/abs/1602.02830
+        pdf:  https://arxiv.org/pdf/1602.02830
+
+  - when: 2018-11-14
+    who: Ross Kleiman
+    title: "AUCμ: A Performance Metric for Multi-Class Models"
+    authors: Ross Kleiman, David Page
+    venue:
+    number:
+    series:
+    year:
+    links:
+      venue:
+        toc:
+        meta:
+        pdf:
+        web:
+      arxiv:
+        toc:
+        meta:
+        pdf:
+      author:
+        toc:
+        meta:
+        pdf:
+      info:
+
+  - when: 2018-11-28
+    who: Lucas Morton
+    title: Discovering Structure in High-Dimensional Data Through Correlation Explanation
+    authors: Greg Ver Steeg, Aram Galstyan
+    venue: NIPS
+    number: 27
+    year: 2014
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-27-2014
+        meta: https://papers.nips.cc/paper/5580-discovering-structure-in-high-dimensional-data-through-correlation-explanation
+        pdf:  https://papers.nips.cc/paper/5580-discovering-structure-in-high-dimensional-data-through-correlation-explanation.pdf
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1406
+        meta: https://arxiv.org/abs/1406.1222
+        pdf:  https://arxiv.org/pdf/1406.1222
+
+  - when: 2018-12-05
+    who: Yunyang Xiong
+    title: Resource-Constrained Neural Network Architecture Search
+    authors: Yunyang Xiong, Ronak Mehta, Vikas Singh
+    venue:
+    number:
+    series:
+    year:
+    links:
+      venue:
+        toc:
+        meta:
+        pdf:
+        web:
+      arxiv:
+        toc:
+        meta:
+        pdf:
+      author:
+        toc:
+        meta:
+        pdf:
+      info:
+
+  - when: 2018-12-12
+    who: David Merrell
+    title: "Geometric Deep Learning: Going Beyond Euclidean Data"
+    authors: Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst
+    venue: IEEE Signal Processing Magazine
+    number: 34(4)
+    year: 2017
+    links:
+      venue:
+        toc:  https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7974707
+        meta: https://doi.org/10.1109/MSP.2017.2693418
+        web:  https://ieeexplore.ieee.org/document/7974879
+      arxiv:
+        toc:  https://arxiv.org/list/cs.CV/1611
+        meta: https://arxiv.org/abs/1611.08097
+        pdf:  https://arxiv.org/pdf/1611.08097.pdf
+
+  - when: 2018-12-12
+    who: David Merrell
+    title: Spectral Networks and Locally Connected Networks on Graphs
+    authors: Joan Bruna, Wojciech Zaremba, Arthur Szlam, Yann LeCun
+    venue: ICLR
+    number: 2
+    year: 2014
+    links:
+      venue:
+        toc:  https://openreview.net/group?id=ICLR.cc/2014/conference
+        meta: https://openreview.net/forum?id=DQNsQf-UsoDBa
+      arxiv:
+        toc:  https://arxiv.org/list/cs.LG/1312
+        meta: https://arxiv.org/abs/1312.6203
+        pdf:  https://arxiv.org/pdf/1312.6203.pdf
+
 
 #  - when:     # date of AIRG, YYYY-MM-DD
 #    who:      # who presented at AIRG

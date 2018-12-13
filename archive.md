@@ -23,6 +23,121 @@ AIRG Archive
 <dd>
 <ul>
 <li class="paper">
+<p class="presentation">12/12, David Merrell</p>
+<p class="title">Geometric Deep Learning: Going Beyond Euclidean Data</p>
+<p class="authors">Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst</p>
+<p class="publication"><span class="venue">IEEE Signal Processing Magazine</span> <span class="number">34(4)</span>, <span class="year">2017</span></p>
+<p class="links">venue: <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7974707">toc</a> <a href="https://doi.org/10.1109/MSP.2017.2693418">meta</a> <a href="https://ieeexplore.ieee.org/document/7974879">web</a> | arxiv: <a href="https://arxiv.org/list/cs.CV/1611">toc</a> <a href="https://arxiv.org/abs/1611.08097">meta</a> <a href="https://arxiv.org/pdf/1611.08097.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">12/12, David Merrell</p>
+<p class="title">Spectral Networks and Locally Connected Networks on Graphs</p>
+<p class="authors">Joan Bruna, Wojciech Zaremba, Arthur Szlam, Yann LeCun</p>
+<p class="publication"><span class="venue">ICLR</span> <span class="number">2</span>, <span class="year">2014</span></p>
+<p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2014/conference">toc</a> <a href="https://openreview.net/forum?id=DQNsQf-UsoDBa">meta</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1312">toc</a> <a href="https://arxiv.org/abs/1312.6203">meta</a> <a href="https://arxiv.org/pdf/1312.6203.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">12/05, Yunyang Xiong</p>
+<p class="title">Resource-Constrained Neural Network Architecture Search</p>
+<p class="authors">Yunyang Xiong, Ronak Mehta, Vikas Singh</p>
+</li>
+<li class="paper">
+<p class="presentation">11/28, Lucas Morton</p>
+<p class="title">Discovering Structure in High-Dimensional Data Through Correlation Explanation</p>
+<p class="authors">Greg Ver Steeg, Aram Galstyan</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">27</span>, <span class="year">2014</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-27-2014">toc</a> <a href="https://papers.nips.cc/paper/5580-discovering-structure-in-high-dimensional-data-through-correlation-explanation">meta</a> <a href="https://papers.nips.cc/paper/5580-discovering-structure-in-high-dimensional-data-through-correlation-explanation.pdf">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1406">toc</a> <a href="https://arxiv.org/abs/1406.1222">meta</a> <a href="https://arxiv.org/pdf/1406.1222">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">11/14, Ross Kleiman</p>
+<p class="title">AUCμ: A Performance Metric for Multi-Class Models</p>
+<p class="authors">Ross Kleiman, David Page</p>
+</li>
+<li class="paper">
+<p class="presentation">11/07, Xianda (Bryce) Xu</p>
+<p class="title">Binarized Neural Networks</p>
+<p class="authors">Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv, Yoshua Bengio</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">29</span>, <span class="year">2016</span></p>
+<p class="links">venue: <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016">toc</a> <a href="http://papers.nips.cc/paper/6573-binarized-neural-networks">meta</a> <a href="http://papers.nips.cc/paper/6573-binarized-neural-networks.pdf">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1602">toc</a> <a href="https://arxiv.org/abs/1602.02830">meta</a> <a href="https://arxiv.org/pdf/1602.02830">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/31, Yuriy Sverchkov</p>
+<p class="title">Anchors: High-Precision Model-Agnostic Explanations</p>
+<p class="authors">Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin</p>
+<p class="publication"><span class="venue">AAAI</span> <span class="number">32</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/schedConf/presentations">toc</a> <a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982">meta</a> <a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850">pdf</a> | author: <a href="https://homes.cs.washington.edu/~marcotcr/aaai18.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/31, Yuriy Sverchkov</p>
+<p class="title">"Why Should I Trust You?": Explaining the Predictions of Any Classifier</p>
+<p class="authors">Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin</p>
+<p class="publication"><span class="venue">KDD</span> <span class="number">22</span>, <span class="year">2016</span></p>
+<p class="links">venue: <a href="https://www.kdd.org/kdd2016/program/accepted-papers">toc</a> <a href="https://www.kdd.org/kdd2016/subtopic/view/why-should-i-trust-you-explaining-the-predictions-of-any-classifier">meta</a> <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">pdf</a> | info: <a href="https://doi.org/10.1145/2939672.2939778">doi</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/31, Yuriy Sverchkov</p>
+<p class="title">Extracting Tree-Structured Representations of Trained Networks</p>
+<p class="authors">Mark Craven, Jude W. Shavlik</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">8</span>, <span class="year">1995</span></p>
+<p class="links">venue: <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-8-1995">toc</a> <a href="http://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-trained-networks">meta</a> <a href="http://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-trained-networks.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/24, Jinman Zhao</p>
+<p class="title">Generalizing Word Embeddings using Bag of Subwords</p>
+<p class="authors">Jinman Zhao, Sidharth Mudgal, Yingyu Liang</p>
+<p class="publication"><span class="venue">EMNLP</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://aclanthology.coli.uni-saarland.de/events/emnlp-2018">toc</a> <a href="https://aclanthology.coli.uni-saarland.de/papers/D18-1059/d18-1059">meta</a> <a href="http://aclweb.org/anthology/D18-1059">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.CL/1809">toc</a> <a href="https://arxiv.org/abs/1809.04259">meta</a> <a href="https://arxiv.org/pdf/1809.04259">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/17, Finn Kuusisto</p>
+<p class="title">Learning Dexterous In-Hand Manipulation</p>
+<p class="authors">OpenAI: Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba</p>
+<p class="publication"><span class="venue">arXiv</span>, <span class="year">2018</span></p>
+<p class="links">arxiv: <a href="https://arxiv.org/list/cs.LG/1808">toc</a> <a href="https://arxiv.org/abs/1808.00177">meta</a> <a href="https://arxiv.org/pdf/1808.00177">pdf</a> | info: <a href="https://blog.openai.com/learning-dexterity/">blog</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/10, Collin Engstrom</p>
+<p class="title">Applying family analyses to electronic health records to facilitate genetic research</p>
+<p class="authors">Xiayuan Huang, Robert C. Elston, Guilherme J. Rosa, John Mayer, Zhan Ye, Terrie Kitchner, Murray H. Brilliant, David Page, Scott J. Hebbring</p>
+<p class="publication"><span class="venue">Bioinformatics</span> <span class="number">34(4)</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://academic.oup.com/bioinformatics/issue/34/4">toc</a> <a href="https://doi.org/10.1093/bioinformatics/btx569">meta</a> <a href="https://academic.oup.com/bioinformatics/article-pdf/34/4/635/25117276/btx569.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">10/03, Matthew Bernstein</p>
+<p class="title">Bayesian Inference for a Generative Model of Transcriptome Profiles from Single-Cell RNA Sequencing</p>
+<p class="authors">Romain Lopez, Jeffrey Regier, Michael B. Cole, Michael I. Jordan, Nir Yosef</p>
+<p class="publication"><span class="venue">bioRXiv</span>, <span class="year">2018</span></p>
+<p class="links">arxiv: <a href="https://doi.org/10.1101/292037">meta</a> <a href="https://www.biorxiv.org/content/biorxiv/early/2018/10/14/292037.full-text.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">09/26, Vishnu Lokhande</p>
+<p class="title">Learning One-hidden-layer Neural Networks with Landscape Design</p>
+<p class="authors">Rong Ge, Jason D. Lee, Tengyu Ma</p>
+<p class="publication"><span class="venue">ICLR</span> <span class="number">6</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2018/Conference">toc</a> <a href="https://openreview.net/forum?id=BkwHObbRZ">meta</a> <a href="https://openreview.net/pdf?id=BkwHObbRZ">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1711">toc</a> <a href="https://arxiv.org/abs/1711.00501">meta</a> <a href="https://arxiv.org/pdf/1711.00501">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">09/26, Vishnu Lokhande</p>
+<p class="title">Identifying Generalization Properties in Neural Networks</p>
+<p class="authors">Huan Wang, Nitish Shirish Keskar, Caiming Xiong, Richard Socher</p>
+<p class="publication"><span class="venue">arXiv</span>, <span class="year">2018</span></p>
+<p class="links">arxiv: <a href="https://arxiv.org/list/cs.LG/1809">toc</a> <a href="https://arxiv.org/abs/1809.07402">meta</a> <a href="https://arxiv.org/pdf/1809.07402">pdf</a> | info: <a href="https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks">blog</a></p>
+</li>
+<li class="paper">
+<p class="presentation">09/12, Jinman Zhao</p>
+<p class="title">code2vec: Learning Distributed Representations of Code</p>
+<p class="authors">Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav</p>
+<p class="publication"><span class="venue">(to appear) POPL</span> <span class="number">46</span>, <span class="year">2019</span></p>
+<p class="links">arxiv: <a href="https://arxiv.org/list/cs.LG/1803">toc</a> <a href="https://arxiv.org/abs/1803.09473">meta</a> <a href="https://arxiv.org/pdf/1803.09473">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">09/12, Jinman Zhao</p>
+<p class="title">A General Path-Based Representation for Predicting Program Properties</p>
+<p class="authors">Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav</p>
+<p class="publication"><span class="venue">PLDI</span> <span class="number">39</span>, <span class="year">2018</span></p>
+<p class="links">venue: <a href="https://pldi18.sigplan.org/track/pldi-2018-papers">toc</a> <a href="https://pldi18.sigplan.org/event/pldi-2018-papers-a-general-path-based-representation-for-predicting-program-properties">meta</a> <a href="https://dl.acm.org/authorize.cfm?key=N650439">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.PL/1803">toc</a> <a href="https://arxiv.org/abs/1803.09544">meta</a> <a href="https://arxiv.org/pdf/1803.09544">pdf</a></p>
+</li>
+<li class="paper">
 <p class="presentation">05/02, Felipe Gutierrez</p>
 <p class="title">Matrix capsules with EM routing</p>
 <p class="authors">Geoffrey E. Hinton, Sara Sabour, Nicholas Frosst</p>
@@ -143,8 +258,8 @@ AIRG Archive
 <p class="presentation">11/15, Ayon Sen</p>
 <p class="title">Understanding deep learning requires rethinking generalization</p>
 <p class="authors">Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals</p>
-<p class="publication"><span class="venue">ICLR</span>, <span class="year">2017</span></p>
-<p class="links">venue: <a href="http://www.iclr.cc/doku.php?id=iclr2017:schedule">toc</a> <a href="https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx">meta</a> <a href="https://openreview.net/pdf?id=Sy8gdB9xx">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1611">toc</a> <a href="https://arxiv.org/abs/1611.03530">meta</a> <a href="https://arxiv.org/pdf/1611.03530">pdf</a></p>
+<p class="publication"><span class="venue">ICLR</span> <span class="number">5</span>, <span class="year">2017</span></p>
+<p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2017/conference">toc</a> <a href="https://openreview.net/forum?id=Sy8gdB9xx">meta</a> <a href="https://openreview.net/pdf?id=Sy8gdB9xx">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1611">toc</a> <a href="https://arxiv.org/abs/1611.03530">meta</a> <a href="https://arxiv.org/pdf/1611.03530">pdf</a></p>
 </li>
 <li class="paper">
 <p class="presentation">11/08, Sumeet Katariya</p>
@@ -157,8 +272,8 @@ AIRG Archive
 <p class="presentation">11/01, Ronak Mehta</p>
 <p class="title">Auto-Encoding Variational Bayes</p>
 <p class="authors">Diederik P. Kingma, Max Welling</p>
-<p class="publication"><span class="venue">ICLR</span>, <span class="year">2014</span></p>
-<p class="links">venue: <a href="https://sites.google.com/site/representationlearning2014/conference-proceedings">toc</a> | arxiv: <a href="https://arxiv.org/list/stat.ML/1312">toc</a> <a href="https://arxiv.org/abs/1312.6114">meta</a> <a href="https://arxiv.org/pdf/1312.6114">pdf</a></p>
+<p class="publication"><span class="venue">ICLR</span> <span class="number">2</span>, <span class="year">2014</span></p>
+<p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2014/conference">toc</a> <a href="https://openreview.net/forum?id=33X9fd2-9FyZd">meta</a> | arxiv: <a href="https://arxiv.org/list/stat.ML/1312">toc</a> <a href="https://arxiv.org/abs/1312.6114">meta</a> <a href="https://arxiv.org/pdf/1312.6114">pdf</a></p>
 </li>
 <li class="paper">
 <p class="presentation">10/25, Tyler Bradshaw</p>
