@@ -21,9 +21,9 @@ various topics, but mostly focus on ML.
 Meetings
 --------
 
-AIRG meets Wednesdays from 4-5pm in CS 3310 during fall 2018.  (The
-exceptions are CS 4310 on 09/19 and 10/10, and no meeting on 11/21
-before Thanksgiving.)
+AIRG meets Wednesdays from 4-5pm in CS 3310.  During spring 2019, AIRG
+runs from 01/30 to 05/01, with the following exceptions: 4:30pm on
+02/13, and no meeting on 03/20 due to spring break.
 
 Occasionally, when appropriate, AIRG is canceled in favor of the
 [Statistics Seminar](https://www.stat.wisc.edu/seminars).
@@ -32,15 +32,15 @@ Occasionally, when appropriate, AIRG is canceled in favor of the
 Mission
 -------
 
-The mission of AIRG is to provide a forum to
+The mission of AIRG is to provide an open forum to
 
 * Learn about AI and ML
 * Improve ability to read and understand academic literature
 * Practice critical analysis and discussion of research
 
 We strive to accommodate differing levels of education and experience
-and to provide a welcoming, accessible, open, and safe environment for
-all participants.
+and to provide a welcoming, accessible, and safe environment for all
+participants.
 
 All UW students and interested members of the public are welcome to
 participate in AIRG.
@@ -53,10 +53,12 @@ Why Participate?
 * Learn about interesting and exciting science with like-minded people
 * Build your academic skills (reading, analysis / criticism, writing,
   presenting)
-* Get faster at reading papers
 * Keep up with developments in ML and AI
-* Meet your colleagues
 * Satisfy your curiosity and explore new topics
+* Get faster at reading papers
+* Meet your colleagues
+* Increase the breadth of your knowledge (while research is often about
+  depth, you will need breadth for academic and other jobs)
 * Build your résumé (presentations go down in [history](archive.html)!)
 * Earn the respect of your peers
 
@@ -94,7 +96,7 @@ How to Participate
 * Show up to meetings (as often as you can!)
 * Read papers (as best you can!)
 * Lead paper discussions (optional but beneficial)
-* Join the mailing list (optional but essential):
+* Join the mailing list:
   [AIRG](https://lists.cs.wisc.edu/mailman/listinfo/airg).  The mailing
   list is the primary means of communication.  All readings are
   announced via the mailing list.  The list is limited to those with a

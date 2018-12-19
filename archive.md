@@ -111,7 +111,7 @@ AIRG Archive
 </li>
 <li class="paper">
 <p class="presentation">09/26, Vishnu Lokhande</p>
-<p class="title">Learning One-hidden-layer Neural Networks with Landscape Design</p>
+<p class="title">Learning One-Hidden-Layer Neural Networks with Landscape Design</p>
 <p class="authors">Rong Ge, Jason D. Lee, Tengyu Ma</p>
 <p class="publication"><span class="venue">ICLR</span> <span class="number">6</span>, <span class="year">2018</span></p>
 <p class="links">venue: <a href="https://openreview.net/group?id=ICLR.cc/2018/Conference">toc</a> <a href="https://openreview.net/forum?id=BkwHObbRZ">meta</a> <a href="https://openreview.net/pdf?id=BkwHObbRZ">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.LG/1711">toc</a> <a href="https://arxiv.org/abs/1711.00501">meta</a> <a href="https://arxiv.org/pdf/1711.00501">pdf</a></p>

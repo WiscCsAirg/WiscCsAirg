@@ -1186,7 +1186,7 @@ presentations:
 
   - when: 2018-09-26
     who: Vishnu Lokhande
-    title: Learning One-hidden-layer Neural Networks with Landscape Design
+    title: Learning One-Hidden-Layer Neural Networks with Landscape Design
     authors: Rong Ge, Jason D. Lee, Tengyu Ma
     venue: ICLR
     number: 6
