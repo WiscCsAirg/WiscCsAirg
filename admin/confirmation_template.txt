@@ -1,0 +1,42 @@
+Subject: AIRG [date] confirmation
+
+[presenter],
+
+This confirms that you have volunteered to present at AIRG on [date].
+
+The next steps are to choose a paper (if you haven't done so already), prepare to present and lead a discussion of it, and send out an announcement.
+
+-----
+
+Announcement Guidelines:
+
+About a week before you present, please send a message to the AIRG list announcing your paper.
+
+* Motivate reading the paper with a brief summary (a few sentences) and a description of relevance / interest. That is, market the paper; don't just send the abstract.
+
+* Include the title, authors, venue, and a perma-link preferably to the canonical version from the publisher. Do not attach a PDF [1].
+
+* Include a reminder of the date, time, and location. An example is below [2].
+
+* Make the e-mail subject a good at-a-glance summary, e.g., "Graphical Lasso, 03/01". (Note that the mailing list will prepend "[AIRG] " so you don't have to mention AIRG.)
+
+* Note that the message has to be sent from your AIRG subscription address.
+
+I will forward your announcement as a reminder the day before or the morning of.
+
+-----
+
+Let me know if you have any questions. Thank you very much for volunteering to present at AIRG!
+
+Aubrey
+
+[1] I (or you) can host a PDF on the web or send a PDF to those without paywall access as necessary.
+
+[2]
+4pm, Wednesday, February 15
+CS 3310
+Aubrey Barnard presents
+Finding Optimal Bayesian Networks
+David Maxwell Chickering, Christopher Meek
+Uncertainty in Artificial Intelligence 18, 2002
+https://dslpitt.org/uai/papers/02/p94-chickering.pdf
