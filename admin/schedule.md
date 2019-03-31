@@ -50,7 +50,6 @@ willing (but unscheduled) people:
 
 
 unwilling people:
-  *
 
 
 candidates (AI "area" students and postdocs):
@@ -117,10 +116,10 @@ print all the lines from the beginning of the candidates to the end of
 the file if the `q` instruction is omitted.
 
 drawn from:
-  faculty:
+  * faculty:
     * https://research.cs.wisc.edu/areas/ai/
     * https://machinelearning.wisc.edu/people/
-  students:
+  * students:
     * http://pages.cs.wisc.edu/~jerryzhu/group.html
     * http://pages.cs.wisc.edu/~dpage/
     * http://pages.cs.wisc.edu/~yliang/
