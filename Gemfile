@@ -21,3 +21,9 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 #group :jekyll_plugins do
 #end
+
+# Address security vulnerability notices posted by GitHub
+gem "ffi", ">= 1.9.24"
+gem "jekyll", ">= 3.7.4"
+gem "nokogiri", ">= 1.8.5"
+gem "rubyzip", ">= 1.2.2"
