@@ -3,9 +3,8 @@
 # Build settings
 markdown: kramdown
 theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
+source: content
+destination: _site
 
 # Site information
 title: UW-Madison AIRG
