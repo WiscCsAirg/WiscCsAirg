@@ -6,6 +6,15 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - admin
+  - archive.py
+  - notes.md
+
+# Note that GitHub Pages does not allow changing the source directory:
+# https://help.github.com/en/articles/configuring-jekyll
+# Thus many files need to be excluded.
 
 # Site information
 title: UW-Madison AIRG
