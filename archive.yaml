@@ -4,9 +4,11 @@
 # Archive of AIRG presentations, based in part on the old AIRG archive:
 # http://research.cs.wisc.edu/areas/ai/airg/archive.html
 
-# Copyright (c) 2018 AIRG Authors (CC-BY).  This is a free culture work
-# licensed to the public under a Creative Commons Attribution 4.0
-# International License (https://creativecommons.org/licenses/by/4.0/).
+# Copyright (c) 2017-2019 AIRG Authors (CC-BY).
+#
+# This is a free culture work licensed to the public under a Creative
+# Commons Attribution 4.0 International License
+# (https://creativecommons.org/licenses/by/4.0/).
 
 
 presentations:
@@ -703,246 +705,158 @@ presentations:
 
   - when: 2007-01-31
     who: Louis Oliphant
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: "On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes"
+    authors: Andrew Y. Ng, Michael I. Jordan
+    venue: NIPS
+    number: 14
+    year: 2001
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-14-2001
+        meta: https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes
+        pdf: https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf
+
+  - when: 2007-01-31
+    who: Louis Oliphant
+    title: Classification with Hybrid Generative / Discriminative Models
+    authors: Rajat Raina, Yirong Shen, Andrew McCallum, Andrew Y. Ng
+    venue: NIPS
+    number: 16
+    year: 2003
+    links:
+      venue:
+        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003
+        meta: https://papers.nips.cc/paper/2405-classification-with-hybrid-generativediscriminative-models
+        pdf: https://papers.nips.cc/paper/2405-classification-with-hybrid-generativediscriminative-models.pdf
 
   - when: 2007-02-14
     who: Lisa Torrey
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Relating reinforcement learning performance to classification performance
+    authors: John Langford, Bianca Zadrozny
+    venue: ICML
+    number: 22
+    year: 2005
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
+        toc: https://dl.acm.org/citation.cfm?id=1102351&picked=prox
+        meta: https://doi.org/10.1145/1102351.1102411
       author:
-        toc:
-        meta:
-        pdf:
-      info:
+        pdf: http://hunch.net/~jl/projects/reductions/RL_II/paper.pdf
 
   - when: 2007-03-14
     who: Ted Wild
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Rule extraction from linear support vector machines
+    authors: Glenn Fung, Sathyakama Sandilya, R. Bharat Rao
+    venue: KDD
+    number: 11
+    year: 2005
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
+        toc: https://dl.acm.org/citation.cfm?id=1081870&picked=prox
+        meta: https://doi.org/10.1145/1081870.1081878
       author:
-        toc:
-        meta:
-        pdf:
-      info:
+        pdf: http://pages.cs.wisc.edu/~gfung/rule_extraction_2005c.pdf
 
 
   # Fall 2007
 
   - when: 2007-09-17
     who: Ted Wild
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Model selection for support vector machines via uniform design
+    authors: Chien-Ming Huang, Yuh-Jye Lee, Dennis K. J. Lin, Su-Yun Huang
+    venue: Computational Statistics & Data Analysis
+    number: 52(1)
+    year: 2007
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: https://www.sciencedirect.com/science/journal/01679473/52/1
+        meta: https://doi.org/10.1016/j.csda.2007.02.013
 
   - when: 2007-10-01
     who: Héctor Corrada Bravo
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Convex optimization techniques for fitting sparse Gaussian graphical models
+    authors: Onureena Banerjee, Laurent El Ghaoui, Alexandre d'Aspremont, Georges Natsoulis
+    venue: ICML
+    number: 23
+    year: 2006
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
+        toc: https://dl.acm.org/citation.cfm?id=1143844&picked=prox
+        meta: https://doi.org/10.1145/1143844.1143856
       author:
-        toc:
-        meta:
-        pdf:
-      info:
+        pdf: https://people.eecs.berkeley.edu/~elghaoui/Pubs/CvxTechCovSel_ICML.pdf
 
   - when: 2007-10-15
     who: Andrew Goldberg
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification"
+    authors: John Blitzer, Mark Dredze, Fernando Pereira
+    venue: ACL
+    number: 45
+    year: 2007
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
+        toc: https://www.aclweb.org/anthology/volumes/P07-1/
+        meta: https://www.aclweb.org/anthology/P07-1056/
+        pdf: https://www.aclweb.org/anthology/P07-1056
       author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: http://john.blitzer.com/publications.html
+        pdf: http://john.blitzer.com/papers/sentiment_domain.pdf
 
   - when: 2007-11-05
     who: David Andrzejewski
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Nonparametric Bayes Pachinko Allocation
+    authors: Wei Li, David Blei, Andrew McCallum
+    venue: UAI
+    number: 23
+    year: 2007
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
+        toc: https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=23
+        meta: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=1696&proceeding_id=23
+        pdf: https://dslpitt.org/papers/07/p243-li.pdf
       arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: https://arxiv.org/list/cs.IR/1206
+        meta: https://arxiv.org/abs/1206.5270
+        pdf: https://arxiv.org/pdf/1206.5270
 
   - when: 2007-11-12
     who: Lisa Torrey
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Transfer Learning in Real-Time Strategy Games Using Hybrid CBR / RL
+    authors: Manu Sharma, Michael Holmes, Juan Santamaria, Arya Irani, Charles Isbell, Ashwin Ram
+    venue: IJCAI
+    number: 20
+    year: 2007
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: https://www.ijcai.org/proceedings/2007/
+        meta: https://www.ijcai.org/Abstract/07/168
+        pdf: https://www.ijcai.org/Proceedings/07/Papers/168.pdf
 
   - when: 2007-11-26
     who: Louis Oliphant
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Searching for Interacting Features
+    authors: Zheng Zhao, Huan Liu
+    venue: IJCAI
+    number: 20
+    year: 2007
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: https://www.ijcai.org/proceedings/2007/
+        meta: https://www.ijcai.org/Abstract/07/187
+        pdf: https://www.ijcai.org/Proceedings/07/Papers/187.pdf
 
   - when: 2007-12-10
     who: Chris Hinrichs
-    title:
-    authors:
-    venue:
-    number:
-    series:
-    year:
+    title: Spatial Latent Dirichlet Allocation
+    authors: Xiaogang Wang, Eric Grimson
+    venue: NIPS
+    number: 20
+    year: 2007
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: http://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007
+        meta: http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation
+        pdf: http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
 
 
   # Spring 2008
