@@ -4,8 +4,10 @@
 
 """
 
-# Copyright (c) 2017 AIRG Authors.  This is free software released under
-# the MIT License.  See `LICENSE.md` for details.
+# Copyright (c) 2017-2019 AIRG Authors.
+#
+# This is free software released under the MIT License.  See
+# `LICENSE.md` for details.
 
 
 from datetime import datetime
@@ -114,7 +116,7 @@ for presentation in presentations:
     output.write('<li class="paper">\n')
 
     # Date and presenter
-    output.write('<p class="presentation">{:%m/%d}'.format(pres_when))
+    output.write('<p class="presentation">{:%Y/%m/%d}'.format(pres_when))
     if pres_who:
         output.write(', {}'.format(pres_who))
     output.write('</p>\n')
