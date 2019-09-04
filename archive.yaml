@@ -738,7 +738,7 @@ presentations:
     year: 2005
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=1102351&picked=prox
+        toc: https://dl.acm.org/citation.cfm?id=1102351
         meta: https://doi.org/10.1145/1102351.1102411
       author:
         pdf: http://hunch.net/~jl/projects/reductions/RL_II/paper.pdf
@@ -752,7 +752,7 @@ presentations:
     year: 2005
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=1081870&picked=prox
+        toc: https://dl.acm.org/citation.cfm?id=1081870
         meta: https://doi.org/10.1145/1081870.1081878
       author:
         pdf: http://pages.cs.wisc.edu/~gfung/rule_extraction_2005c.pdf
@@ -781,7 +781,7 @@ presentations:
     year: 2006
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=1143844&picked=prox
+        toc: https://dl.acm.org/citation.cfm?id=1143844
         meta: https://doi.org/10.1145/1143844.1143856
       author:
         pdf: https://people.eecs.berkeley.edu/~elghaoui/Pubs/CvxTechCovSel_ICML.pdf
@@ -1606,25 +1606,14 @@ presentations:
     who: Ross Kleiman
     title: "AUCμ: A Performance Metric for Multi-Class Models"
     authors: Ross Kleiman, David Page
-    venue:
-    number:
-    series:
-    year:
+    venue: ICML
+    number: 36
+    year: 2019
     links:
       venue:
-        toc:
-        meta:
-        pdf:
-        web:
-      arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: http://proceedings.mlr.press/v97/
+        meta: http://proceedings.mlr.press/v97/kleiman19a.html
+        pdf: http://proceedings.mlr.press/v97/kleiman19a/kleiman19a.pdf
 
   - when: 2018-11-28
     who: Lucas Morton
@@ -1647,25 +1636,13 @@ presentations:
     who: Yunyang Xiong
     title: Resource-Constrained Neural Network Architecture Search
     authors: Yunyang Xiong, Ronak Mehta, Vikas Singh
-    venue:
-    number:
-    series:
-    year:
+    venue: arXive
+    year: 2019
     links:
-      venue:
-        toc:
-        meta:
-        pdf:
-        web:
       arxiv:
-        toc:
-        meta:
-        pdf:
-      author:
-        toc:
-        meta:
-        pdf:
-      info:
+        toc: https://arxiv.org/list/cs.CV/1904
+        meta: https://arxiv.org/abs/1904.03786
+        pdf: https://arxiv.org/pdf/1904.03786
 
   - when: 2018-12-12
     who: David Merrell
@@ -1699,6 +1676,203 @@ presentations:
         toc:  https://arxiv.org/list/cs.LG/1312
         meta: https://arxiv.org/abs/1312.6203
         pdf:  https://arxiv.org/pdf/1312.6203.pdf
+
+
+  # Spring 2019
+
+  - when: 2019-02-13
+    who: Finn Kuusisto
+    title: "The Hanabi Challenge: A New Frontier for AI Research"
+    authors: Nolan Bard, Jakob N. Foerster, Sarath Chandar, Neil Burch, Marc Lanctot, H. Francis Song, Emilio Parisotto, Vincent Dumoulin, Subhodeep Moitra, Edward Hughes, Iain Dunning, Shibl Mourad, Hugo Larochelle, Marc G. Bellemare, Michael Bowling
+    venue: arXiv
+    year: 2019
+    links:
+      arxiv:
+        toc: https://arxiv.org/list/cs.LG/1902
+        meta: https://arxiv.org/abs/1902.00506
+        pdf: https://arxiv.org/pdf/1902.00506
+      info:
+        research platform: https://github.com/deepmind/hanabi-learning-environment
+        board game: https://boardgamegeek.com/boardgame/98778/hanabi
+
+
+  - when: 2019-02-20
+    who: Sathya Ravi
+    title: Explicitly Imposing Constraints in Deep Networks via Conditional Gradients Gives Improved Generalization and Faster Convergence
+    authors: Sathya N. Ravi, Tuan Dinh, Vishnu Suresh Lokhande, Vikas Singh
+    venue: AAAI
+    number: 33
+    year: 2019
+    links:
+      venue:
+        toc: https://aaai.org/ojs/index.php/AAAI/issue/view/246
+        meta: https://doi.org/10.1609/aaai.v33i01.33014772
+        pdf: https://aaai.org/ojs/index.php/AAAI/article/view/4404/4282
+
+  - when: 2019-02-20
+    who: Sathya Ravi
+    title: Experimental Design on a Budget for Sparse Linear Models and Applications
+    authors: Sathya Narayanan Ravi, Vamsi Ithapu, Sterling Johnson, Vikas Singh
+    venue: ICML
+    number: 33
+    year: 2016
+    links:
+      venue:
+        toc: http://proceedings.mlr.press/v48/
+        meta: http://proceedings.mlr.press/v48/ravi16
+        pdf: http://proceedings.mlr.press/v48/ravi16.pdf
+
+  - when: 2019-02-27
+    who: Sid Kiblawi
+    title: Deep Neural Networks for YouTube Recommendations
+    authors: Paul Covington, Jay Adams, Emre Sargin
+    venue: RecSys
+    number: 10
+    year: 2016
+    links:
+      venue:
+        toc: https://dl.acm.org/citation.cfm?id=2959100
+        meta: https://doi.org/10.1145/2959100.2959190
+        pdf: https://dl.acm.org/ft_gateway.cfm?id=2959190
+
+  - when: 2019-03-06
+    who: Matt Bernstein
+    title: Using deep learning to model the hierarchical structure and function of a cell
+    authors: Jianzhu Ma, Michael Ku Yu, Samson Fong, Keiichiro Ono, Eric Sage, Barry Demchak, Roded Sharan, Trey Ideker
+    venue: Nature Methods
+    number: 15
+    year: 2018
+    links:
+      venue:
+        meta: https://doi.org/10.1038/nmeth.4627
+      author:
+        pdf: https://www.cs.tau.ac.il/~roded/dcell.pdf
+
+  - when: 2019-03-13
+    who: Tim Huegerich
+    title: "Causal inference in statistics: An overview"
+    authors: Judea Pearl
+    venue: Statistics Surveys
+    number: 3
+    year: 2009
+    links:
+      venue:
+        toc: https://projecteuclid.org/euclid.ssu/1239113308
+        meta: https://doi.org/10.1214/09-SS057
+        pdf: https://projecteuclid.org/download/pdfview_1/euclid.ssu/1255440554
+
+  - when: 2019-03-27
+    who: David Merrell
+    title: "Variational Inference: A Review for Statisticians"
+    authors: David M. Blei, Alp Kucukelbir, Jon D. McAuliffe
+    venue: JASA
+    number: 112(518)
+    year: 2017
+    links:
+      venue:
+        toc: https://www.tandfonline.com/toc/uasa20/112/518
+        meta: https://doi.org/10.1080/01621459.2017.1285773
+        pdf: https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773
+
+  - when: 2019-04-03
+    who: Ankit Pensia
+    title: Bandits With Heavy Tail
+    authors: Sébastien Bubeck, Nicolò Cesa-Bianchi, Gábor Lugosi
+    venue: IEEE Transactions on Information Theory
+    number: 59(11)
+    year: 2013
+    links:
+      venue:
+        toc: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6634534
+        meta: https://doi.org/10.1109/TIT.2013.2277869
+      author:
+        pdf: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/BCL13.pdf
+
+  - when: 2019-04-03
+    who: Ankit Pensia
+    title: Geometric median and robust estimation in Banach spaces
+    authors: Stanislav Minsker
+    venue: Bernoulli
+    number: 21(4)
+    year: 2015
+    links:
+      venue:
+        toc: https://projecteuclid.org/euclid.bj/1438777581
+        meta: https://doi.org/10.3150/14-BEJ645
+        pdf: https://projecteuclid.org/download/pdfview_1/euclid.bj/1438777595
+
+  - when: 2019-04-17
+    who: Xiaomin Zhang
+    title: Robust Regression via Hard Thresholding
+    authors: Kush Bhatia, Prateek Jain, Purushottam Kar
+    venue: NIPS
+    number: 28
+    year: 2015
+    links:
+      venue:
+        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-28-2015
+        meta: https://papers.nips.cc/paper/6010-robust-regression-via-hard-thresholding
+        pdf: https://papers.nips.cc/paper/6010-robust-regression-via-hard-thresholding.pdf
+      arxiv:
+        toc: https://arxiv.org/list/cs.LG/1506
+        meta: https://arxiv.org/abs/1506.02428
+        pdf: https://arxiv.org/pdf/1506.02428
+
+  - when: 2019-04-17
+    who: Xiaomin Zhang
+    title: Consistent Robust Regression
+    authors: Kush Bhatia, Prateek Jain, Parameswaran Kamalaruban, Purushottam Kar
+    venue: NIPS
+    number: 30
+    year: 2017
+    links:
+      venue:
+        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-30-2017
+        meta: https://papers.nips.cc/paper/6806-consistent-robust-regression
+        pdf: https://papers.nips.cc/paper/6806-consistent-robust-regression.pdf
+
+  - when: 2019-04-24
+    who: Ron Stewart
+    title: A Simple Text Mining Approach for Ranking Pairwise Associations in Biomedical Applications
+    authors: Finn Kuusisto, John Steill, Zhaobin Kuang, James Thomson, David Page, Ron Stewart
+    venue: AMIA Joint Summits on Translational Science
+    year: 2017
+    links:
+      venue:
+        toc: https://www.ncbi.nlm.nih.gov/pmc/issues/296406/
+        meta: https://www.ncbi.nlm.nih.gov/pubmed/28815126
+        pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543342/pdf/2611116.pdf
+        web: https://www.amia.org/jointsummits2017
+
+  - when: 2019-04-24
+    who: Ron Stewart
+    title: "Rediscovering Don Swanson: The Past, Present and Future of Literature-based Discovery"
+    authors: Neil R. Smalheiser
+    venue: Journal of Data and Information Science
+    number: 2(4)
+    year: 2017
+    links:
+      venue:
+        toc: https://content.sciendo.com/view/journals/jdis/2/4/jdis.2.issue-4.xml
+        meta: https://doi.org/10.1515/jdis-2017-0019
+        pdf: https://content.sciendo.com/downloadpdf/journals/jdis/2/4/article-p43.xml
+
+  - when: 2019-04-24
+    who: Ron Stewart
+    title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    authors: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+    venue: arXiv
+    year: 2018
+    links:
+      arxiv:
+        toc: https://arxiv.org/list/cs.CL/1810
+        meta: https://arxiv.org/abs/1810.04805
+        pdf: https://arxiv.org/pdf/1810.04805
+
+  - when: 2019-05-01
+    who: Ellie Yang
+    title: "Classification Algorithms in Modeling Categorical Variables: A Comparison of Multinomial Logistic Regression"
+    authors: Ellie Yang
 
 
 #  - when:     # date of AIRG, YYYY-MM-DD
