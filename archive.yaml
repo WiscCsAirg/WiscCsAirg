@@ -1263,6 +1263,70 @@ presentations:
 
   # Fall 2010
 
+  - when: 2010-09-29
+    who: Chris Hinrichs
+    title: Proximal Methods for Sparse Hierarchical Dictionary Learning
+    authors: Rodolphe Jenatton, Julien Mairal, Guillaume Obozinski, Francis Bach
+    venue: ICML
+    number: 27
+    year: 2010
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2010/abstracts.html
+        pdf:  https://icml.cc/Conferences/2010/papers/416.pdf
+
+  - when: 2010-10-13
+    who: Suhail Shergill
+    title: Structured Ranking Learning using Cumulative Distribution Networks
+    authors: Jim C. Huang, Brendan J. Frey
+    venue: NIPS
+    number: 21
+    year: 2008
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-21-2008
+        meta: http://papers.nips.cc/paper/3502-structured-ranking-learning-using-cumulative-distribution-networks
+        pdf:  http://papers.nips.cc/paper/3502-structured-ranking-learning-using-cumulative-distribution-networks.pdf
+
+  - when: 2010-10-27
+    who: Debbie Chasman
+    title: "Occam's Two Razors: The Sharp and the Blunt"
+    authors: Pedro Domingos
+    venue: KDD
+    number: 4
+    year: 1998
+    links:
+      venue:
+        toc:  https://www.aaai.org/Library/KDD/kdd98contents.php
+        meta: https://www.aaai.org/Library/KDD/1998/kdd98-006.php
+        pdf:  https://www.aaai.org/Papers/KDD/1998/KDD98-006.pdf
+
+  - when: 2010-11-10
+    who: Bryan Gibson
+    title: PAC Generalization Bounds for Co-training
+    authors: Sanjoy Dasgupta, Michael L. Littman, David A. McAllester
+    venue: NIPS
+    number: 14
+    year: 2001
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-14-2001
+        meta: https://papers.nips.cc/paper/2040-pac-generalization-bounds-for-co-training
+        pdf:  https://papers.nips.cc/paper/2040-pac-generalization-bounds-for-co-training.pdf
+
+  - when: 2010-12-08
+    who: Andreas Vlachos
+    title: A Multi-Pass Sieve for Coreference Resolution
+    authors: Karthik Raghunathan, Heeyoung Lee, Sudarshan Rangarajan, Nate Chambers, Mihai Surdeanu, Dan Jurafsky, Christopher Manning
+    venue: Empirical Methods in Natural Language Processing (EMNLP)
+    year: 2010
+    links:
+      venue:
+        toc:  https://www.cs.upc.edu/events/emnlp2010/papers.html
+      author:
+        pdf:  https://nlp.stanford.edu/pubs/coreference-emnlp10.pdf
+
+
   # Spring 2011
 
   # Fall 2011
