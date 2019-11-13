@@ -29,7 +29,7 @@ presentations:
         pdf: http://yann.lecun.com/exdb/publis/pdf/bottou-lecun-bengio-97.pdf
 
   - when: 2002-02-15
-    who:  Mark Rich
+    who: Mark Rich
     title: Stochastic Logic Programs
     authors: Stephen Muggleton
     venue: Advances in Inductive Logic Programming
@@ -607,7 +607,7 @@ presentations:
   # Fall 2006
 
   - when: 2006-09-25
-    who: Frank Dimaio
+    who: Frank DiMaio
     title: "Hot Coupling: A Particle Approach to Inference and Normalization on Pairwise Undirected Graphs of Arbitrary Topology"
     authors: Firas Hamze, Nando de Freitas
     venue: NIPS
@@ -712,9 +712,9 @@ presentations:
     year: 2001
     links:
       venue:
-        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-14-2001
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-14-2001
         meta: https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes
-        pdf: https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf
+        pdf:  https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf
 
   - when: 2007-01-31
     who: Louis Oliphant
@@ -725,9 +725,9 @@ presentations:
     year: 2003
     links:
       venue:
-        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003
         meta: https://papers.nips.cc/paper/2405-classification-with-hybrid-generativediscriminative-models
-        pdf: https://papers.nips.cc/paper/2405-classification-with-hybrid-generativediscriminative-models.pdf
+        pdf:  https://papers.nips.cc/paper/2405-classification-with-hybrid-generativediscriminative-models.pdf
 
   - when: 2007-02-14
     who: Lisa Torrey
@@ -738,10 +738,10 @@ presentations:
     year: 2005
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=1102351
+        toc:  https://dl.acm.org/citation.cfm?id=1102351
         meta: https://doi.org/10.1145/1102351.1102411
       author:
-        pdf: http://hunch.net/~jl/projects/reductions/RL_II/paper.pdf
+        pdf:  http://hunch.net/~jl/projects/reductions/RL_II/paper.pdf
 
   - when: 2007-03-14
     who: Ted Wild
@@ -752,10 +752,10 @@ presentations:
     year: 2005
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=1081870
+        toc:  https://dl.acm.org/citation.cfm?id=1081870
         meta: https://doi.org/10.1145/1081870.1081878
       author:
-        pdf: http://pages.cs.wisc.edu/~gfung/rule_extraction_2005c.pdf
+        pdf:  http://pages.cs.wisc.edu/~gfung/rule_extraction_2005c.pdf
 
 
   # Fall 2007
@@ -769,7 +769,7 @@ presentations:
     year: 2007
     links:
       venue:
-        toc: https://www.sciencedirect.com/science/journal/01679473/52/1
+        toc:  https://www.sciencedirect.com/science/journal/01679473/52/1
         meta: https://doi.org/10.1016/j.csda.2007.02.013
 
   - when: 2007-10-01
@@ -781,10 +781,10 @@ presentations:
     year: 2006
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=1143844
+        toc:  https://dl.acm.org/citation.cfm?id=1143844
         meta: https://doi.org/10.1145/1143844.1143856
       author:
-        pdf: https://people.eecs.berkeley.edu/~elghaoui/Pubs/CvxTechCovSel_ICML.pdf
+        pdf:  https://people.eecs.berkeley.edu/~elghaoui/Pubs/CvxTechCovSel_ICML.pdf
 
   - when: 2007-10-15
     who: Andrew Goldberg
@@ -795,12 +795,12 @@ presentations:
     year: 2007
     links:
       venue:
-        toc: https://www.aclweb.org/anthology/volumes/P07-1/
+        toc:  https://www.aclweb.org/anthology/volumes/P07-1/
         meta: https://www.aclweb.org/anthology/P07-1056/
-        pdf: https://www.aclweb.org/anthology/P07-1056
+        pdf:  https://www.aclweb.org/anthology/P07-1056
       author:
-        toc: http://john.blitzer.com/publications.html
-        pdf: http://john.blitzer.com/papers/sentiment_domain.pdf
+        toc:  http://john.blitzer.com/publications.html
+        pdf:  http://john.blitzer.com/papers/sentiment_domain.pdf
 
   - when: 2007-11-05
     who: David Andrzejewski
@@ -811,13 +811,13 @@ presentations:
     year: 2007
     links:
       venue:
-        toc: https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=23
+        toc:  https://dslpitt.org/uai/displayArticles.jsp?mmnu=1&smnu=1&proceeding_id=23
         meta: https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=1696&proceeding_id=23
-        pdf: https://dslpitt.org/papers/07/p243-li.pdf
+        pdf:  https://dslpitt.org/papers/07/p243-li.pdf
       arxiv:
-        toc: https://arxiv.org/list/cs.IR/1206
+        toc:  https://arxiv.org/list/cs.IR/1206
         meta: https://arxiv.org/abs/1206.5270
-        pdf: https://arxiv.org/pdf/1206.5270
+        pdf:  https://arxiv.org/pdf/1206.5270
 
   - when: 2007-11-12
     who: Lisa Torrey
@@ -828,9 +828,9 @@ presentations:
     year: 2007
     links:
       venue:
-        toc: https://www.ijcai.org/proceedings/2007/
+        toc:  https://www.ijcai.org/proceedings/2007/
         meta: https://www.ijcai.org/Abstract/07/168
-        pdf: https://www.ijcai.org/Proceedings/07/Papers/168.pdf
+        pdf:  https://www.ijcai.org/Proceedings/07/Papers/168.pdf
 
   - when: 2007-11-26
     who: Louis Oliphant
@@ -841,9 +841,9 @@ presentations:
     year: 2007
     links:
       venue:
-        toc: https://www.ijcai.org/proceedings/2007/
+        toc:  https://www.ijcai.org/proceedings/2007/
         meta: https://www.ijcai.org/Abstract/07/187
-        pdf: https://www.ijcai.org/Proceedings/07/Papers/187.pdf
+        pdf:  https://www.ijcai.org/Proceedings/07/Papers/187.pdf
 
   - when: 2007-12-10
     who: Chris Hinrichs
@@ -854,9 +854,9 @@ presentations:
     year: 2007
     links:
       venue:
-        toc: http://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007
         meta: http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation
-        pdf: http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
+        pdf:  http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
 
 
   # Spring 2008
@@ -919,7 +919,7 @@ presentations:
     who: Ted Wild
     title: Online Bayes Point Machines
     authors: Edward Harrington, Ralf Herbrich, Jyrki Kivinen, John Platt, Robert C. Williamson
-    venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+    venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining (PACKDD)
     number: 7
     year: 2003
     links:
@@ -929,7 +929,7 @@ presentations:
 
   - when: 2008-04-09
     who: Lisa Torrey
-    title: WebCrow: A Web-Based System for Crossword Solving
+    title: "WebCrow: A Web-Based System for Crossword Solving"
     authors: Marco Ernandes, Giovanni Angelini, Marco Gori
     venue: AAAI
     number: 20
@@ -971,7 +971,7 @@ presentations:
 
   - when: 2008-09-15
     who: Eric Lantz
-    title: SVM Optimization: Inverse Dependence on Training Set Size
+    title: "SVM Optimization: Inverse Dependence on Training Set Size"
     authors: Shai Shalev-Shwartz, Nathan Srebro
     venue: ICML
     number: 25
@@ -1570,7 +1570,7 @@ presentations:
         pdf:  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf
 
   - when: 2017-10-11
-    who: Felipe Gutierrez-Barragan
+    who: Felipe Gutierrez Barragan
     title: Generative Adversarial Nets
     authors: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
     venue: NIPS
@@ -1894,7 +1894,7 @@ presentations:
         news: https://arstechnica.com/science/2018/04/machine-learning-says-homo-naledi-may-not-have-buried-its-dead/
 
   - when: 2018-05-02
-    who: Felipe Gutierrez
+    who: Felipe Gutierrez Barragan
     title: Matrix capsules with EM routing
     authors: Geoffrey E. Hinton, Sara Sabour, Nicholas Frosst
     venue: ICLR
@@ -2079,7 +2079,7 @@ presentations:
         meta: https://www.kdd.org/kdd2016/subtopic/view/why-should-i-trust-you-explaining-the-predictions-of-any-classifier
         pdf:  https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
       info:
-        doi: https://doi.org/10.1145/2939672.2939778
+        doi:  https://doi.org/10.1145/2939672.2939778
 
   - when: 2018-10-31
     who: Yuriy Sverchkov
@@ -2120,9 +2120,9 @@ presentations:
     year: 2019
     links:
       venue:
-        toc: http://proceedings.mlr.press/v97/
+        toc:  http://proceedings.mlr.press/v97/
         meta: http://proceedings.mlr.press/v97/kleiman19a.html
-        pdf: http://proceedings.mlr.press/v97/kleiman19a/kleiman19a.pdf
+        pdf:  http://proceedings.mlr.press/v97/kleiman19a/kleiman19a.pdf
 
   - when: 2018-11-28
     who: Lucas Morton
@@ -2149,9 +2149,9 @@ presentations:
     year: 2019
     links:
       arxiv:
-        toc: https://arxiv.org/list/cs.CV/1904
+        toc:  https://arxiv.org/list/cs.CV/1904
         meta: https://arxiv.org/abs/1904.03786
-        pdf: https://arxiv.org/pdf/1904.03786
+        pdf:  https://arxiv.org/pdf/1904.03786
 
   - when: 2018-12-12
     who: David Merrell
@@ -2197,9 +2197,9 @@ presentations:
     year: 2019
     links:
       arxiv:
-        toc: https://arxiv.org/list/cs.LG/1902
+        toc:  https://arxiv.org/list/cs.LG/1902
         meta: https://arxiv.org/abs/1902.00506
-        pdf: https://arxiv.org/pdf/1902.00506
+        pdf:  https://arxiv.org/pdf/1902.00506
       info:
         research platform: https://github.com/deepmind/hanabi-learning-environment
         board game: https://boardgamegeek.com/boardgame/98778/hanabi
@@ -2214,9 +2214,9 @@ presentations:
     year: 2019
     links:
       venue:
-        toc: https://aaai.org/ojs/index.php/AAAI/issue/view/246
+        toc:  https://aaai.org/ojs/index.php/AAAI/issue/view/246
         meta: https://doi.org/10.1609/aaai.v33i01.33014772
-        pdf: https://aaai.org/ojs/index.php/AAAI/article/view/4404/4282
+        pdf:  https://aaai.org/ojs/index.php/AAAI/article/view/4404/4282
 
   - when: 2019-02-20
     who: Sathya Ravi
@@ -2227,9 +2227,9 @@ presentations:
     year: 2016
     links:
       venue:
-        toc: http://proceedings.mlr.press/v48/
+        toc:  http://proceedings.mlr.press/v48/
         meta: http://proceedings.mlr.press/v48/ravi16
-        pdf: http://proceedings.mlr.press/v48/ravi16.pdf
+        pdf:  http://proceedings.mlr.press/v48/ravi16.pdf
 
   - when: 2019-02-27
     who: Sid Kiblawi
@@ -2240,12 +2240,12 @@ presentations:
     year: 2016
     links:
       venue:
-        toc: https://dl.acm.org/citation.cfm?id=2959100
+        toc:  https://dl.acm.org/citation.cfm?id=2959100
         meta: https://doi.org/10.1145/2959100.2959190
-        pdf: https://dl.acm.org/ft_gateway.cfm?id=2959190
+        pdf:  https://dl.acm.org/ft_gateway.cfm?id=2959190
 
   - when: 2019-03-06
-    who: Matt Bernstein
+    who: Matthew Bernstein
     title: Using deep learning to model the hierarchical structure and function of a cell
     authors: Jianzhu Ma, Michael Ku Yu, Samson Fong, Keiichiro Ono, Eric Sage, Barry Demchak, Roded Sharan, Trey Ideker
     venue: Nature Methods
@@ -2255,7 +2255,7 @@ presentations:
       venue:
         meta: https://doi.org/10.1038/nmeth.4627
       author:
-        pdf: https://www.cs.tau.ac.il/~roded/dcell.pdf
+        pdf:  https://www.cs.tau.ac.il/~roded/dcell.pdf
 
   - when: 2019-03-13
     who: Tim Huegerich
@@ -2266,9 +2266,9 @@ presentations:
     year: 2009
     links:
       venue:
-        toc: https://projecteuclid.org/euclid.ssu/1239113308
+        toc:  https://projecteuclid.org/euclid.ssu/1239113308
         meta: https://doi.org/10.1214/09-SS057
-        pdf: https://projecteuclid.org/download/pdfview_1/euclid.ssu/1255440554
+        pdf:  https://projecteuclid.org/download/pdfview_1/euclid.ssu/1255440554
 
   - when: 2019-03-27
     who: David Merrell
@@ -2279,9 +2279,9 @@ presentations:
     year: 2017
     links:
       venue:
-        toc: https://www.tandfonline.com/toc/uasa20/112/518
+        toc:  https://www.tandfonline.com/toc/uasa20/112/518
         meta: https://doi.org/10.1080/01621459.2017.1285773
-        pdf: https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773
+        pdf:  https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773
 
   - when: 2019-04-03
     who: Ankit Pensia
@@ -2292,10 +2292,10 @@ presentations:
     year: 2013
     links:
       venue:
-        toc: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6634534
+        toc:  https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6634534
         meta: https://doi.org/10.1109/TIT.2013.2277869
       author:
-        pdf: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/BCL13.pdf
+        pdf:  https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/BCL13.pdf
 
   - when: 2019-04-03
     who: Ankit Pensia
@@ -2306,9 +2306,9 @@ presentations:
     year: 2015
     links:
       venue:
-        toc: https://projecteuclid.org/euclid.bj/1438777581
+        toc:  https://projecteuclid.org/euclid.bj/1438777581
         meta: https://doi.org/10.3150/14-BEJ645
-        pdf: https://projecteuclid.org/download/pdfview_1/euclid.bj/1438777595
+        pdf:  https://projecteuclid.org/download/pdfview_1/euclid.bj/1438777595
 
   - when: 2019-04-17
     who: Xiaomin Zhang
@@ -2319,13 +2319,13 @@ presentations:
     year: 2015
     links:
       venue:
-        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-28-2015
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-28-2015
         meta: https://papers.nips.cc/paper/6010-robust-regression-via-hard-thresholding
-        pdf: https://papers.nips.cc/paper/6010-robust-regression-via-hard-thresholding.pdf
+        pdf:  https://papers.nips.cc/paper/6010-robust-regression-via-hard-thresholding.pdf
       arxiv:
-        toc: https://arxiv.org/list/cs.LG/1506
+        toc:  https://arxiv.org/list/cs.LG/1506
         meta: https://arxiv.org/abs/1506.02428
-        pdf: https://arxiv.org/pdf/1506.02428
+        pdf:  https://arxiv.org/pdf/1506.02428
 
   - when: 2019-04-17
     who: Xiaomin Zhang
@@ -2336,9 +2336,9 @@ presentations:
     year: 2017
     links:
       venue:
-        toc: https://papers.nips.cc/book/advances-in-neural-information-processing-systems-30-2017
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-30-2017
         meta: https://papers.nips.cc/paper/6806-consistent-robust-regression
-        pdf: https://papers.nips.cc/paper/6806-consistent-robust-regression.pdf
+        pdf:  https://papers.nips.cc/paper/6806-consistent-robust-regression.pdf
 
   - when: 2019-04-24
     who: Ron Stewart
@@ -2348,10 +2348,10 @@ presentations:
     year: 2017
     links:
       venue:
-        toc: https://www.ncbi.nlm.nih.gov/pmc/issues/296406/
+        toc:  https://www.ncbi.nlm.nih.gov/pmc/issues/296406/
         meta: https://www.ncbi.nlm.nih.gov/pubmed/28815126
-        pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543342/pdf/2611116.pdf
-        web: https://www.amia.org/jointsummits2017
+        pdf:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543342/pdf/2611116.pdf
+        web:  https://www.amia.org/jointsummits2017
 
   - when: 2019-04-24
     who: Ron Stewart
@@ -2362,9 +2362,9 @@ presentations:
     year: 2017
     links:
       venue:
-        toc: https://content.sciendo.com/view/journals/jdis/2/4/jdis.2.issue-4.xml
+        toc:  https://content.sciendo.com/view/journals/jdis/2/4/jdis.2.issue-4.xml
         meta: https://doi.org/10.1515/jdis-2017-0019
-        pdf: https://content.sciendo.com/downloadpdf/journals/jdis/2/4/article-p43.xml
+        pdf:  https://content.sciendo.com/downloadpdf/journals/jdis/2/4/article-p43.xml
 
   - when: 2019-04-24
     who: Ron Stewart
@@ -2374,9 +2374,9 @@ presentations:
     year: 2018
     links:
       arxiv:
-        toc: https://arxiv.org/list/cs.CL/1810
+        toc:  https://arxiv.org/list/cs.CL/1810
         meta: https://arxiv.org/abs/1810.04805
-        pdf: https://arxiv.org/pdf/1810.04805
+        pdf:  https://arxiv.org/pdf/1810.04805
 
   - when: 2019-05-01
     who: Ellie Yang

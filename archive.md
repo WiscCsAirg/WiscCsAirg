@@ -3,8 +3,8 @@ copyright_year: 2019
 title: Archive
 ---
 
-AIRG Archive
-============
+Archive of AIRG Presentations
+=============================
 
 
 <div class="toc">
@@ -12,6 +12,10 @@ AIRG Archive
 <li><a href="#2019">2019</a></li>
 <li><a href="#2018">2018</a></li>
 <li><a href="#2017">2017</a></li>
+<li><a href="#2011">2011</a></li>
+<li><a href="#2010">2010</a></li>
+<li><a href="#2009">2009</a></li>
+<li><a href="#2008">2008</a></li>
 <li><a href="#2007">2007</a></li>
 <li><a href="#2006">2006</a></li>
 <li><a href="#2005">2005</a></li>
@@ -93,7 +97,7 @@ AIRG Archive
 <p class="links">venue: <a href="https://projecteuclid.org/euclid.ssu/1239113308">toc</a> <a href="https://doi.org/10.1214/09-SS057">meta</a> <a href="https://projecteuclid.org/download/pdfview_1/euclid.ssu/1255440554">pdf</a></p>
 </li>
 <li class="paper">
-<p class="presentation">2019/03/06, Matt Bernstein</p>
+<p class="presentation">2019/03/06, Matthew Bernstein</p>
 <p class="title">Using deep learning to model the hierarchical structure and function of a cell</p>
 <p class="authors">Jianzhu Ma, Michael Ku Yu, Samson Fong, Keiichiro Ono, Eric Sage, Barry Demchak, Roded Sharan, Trey Ideker</p>
 <p class="publication"><span class="venue">Nature Methods</span> <span class="number">15</span>, <span class="year">2018</span></p>
@@ -252,7 +256,7 @@ AIRG Archive
 <p class="links">venue: <a href="https://pldi18.sigplan.org/track/pldi-2018-papers">toc</a> <a href="https://pldi18.sigplan.org/event/pldi-2018-papers-a-general-path-based-representation-for-predicting-program-properties">meta</a> <a href="https://dl.acm.org/authorize.cfm?key=N650439">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.PL/1803">toc</a> <a href="https://arxiv.org/abs/1803.09544">meta</a> <a href="https://arxiv.org/pdf/1803.09544">pdf</a></p>
 </li>
 <li class="paper">
-<p class="presentation">2018/05/02, Felipe Gutierrez</p>
+<p class="presentation">2018/05/02, Felipe Gutierrez Barragan</p>
 <p class="title">Matrix capsules with EM routing</p>
 <p class="authors">Geoffrey E. Hinton, Sara Sabour, Nicholas Frosst</p>
 <p class="publication"><span class="venue">ICLR</span> <span class="number">6</span>, <span class="year">2018</span></p>
@@ -410,7 +414,7 @@ AIRG Archive
 <p class="links">venue: <a href="http://openaccess.thecvf.com/CVPR2017.py">toc</a> <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.html">meta</a> <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf">pdf</a> | arxiv: <a href="https://arxiv.org/list/cs.CV/1608">toc</a> <a href="https://arxiv.org/abs/1608.06993">meta</a> <a href="https://arxiv.org/pdf/1608.06993">pdf</a></p>
 </li>
 <li class="paper">
-<p class="presentation">2017/10/11, Felipe Gutierrez-Barragan</p>
+<p class="presentation">2017/10/11, Felipe Gutierrez Barragan</p>
 <p class="title">Generative Adversarial Nets</p>
 <p class="authors">Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio</p>
 <p class="publication"><span class="venue">NIPS</span> <span class="number">27</span>, <span class="year">2014</span></p>
@@ -499,6 +503,299 @@ AIRG Archive
 <p class="authors">David Maxwell Chickering, Christopher Meek</p>
 <p class="publication"><span class="venue">UAI</span> <span class="number">18</span>, <span class="year">2002</span></p>
 <p class="links">venue: <a href="https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&smnu=2&article_id=849&proceeding_id=18">meta</a> <a href="https://dslpitt.org/uai/papers/02/p94-chickering.pdf">pdf</a></p>
+</li>
+</ul>
+</dd>
+<dt class="year" id="2011">2011</dt>
+<dd>
+<ul>
+<li class="paper">
+<p class="presentation">2011/04/27, Chris Hinrichs</p>
+<p class="title">Maximum Relative Margin and Data-Dependent Regularization</p>
+<p class="authors">Pannagadatta K. Shivaswamy, Tony Jebara</p>
+<p class="publication"><span class="venue">JMLR</span> <span class="number">11(Feb)</span>, <span class="year">2010</span></p>
+<p class="links">venue: <a href="http://www.jmlr.org/papers/v11/">toc</a> <a href="http://www.jmlr.org/papers/v11/shivaswamy10a.html">meta</a> <a href="http://www.jmlr.org/papers/volume11/shivaswamy10a/shivaswamy10a.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2011/04/13, Andreas Vlachos</p>
+<p class="title">Learning Semantic Correspondences with Less Supervision</p>
+<p class="authors">Percy Liang, Michael Jordan, Dan Klein</p>
+<p class="publication"><span class="venue">International Joint Conference on Natural Language Processing (IJCNLP)</span> <span class="number">4</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="https://www.aclweb.org/anthology/volumes/P09-1/">toc</a> <a href="https://www.aclweb.org/anthology/P09-1011/">meta</a> <a href="https://www.aclweb.org/anthology/P09-1011.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2011/03/30, Kwang-Sun Jun</p>
+<p class="title">Modeling Dyadic Data with Binary Latent Factors</p>
+<p class="authors">Edward Meeds, Zoubin Ghahramani, Radford M. Neal, Sam T. Roweis</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">19</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-19-2006">toc</a> <a href="http://papers.nips.cc/paper/3033-modeling-dyadic-data-with-binary-latent-factors">meta</a> <a href="http://papers.nips.cc/paper/3033-modeling-dyadic-data-with-binary-latent-factors.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2011/03/02, Junming Sui</p>
+<p class="title">When is There a Representer Theorem? Vector Versus Matrix Regularizers</p>
+<p class="authors">Andreas Argyriou, Charles A. Micchelli, Massimiliano Pontil</p>
+<p class="publication"><span class="venue">JMLR</span> <span class="number">10(Nov)</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="http://www.jmlr.org/papers/v10/">toc</a> <a href="http://www.jmlr.org/papers/v10/argyriou09a.html">meta</a> <a href="http://www.jmlr.org/papers/volume10/argyriou09a/argyriou09a.pdf">pdf</a></p>
+</li>
+</ul>
+</dd>
+<dt class="year" id="2010">2010</dt>
+<dd>
+<ul>
+<li class="paper">
+<p class="presentation">2010/12/08, Andreas Vlachos</p>
+<p class="title">A Multi-Pass Sieve for Coreference Resolution</p>
+<p class="authors">Karthik Raghunathan, Heeyoung Lee, Sudarshan Rangarajan, Nate Chambers, Mihai Surdeanu, Dan Jurafsky, Christopher Manning</p>
+<p class="publication"><span class="venue">Empirical Methods in Natural Language Processing (EMNLP)</span>, <span class="year">2010</span></p>
+<p class="links">venue: <a href="https://www.cs.upc.edu/events/emnlp2010/papers.html">toc</a> | author: <a href="https://nlp.stanford.edu/pubs/coreference-emnlp10.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/11/10, Bryan Gibson</p>
+<p class="title">PAC Generalization Bounds for Co-training</p>
+<p class="authors">Sanjoy Dasgupta, Michael L. Littman, David A. McAllester</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">14</span>, <span class="year">2001</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-14-2001">toc</a> <a href="https://papers.nips.cc/paper/2040-pac-generalization-bounds-for-co-training">meta</a> <a href="https://papers.nips.cc/paper/2040-pac-generalization-bounds-for-co-training.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/10/27, Debbie Chasman</p>
+<p class="title">Occam's Two Razors: The Sharp and the Blunt</p>
+<p class="authors">Pedro Domingos</p>
+<p class="publication"><span class="venue">KDD</span> <span class="number">4</span>, <span class="year">1998</span></p>
+<p class="links">venue: <a href="https://www.aaai.org/Library/KDD/kdd98contents.php">toc</a> <a href="https://www.aaai.org/Library/KDD/1998/kdd98-006.php">meta</a> <a href="https://www.aaai.org/Papers/KDD/1998/KDD98-006.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/10/13, Suhail Shergill</p>
+<p class="title">Structured Ranking Learning using Cumulative Distribution Networks</p>
+<p class="authors">Jim C. Huang, Brendan J. Frey</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">21</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-21-2008">toc</a> <a href="http://papers.nips.cc/paper/3502-structured-ranking-learning-using-cumulative-distribution-networks">meta</a> <a href="http://papers.nips.cc/paper/3502-structured-ranking-learning-using-cumulative-distribution-networks.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/09/29, Chris Hinrichs</p>
+<p class="title">Proximal Methods for Sparse Hierarchical Dictionary Learning</p>
+<p class="authors">Rodolphe Jenatton, Julien Mairal, Guillaume Obozinski, Francis Bach</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">27</span>, <span class="year">2010</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2010/abstracts.html">toc</a> <a href="https://icml.cc/Conferences/2010/papers/416.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/04/07, Suhail Shergill</p>
+<p class="title">Bayesian Algorithms for Causal Data Mining</p>
+<p class="authors">Subramani Mani, Constantin F. Aliferis, Alexander Statnikov</p>
+<p class="publication"><span class="venue">NIPS 2008 Workshop on Causality</span> <span class="number">PMLR 6</span>, <span class="year">2010</span></p>
+<p class="links">venue: <a href="http://proceedings.mlr.press/v6/">toc</a> <a href="http://proceedings.mlr.press/v6/mani10a.html">meta</a> <a href="http://proceedings.mlr.press/v6/mani10a/mani10a.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/03/24, Ameet Soni</p>
+<p class="title">Model Selection: Beyond the Bayesian/Frequentist Divide</p>
+<p class="authors">Isabelle Guyon, Amir Saffari, Gideon Dror, Gavin Cawley</p>
+<p class="publication"><span class="venue">JMLR</span> <span class="number">11(Jan)</span>, <span class="year">2010</span></p>
+<p class="links">venue: <a href="http://www.jmlr.org/papers/v11/">toc</a> <a href="http://www.jmlr.org/papers/v11/guyon10a.html">meta</a> <a href="http://www.jmlr.org/papers/volume11/guyon10a/guyon10a.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/03/10, Andrew Goldberg</p>
+<p class="title">Semi-Supervised Sequence Modeling with Syntactic Topic Models</p>
+<p class="authors">Wei Li, Andrew McCallum</p>
+<p class="publication"><span class="venue">AAAI</span> <span class="number">20</span>, <span class="year">25</span></p>
+<p class="links">venue: <a href="https://aaai.org/Library/AAAI/aaai05contents.php">toc</a> <a href="https://aaai.org/Library/AAAI/2005/aaai05-128.php">meta</a> <a href="https://aaai.org/Papers/AAAI/2005/AAAI05-128.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/02/24, Kwang-Sun Jun</p>
+<p class="title">Dynamic Non-Parametric Mixture Models and The Recurrent Chinese Restaurant Process: with Applications to Evolutionary Clustering</p>
+<p class="authors">Amr Ahmed, Eric Xing</p>
+<p class="publication"><span class="venue">SDM</span> <span class="number">8</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://doi.org/10.1137/1.9781611972788">toc</a> <a href="https://doi.org/10.1137/1.9781611972788.20">meta</a> <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611972788.20">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2010/02/10, Bryan Gibson</p>
+<p class="title">DUOL: A Double Updating Approach for Online Learning</p>
+<p class="authors">Peilin Zhao, Steven C. Hoi, Rong Jin</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">22</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-22-2009">toc</a> <a href="https://papers.nips.cc/paper/3787-duol-a-double-updating-approach-for-online-learning">meta</a> <a href="https://papers.nips.cc/paper/3787-duol-a-double-updating-approach-for-online-learning.pdf">pdf</a></p>
+</li>
+</ul>
+</dd>
+<dt class="year" id="2009">2009</dt>
+<dd>
+<ul>
+<li class="paper">
+<p class="presentation">2009/11/11, Ameet Soni</p>
+<p class="title">Supervised Learning from Multiple Experts: Whom to trust when everyone lies a bit</p>
+<p class="authors">Vikas Raykar, Shipeng Yu, Linda Zhao, Anna Jerebko, Charles Florin, Gerardo Valadez, Luca Bogoni, Linda Moy</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">26</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2009/abstracts.html">toc</a> <a href="https://icml.cc/Conferences/2009/papers/96.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/10/28, Kendrick Boyd</p>
+<p class="title">Learning Markov Logic Network Structure via Hypergraph Lifting</p>
+<p class="authors">Stanley Kok, Pedro Domingos</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">26</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2009/abstracts.html">toc</a> <a href="https://icml.cc/Conferences/2009/papers/576.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/10/14, Chris Hinrichs</p>
+<p class="title">Let the Kernel Figure it Out; Principled Learning of Pre-Processing for Kernel Classifiers</p>
+<p class="authors">Peter Vincent Gehler, Sebastian Nowozin</p>
+<p class="publication"><span class="venue">CVPR</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="https://ieeexplore.ieee.org/xpl/conhome/5191365/proceeding">toc</a> <a href="https://doi.org/10.1109/CVPR.2009.5206592">meta</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/09/30, Debbie Chasman</p>
+<p class="title">Uncertainty Sampling and Transductive Experimental Design for Active Dual Supervision</p>
+<p class="authors">Vikas Sindhwani, Prem Melville, Richard Lawrence</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">26</span>, <span class="year">2009</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2009/abstracts.html">toc</a> <a href="https://icml.cc/Conferences/2009/papers/582.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/09/16, Junming Sui</p>
+<p class="title">On the Relation Between Multi-Instance Learning and Semi-Supervised Learning</p>
+<p class="authors">Zhi-Hua Zhou, Jun-Ming Xu</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">24</span>, <span class="year">2007</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2007/paperlist.html">toc</a> <a href="https://icml.cc/Conferences/2007/abstracts/558.htm">meta</a> <a href="https://icml.cc/Conferences/2007/papers/558.pdf">pdf</a> | author: <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icml07.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/04/22, Lisa Torrey</p>
+<p class="title">Learning Classifiers from Only Positive and Unlabeled Data</p>
+<p class="authors">Charles Elkan, Keith Noto</p>
+<p class="publication"><span class="venue">KDD</span> <span class="number">14</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://dl.acm.org/citation.cfm?id=1401890&picked=prox">toc</a> <a href="https://doi.org/10.1145/1401890.1401920">meta</a> | author: <a href="https://www.researchgate.net/profile/Charles_Elkan/publication/221654469_Learning_classifiers_from_only_positive_and_unlabeled_data/links/02bfe513e19296c331000000.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/04/08, Hidayath Ansari</p>
+<p class="title">Clustering with Local and Global Regularization</p>
+<p class="authors">Fei Wang, Changshui Zhang, Tao Li</p>
+<p class="publication"><span class="venue">AAAI</span> <span class="number">22</span>, <span class="year">2007</span></p>
+<p class="links">venue: <a href="https://aaai.org/Library/AAAI/aaai07contents.php">toc</a> <a href="https://aaai.org/Library/AAAI/2007/aaai07-104.php">meta</a> <a href="https://aaai.org/Papers/AAAI/2007/AAAI07-104.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/04/01, David Andrzejewski</p>
+<p class="title">Training Products of Experts by Minimizing Contrastive Divergence</p>
+<p class="authors">Geoffrey E. Hinton</p>
+<p class="publication"><span class="venue">Neural Computation</span> <span class="number">14(8)</span>, <span class="year">2002</span></p>
+<p class="links">venue: <a href="https://www.mitpressjournals.org/toc/neco/14/8">toc</a> <a href="https://doi.org/10.1162/089976602760128018">meta</a> | author: <a href="https://www.cs.utoronto.ca/~hinton/absps/nccd.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/03/11, Chris Hinrichs</p>
+<p class="title">Robust Support Vector Machine Training via Convex Outlier Ablation</p>
+<p class="authors">Linli Xu, Koby Crammer, Dale Schuurmans</p>
+<p class="publication"><span class="venue">AAAI</span> <span class="number">21</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="https://www.aaai.org/Library/AAAI/aaai06contents.php">toc</a> <a href="https://www.aaai.org/Library/AAAI/2006/aaai06-086.php">meta</a> <a href="https://www.aaai.org/Papers/AAAI/2006/AAAI06-086.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/03/04, Nate Fillmore</p>
+<p class="title">The Tradeoffs of Large Scale Learning</p>
+<p class="authors">Léon Bottou, Olivier Bousquet</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">20</span>, <span class="year">2007</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007">toc</a> <a href="https://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning">meta</a> <a href="https://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/02/18, Andrew Goldberg</p>
+<p class="title">Large Scale Manifold Transduction</p>
+<p class="authors">Michael Karlen, Jason Weston, Ayse Erkan, Ronan Collobert</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">25</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2008/abstracts.shtml.html">toc</a> <a href="https://icml.cc/Conferences/2008/papers/382.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2009/02/04, Gautam Kunapuli</p>
+<p class="title">Model Selection via Bilevel Optimization</p>
+<p class="authors">Kristin P. Bennett, Jing Hu, Gautam Kunapuli, Jong-Shi Pang</p>
+<p class="publication"><span class="venue">International Joint Conference on Neural Networks</span>, <span class="year">2006</span></p>
+<p class="links">venue: <a href="https://ieeexplore.ieee.org/xpl/conhome/11216/proceeding">toc</a> <a href="https://doi.org/10.1109/IJCNN.2006.246935">meta</a> | author: <a href="http://homepages.rpi.edu/~bennek/papers/biCVTues2-15.pdf">pdf</a></p>
+</li>
+</ul>
+</dd>
+<dt class="year" id="2008">2008</dt>
+<dd>
+<ul>
+<li class="paper">
+<p class="presentation">2008/11/24, Bess Berg</p>
+<p class="title">Boosted Bayesian network classifiers</p>
+<p class="authors">Yushi Jing, Vladimir Pavlović, James M. Rehg</p>
+<p class="publication"><span class="venue">Machine Learning</span> <span class="number">73(2)</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://link.springer.com/journal/10994/73/2/page/1">toc</a> <a href="https://doi.org/10.1007/s10994-008-5065-7">meta</a> <a href="https://link.springer.com/content/pdf/10.1007%2Fs10994-008-5065-7.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/11/10, Andrew Goldberg</p>
+<p class="title">A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning</p>
+<p class="authors">Ronan Collobert, Jason Weston</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">25</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2008/abstracts.shtml.html">toc</a> <a href="https://icml.cc/Conferences/2008/papers/391.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/10/13, Burr Settles</p>
+<p class="title">Learning from Labeled Features using Generalized Expectation Criteria</p>
+<p class="authors">Gregory Druck, Gideon Mann, Andrew McCallum</p>
+<p class="publication"><span class="venue">SIGIR</span> <span class="number">31</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://dl.acm.org/citation.cfm?id=1390334&picked=prox">toc</a> <a href="https://doi.org/10.1145/1390334.1390436">meta</a> | author: <a href="https://people.cs.umass.edu/~mccallum/papers/druck08sigir.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/09/29, David Andrzejewski</p>
+<p class="title">Beam Sampling for the Infinite Hidden Markov Model</p>
+<p class="authors">Jurgen Van Gael, Yunus Saatci, Yee Whye Teh, and Zoubin Ghahramani</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">25</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2008/abstracts.shtml.html">toc</a> <a href="https://icml.cc/Conferences/2008/papers/679.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/09/15, Eric Lantz</p>
+<p class="title">SVM Optimization: Inverse Dependence on Training Set Size</p>
+<p class="authors">Shai Shalev-Shwartz, Nathan Srebro</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">25</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2008/abstracts.shtml.html">toc</a> <a href="https://icml.cc/Conferences/2008/papers/266.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/05/07, Louis Oliphant</p>
+<p class="title">Predicting Good Probabilities with Supervised Learning</p>
+<p class="authors">Alexandru Niculescu-Mizil, Rich Caruana</p>
+<p class="publication"><span class="venue">ICML</span> <span class="number">22</span>, <span class="year">2005</span></p>
+<p class="links">venue: <a href="https://icml.cc/Conferences/2005/proceedings.html">toc</a> <a href="https://icml.cc/Conferences/2005/proceedings/papers/079_GoodProbabilities_NiculescuMizilCaruana.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/04/30, David Andrzejewski</p>
+<p class="title">Non-redundant clustering with conditional ensembles</p>
+<p class="authors">David Gondek, Thomas Hofmann</p>
+<p class="publication"><span class="venue">KDD</span> <span class="number">11</span>, <span class="year">2005</span></p>
+<p class="links">venue: <a href="https://dl.acm.org/citation.cfm?id=1081870&picked=prox">toc</a> <a href="https://doi.org/10.1145/1081870.1081882">meta</a> | author: <a href="https://www.researchgate.net/profile/Thomas_Hofmann10/publication/221653722_Non-redundant_clustering_with_conditional_ensembles/links/00b49538e1e455165e000000.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/04/09, Lisa Torrey</p>
+<p class="title">WebCrow: A Web-Based System for Crossword Solving</p>
+<p class="authors">Marco Ernandes, Giovanni Angelini, Marco Gori</p>
+<p class="publication"><span class="venue">AAAI</span> <span class="number">20</span>, <span class="year">2005</span></p>
+<p class="links">venue: <a href="https://www.aaai.org/Library/AAAI/aaai05contents.php">toc</a> <a href="https://www.aaai.org/Library/AAAI/2005/aaai05-224.php">meta</a> <a href="https://www.aaai.org/Papers/AAAI/2005/AAAI05-224.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/03/26, Ted Wild</p>
+<p class="title">Online Bayes Point Machines</p>
+<p class="authors">Edward Harrington, Ralf Herbrich, Jyrki Kivinen, John Platt, Robert C. Williamson</p>
+<p class="publication"><span class="venue">Pacific-Asia Conference on Knowledge Discovery and Data Mining (PACKDD)</span> <span class="number">7</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="https://doi.org/10.1007/3-540-36175-8">toc</a> <a href="https://doi.org/10.1007/3-540-36175-8_24">meta</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/03/05, Sriraam Natarajan</p>
+<p class="title">Online Passive-Aggressive Algorithms</p>
+<p class="authors">Shai Shalev-Shwartz, Koby Crammer, Ofer Dekel, Yoram Singer</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">16</span>, <span class="year">2003</span></p>
+<p class="links">venue: <a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003">toc</a> <a href="https://papers.nips.cc/paper/2360-online-passive-aggressive-algorithms">meta</a> <a href="https://papers.nips.cc/paper/2360-online-passive-aggressive-algorithms.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/02/20, Ted Wild</p>
+<p class="title">Privacy-Preserving Classification of Vertically Partitioned Data via Random Kernels</p>
+<p class="authors">Olvi L. Mangasarian, Edward W. Wild, Glenn M. Fung</p>
+<p class="publication"><span class="venue">TKDD</span> <span class="number">2(3)</span>, <span class="year">2008</span></p>
+<p class="links">venue: <a href="https://dl.acm.org/citation.cfm?id=1409620&picked=prox">toc</a> <a href="https://doi.org/10.1145/1409620.1409622">meta</a> | author: <a href="https://minds.wisconsin.edu/handle/1793/64235">toc</a> <a href="https://digital.library.wisc.edu/1793/64346">meta</a> <a href="https://minds.wisconsin.edu/bitstream/handle/1793/64346/07-02.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/02/20, Ted Wild</p>
+<p class="title">Privacy-Preserving Classification of Horizontally Partitioned Data via Random Kernels</p>
+<p class="authors">Olvi L. Mangasarian, Edward W. Wild</p>
+<p class="publication"><span class="venue">UW-Madison Data Mining Institute Technical Reports</span>, <span class="year">2007</span></p>
+<p class="links">venue: <a href="https://minds.wisconsin.edu/handle/1793/64235">toc</a> <a href="https://digital.library.wisc.edu/1793/64348">meta</a> <a href="https://minds.wisconsin.edu/bitstream/handle/1793/64348/07-03.pdf">pdf</a></p>
+</li>
+<li class="paper">
+<p class="presentation">2008/02/13, Héctor Corrada Bravo</p>
+<p class="title">Colored Maximum Variance Unfolding</p>
+<p class="authors">Le Song, Arthur Gretton, Karsten Borgwardt, Alex J. Smola</p>
+<p class="publication"><span class="venue">NIPS</span> <span class="number">20</span>, <span class="year">2007</span></p>
+<p class="links">venue: <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007">toc</a> <a href="http://papers.nips.cc/paper/3307-colored-maximum-variance-unfolding">meta</a> <a href="http://papers.nips.cc/paper/3307-colored-maximum-variance-unfolding.pdf">pdf</a></p>
 </li>
 </ul>
 </dd>
@@ -630,7 +927,7 @@ AIRG Archive
 <p class="links">venue: <a href="https://link.springer.com/journal/10898/21/4">toc</a> <a href="https://link.springer.com/article/10.1023/A:1012771025575">meta</a> <a href="https://link.springer.com/content/pdf/10.1023%2FA:1012771025575.pdf">pdf</a></p>
 </li>
 <li class="paper">
-<p class="presentation">2006/09/25, Frank Dimaio</p>
+<p class="presentation">2006/09/25, Frank DiMaio</p>
 <p class="title">Hot Coupling: A Particle Approach to Inference and Normalization on Pairwise Undirected Graphs of Arbitrary Topology</p>
 <p class="authors">Firas Hamze, Nando de Freitas</p>
 <p class="publication"><span class="venue">NIPS</span> <span class="number">18</span>, <span class="year">2005</span></p>
