@@ -1182,7 +1182,7 @@ presentations:
 
   - when: 2009-11-11
     who: Ameet Soni
-    title: Supervised Learning from Multiple Experts: Whom to trust when everyone lies a bit
+    title: "Supervised Learning from Multiple Experts: Whom to trust when everyone lies a bit"
     authors: Vikas Raykar, Shipeng Yu, Linda Zhao, Anna Jerebko, Charles Florin, Gerardo Valadez, Luca Bogoni, Linda Moy
     venue: ICML
     number: 26
@@ -1194,6 +1194,72 @@ presentations:
 
 
   # Spring 2010
+
+  - when: 2010-02-10
+    who: Bryan Gibson
+    title: "DUOL: A Double Updating Approach for Online Learning"
+    authors: Peilin Zhao, Steven C. Hoi, Rong Jin
+    venue: NIPS
+    number: 22
+    year: 2009
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-22-2009
+        meta: https://papers.nips.cc/paper/3787-duol-a-double-updating-approach-for-online-learning
+        pdf:  https://papers.nips.cc/paper/3787-duol-a-double-updating-approach-for-online-learning.pdf
+
+  - when: 2010-02-24
+    who: Kwang-Sun Jun
+    title: "Dynamic Non-Parametric Mixture Models and The Recurrent Chinese Restaurant Process: with Applications to Evolutionary Clustering"
+    authors: Amr Ahmed, Eric Xing
+    venue: SDM
+    number: 8
+    year: 2008
+    links:
+      venue:
+        toc:  https://doi.org/10.1137/1.9781611972788
+        meta: https://doi.org/10.1137/1.9781611972788.20
+        pdf:  https://epubs.siam.org/doi/pdf/10.1137/1.9781611972788.20
+
+  - when: 2010-03-10
+    who: Andrew Goldberg
+    title: Semi-Supervised Sequence Modeling with Syntactic Topic Models
+    authors: Wei Li, Andrew McCallum
+    venue: AAAI
+    number: 20
+    year: 25
+    links:
+      venue:
+        toc:  https://aaai.org/Library/AAAI/aaai05contents.php
+        meta: https://aaai.org/Library/AAAI/2005/aaai05-128.php
+        pdf:  https://aaai.org/Papers/AAAI/2005/AAAI05-128.pdf
+
+  - when: 2010-03-24
+    who: Ameet Soni
+    title: "Model Selection: Beyond the Bayesian/Frequentist Divide"
+    authors: Isabelle Guyon, Amir Saffari, Gideon Dror, Gavin Cawley
+    venue: JMLR
+    number: 11(Jan)
+    year: 2010
+    links:
+      venue:
+        toc:  http://www.jmlr.org/papers/v11/
+        meta: http://www.jmlr.org/papers/v11/guyon10a.html
+        pdf:  http://www.jmlr.org/papers/volume11/guyon10a/guyon10a.pdf
+
+  - when: 2010-04-07
+    who: Suhail Shergill
+    title: Bayesian Algorithms for Causal Data Mining
+    authors: Subramani Mani, Constantin F. Aliferis, Alexander Statnikov
+    venue: NIPS 2008 Workshop on Causality
+    number: PMLR 6
+    year: 2010
+    links:
+      venue:
+        toc:  http://proceedings.mlr.press/v6/
+        meta: http://proceedings.mlr.press/v6/mani10a.html
+        pdf:  http://proceedings.mlr.press/v6/mani10a/mani10a.pdf
+
 
   # Fall 2010
 
