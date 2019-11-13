@@ -861,6 +861,112 @@ presentations:
 
   # Spring 2008
 
+  - when: 2008-02-13
+    who: Héctor Corrada Bravo
+    title: Colored Maximum Variance Unfolding
+    authors: Le Song, Arthur Gretton, Karsten Borgwardt, Alex J. Smola
+    venue: NIPS
+    number: 20
+    year: 2007
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007
+        meta: http://papers.nips.cc/paper/3307-colored-maximum-variance-unfolding
+        pdf:  http://papers.nips.cc/paper/3307-colored-maximum-variance-unfolding.pdf
+
+  - when: 2008-02-20
+    who: Ted Wild
+    title: Privacy-Preserving Classification of Vertically Partitioned Data via Random Kernels
+    authors: Olvi L. Mangasarian, Edward W. Wild, Glenn M. Fung
+    venue: TKDD
+    number: 2(3)
+    year: 2008
+    links:
+      venue:
+        toc:  https://dl.acm.org/citation.cfm?id=1409620&picked=prox
+        meta: https://doi.org/10.1145/1409620.1409622
+      author:
+        toc:  https://minds.wisconsin.edu/handle/1793/64235
+        meta: https://digital.library.wisc.edu/1793/64346
+        pdf:  https://minds.wisconsin.edu/bitstream/handle/1793/64346/07-02.pdf
+
+  - when: 2008-02-20
+    who: Ted Wild
+    title: Privacy-Preserving Classification of Horizontally Partitioned Data via Random Kernels
+    authors: Olvi L. Mangasarian, Edward W. Wild
+    venue: UW-Madison Data Mining Institute Technical Reports
+    year: 2007
+    links:
+      venue:
+        toc:  https://minds.wisconsin.edu/handle/1793/64235
+        meta: https://digital.library.wisc.edu/1793/64348
+        pdf:  https://minds.wisconsin.edu/bitstream/handle/1793/64348/07-03.pdf
+
+  - when: 2008-03-05
+    who: Sriraam Natarajan
+    title: Online Passive-Aggressive Algorithms
+    authors: Shai Shalev-Shwartz, Koby Crammer, Ofer Dekel, Yoram Singer
+    venue: NIPS
+    number: 16
+    year: 2003
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003
+        meta: https://papers.nips.cc/paper/2360-online-passive-aggressive-algorithms
+        pdf:  https://papers.nips.cc/paper/2360-online-passive-aggressive-algorithms.pdf
+
+  - when: 2008-03-26
+    who: Ted Wild
+    title: Online Bayes Point Machines
+    authors: Edward Harrington, Ralf Herbrich, Jyrki Kivinen, John Platt, Robert C. Williamson
+    venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+    number: 7
+    year: 2003
+    links:
+      venue:
+        toc:  https://doi.org/10.1007/3-540-36175-8
+        meta: https://doi.org/10.1007/3-540-36175-8_24
+
+  - when: 2008-04-09
+    who: Lisa Torrey
+    title: WebCrow: A Web-Based System for Crossword Solving
+    authors: Marco Ernandes, Giovanni Angelini, Marco Gori
+    venue: AAAI
+    number: 20
+    year: 2005
+    links:
+      venue:
+        toc:  https://www.aaai.org/Library/AAAI/aaai05contents.php
+        meta: https://www.aaai.org/Library/AAAI/2005/aaai05-224.php
+        pdf:  https://www.aaai.org/Papers/AAAI/2005/AAAI05-224.pdf
+
+  - when: 2008-04-30
+    who: David Andrzejewski
+    title: Non-redundant clustering with conditional ensembles
+    authors: David Gondek, Thomas Hofmann
+    venue: KDD
+    number: 11
+    year: 2005
+    links:
+      venue:
+        toc:  https://dl.acm.org/citation.cfm?id=1081870&picked=prox
+        meta: https://doi.org/10.1145/1081870.1081882
+      author:
+        pdf:  https://www.researchgate.net/profile/Thomas_Hofmann10/publication/221653722_Non-redundant_clustering_with_conditional_ensembles/links/00b49538e1e455165e000000.pdf
+
+  - when: 2008-05-07
+    who: Louis Oliphant
+    title: Predicting Good Probabilities with Supervised Learning
+    authors: Alexandru Niculescu-Mizil, Rich Caruana
+    venue: ICML
+    number: 22
+    year: 2005
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2005/proceedings.html
+        pdf:  https://icml.cc/Conferences/2005/proceedings/papers/079_GoodProbabilities_NiculescuMizilCaruana.pdf
+
+
   # Fall 2008
 
   # Spring 2009
