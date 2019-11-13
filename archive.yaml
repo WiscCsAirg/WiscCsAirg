@@ -1329,6 +1329,59 @@ presentations:
 
   # Spring 2011
 
+  - when: 2011-03-02
+    who: Junming Sui
+    title: When is There a Representer Theorem? Vector Versus Matrix Regularizers
+    authors: Andreas Argyriou, Charles A. Micchelli, Massimiliano Pontil
+    venue: JMLR
+    number: 10(Nov)
+    year: 2009
+    links:
+      venue:
+        toc:  http://www.jmlr.org/papers/v10/
+        meta: http://www.jmlr.org/papers/v10/argyriou09a.html
+        pdf:  http://www.jmlr.org/papers/volume10/argyriou09a/argyriou09a.pdf
+
+  - when: 2011-03-30
+    who: Kwang-Sun Jun
+    title: Modeling Dyadic Data with Binary Latent Factors
+    authors: Edward Meeds, Zoubin Ghahramani, Radford M. Neal, Sam T. Roweis
+    venue: NIPS
+    number: 19
+    year: 2006
+    links:
+      venue:
+        toc:  http://papers.nips.cc/book/advances-in-neural-information-processing-systems-19-2006
+        meta: http://papers.nips.cc/paper/3033-modeling-dyadic-data-with-binary-latent-factors
+        pdf:  http://papers.nips.cc/paper/3033-modeling-dyadic-data-with-binary-latent-factors.pdf
+
+  - when: 2011-04-13
+    who: Andreas Vlachos
+    title: Learning Semantic Correspondences with Less Supervision
+    authors: Percy Liang, Michael Jordan, Dan Klein
+    venue: International Joint Conference on Natural Language Processing (IJCNLP)
+    number: 4
+    year: 2009
+    links:
+      venue:
+        toc:  https://www.aclweb.org/anthology/volumes/P09-1/
+        meta: https://www.aclweb.org/anthology/P09-1011/
+        pdf:  https://www.aclweb.org/anthology/P09-1011.pdf
+
+  - when: 2011-04-27
+    who: Chris Hinrichs
+    title: Maximum Relative Margin and Data-Dependent Regularization
+    authors: Pannagadatta K. Shivaswamy, Tony Jebara
+    venue: JMLR
+    number: 11(Feb)
+    year: 2010
+    links:
+      venue:
+        toc:  http://www.jmlr.org/papers/v11/
+        meta: http://www.jmlr.org/papers/v11/shivaswamy10a.html
+        pdf:  http://www.jmlr.org/papers/volume11/shivaswamy10a/shivaswamy10a.pdf
+
+
   # Fall 2011
 
   # Spring 2012
