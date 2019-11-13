@@ -1035,6 +1035,99 @@ presentations:
 
   # Spring 2009
 
+  - when: 2009-02-04
+    who: Gautam Kunapuli
+    title: Model Selection via Bilevel Optimization
+    authors: Kristin P. Bennett, Jing Hu, Gautam Kunapuli, Jong-Shi Pang
+    venue: International Joint Conference on Neural Networks
+    year: 2006
+    links:
+      venue:
+        toc:  https://ieeexplore.ieee.org/xpl/conhome/11216/proceeding
+        meta: https://doi.org/10.1109/IJCNN.2006.246935
+      author:
+        pdf:  http://homepages.rpi.edu/~bennek/papers/biCVTues2-15.pdf
+
+  - when: 2009-02-18
+    who: Andrew Goldberg
+    title: Large Scale Manifold Transduction
+    authors: Michael Karlen, Jason Weston, Ayse Erkan, Ronan Collobert
+    venue: ICML
+    number: 25
+    year: 2008
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2008/abstracts.shtml.html
+        pdf:  https://icml.cc/Conferences/2008/papers/382.pdf
+
+  - when: 2009-03-04
+    who: Nate Fillmore
+    title: The Tradeoffs of Large Scale Learning
+    authors: Léon Bottou, Olivier Bousquet
+    venue: NIPS
+    number: 20
+    year: 2007
+    links:
+      venue:
+        toc:  https://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007
+        meta: https://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning
+        pdf:  https://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf
+
+  - when: 2009-03-11
+    who: Chris Hinrichs
+    title: Robust Support Vector Machine Training via Convex Outlier Ablation
+    authors: Linli Xu, Koby Crammer, Dale Schuurmans
+    venue: AAAI
+    number: 21
+    year: 2006
+    links:
+      venue:
+        toc:  https://www.aaai.org/Library/AAAI/aaai06contents.php
+        meta: https://www.aaai.org/Library/AAAI/2006/aaai06-086.php
+        pdf:  https://www.aaai.org/Papers/AAAI/2006/AAAI06-086.pdf
+
+  - when: 2009-04-01
+    who: David Andrzejewski
+    title: Training Products of Experts by Minimizing Contrastive Divergence
+    authors: Geoffrey E. Hinton
+    venue: Neural Computation
+    number: 14(8)
+    year: 2002
+    links:
+      venue:
+        toc:  https://www.mitpressjournals.org/toc/neco/14/8
+        meta: https://doi.org/10.1162/089976602760128018
+      author:
+        pdf:  https://www.cs.utoronto.ca/~hinton/absps/nccd.pdf
+
+  - when: 2009-04-08
+    who: Hidayath Ansari
+    title: Clustering with Local and Global Regularization
+    authors: Fei Wang, Changshui Zhang, Tao Li
+    venue: AAAI
+    number: 22
+    year: 2007
+    links:
+      venue:
+        toc:  https://aaai.org/Library/AAAI/aaai07contents.php
+        meta: https://aaai.org/Library/AAAI/2007/aaai07-104.php
+        pdf:  https://aaai.org/Papers/AAAI/2007/AAAI07-104.pdf
+
+  - when: 2009-04-22
+    who: Lisa Torrey
+    title: Learning Classifiers from Only Positive and Unlabeled Data
+    authors: Charles Elkan, Keith Noto
+    venue: KDD
+    number: 14
+    year: 2008
+    links:
+      venue:
+        toc:  https://dl.acm.org/citation.cfm?id=1401890&picked=prox
+        meta: https://doi.org/10.1145/1401890.1401920
+      author:
+        pdf:  https://www.researchgate.net/profile/Charles_Elkan/publication/221654469_Learning_classifiers_from_only_positive_and_unlabeled_data/links/02bfe513e19296c331000000.pdf
+
+
   # Fall 2009
 
   # Spring 2010
