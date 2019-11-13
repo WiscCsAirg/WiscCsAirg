@@ -1130,6 +1130,69 @@ presentations:
 
   # Fall 2009
 
+  - when: 2009-09-16
+    who: Junming Sui
+    title: On the Relation Between Multi-Instance Learning and Semi-Supervised Learning
+    authors: Zhi-Hua Zhou, Jun-Ming Xu
+    venue: ICML
+    number: 24
+    year: 2007
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2007/paperlist.html
+        meta: https://icml.cc/Conferences/2007/abstracts/558.htm
+        pdf:  https://icml.cc/Conferences/2007/papers/558.pdf
+      author:
+        pdf:  https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icml07.pdf
+
+  - when: 2009-09-30
+    who: Debbie Chasman
+    title: Uncertainty Sampling and Transductive Experimental Design for Active Dual Supervision
+    authors: Vikas Sindhwani, Prem Melville, Richard Lawrence
+    venue: ICML
+    number: 26
+    year: 2009
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2009/abstracts.html
+        pdf:  https://icml.cc/Conferences/2009/papers/582.pdf
+
+  - when: 2009-10-14
+    who: Chris Hinrichs
+    title: Let the Kernel Figure it Out; Principled Learning of Pre-Processing for Kernel Classifiers
+    authors: Peter Vincent Gehler, Sebastian Nowozin
+    venue: CVPR
+    year: 2009
+    links:
+      venue:
+        toc:  https://ieeexplore.ieee.org/xpl/conhome/5191365/proceeding
+        meta: https://doi.org/10.1109/CVPR.2009.5206592
+
+  - when: 2009-10-28
+    who: Kendrick Boyd
+    title: Learning Markov Logic Network Structure via Hypergraph Lifting
+    authors: Stanley Kok, Pedro Domingos
+    venue: ICML
+    number: 26
+    year: 2009
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2009/abstracts.html
+        pdf:  https://icml.cc/Conferences/2009/papers/576.pdf
+
+  - when: 2009-11-11
+    who: Ameet Soni
+    title: Supervised Learning from Multiple Experts: Whom to trust when everyone lies a bit
+    authors: Vikas Raykar, Shipeng Yu, Linda Zhao, Anna Jerebko, Charles Florin, Gerardo Valadez, Luca Bogoni, Linda Moy
+    venue: ICML
+    number: 26
+    year: 2009
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2009/abstracts.html
+        pdf:  https://icml.cc/Conferences/2009/papers/96.pdf
+
+
   # Spring 2010
 
   # Fall 2010
