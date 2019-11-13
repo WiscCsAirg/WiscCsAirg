@@ -969,6 +969,70 @@ presentations:
 
   # Fall 2008
 
+  - when: 2008-09-15
+    who: Eric Lantz
+    title: SVM Optimization: Inverse Dependence on Training Set Size
+    authors: Shai Shalev-Shwartz, Nathan Srebro
+    venue: ICML
+    number: 25
+    year: 2008
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2008/abstracts.shtml.html
+        pdf:  https://icml.cc/Conferences/2008/papers/266.pdf
+
+  - when: 2008-09-29
+    who: David Andrzejewski
+    title: Beam Sampling for the Infinite Hidden Markov Model
+    authors: Jurgen Van Gael, Yunus Saatci, Yee Whye Teh, and Zoubin Ghahramani
+    venue: ICML
+    number: 25
+    year: 2008
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2008/abstracts.shtml.html
+        pdf:  https://icml.cc/Conferences/2008/papers/679.pdf
+
+  - when: 2008-10-13
+    who: Burr Settles
+    title: Learning from Labeled Features using Generalized Expectation Criteria
+    authors: Gregory Druck, Gideon Mann, Andrew McCallum
+    venue: SIGIR
+    number: 31
+    year: 2008
+    links:
+      venue:
+        toc:  https://dl.acm.org/citation.cfm?id=1390334&picked=prox
+        meta: https://doi.org/10.1145/1390334.1390436
+      author:
+        pdf:  https://people.cs.umass.edu/~mccallum/papers/druck08sigir.pdf
+
+  - when: 2008-11-10
+    who: Andrew Goldberg
+    title: "A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning"
+    authors: Ronan Collobert, Jason Weston
+    venue: ICML
+    number: 25
+    year: 2008
+    links:
+      venue:
+        toc:  https://icml.cc/Conferences/2008/abstracts.shtml.html
+        pdf:  https://icml.cc/Conferences/2008/papers/391.pdf
+
+  - when: 2008-11-24
+    who: Bess Berg
+    title: Boosted Bayesian network classifiers
+    authors: Yushi Jing, Vladimir Pavlović, James M. Rehg
+    venue: Machine Learning
+    number: 73(2)
+    year: 2008
+    links:
+      venue:
+        toc:  https://link.springer.com/journal/10994/73/2/page/1
+        meta: https://doi.org/10.1007/s10994-008-5065-7
+        pdf:  https://link.springer.com/content/pdf/10.1007%2Fs10994-008-5065-7.pdf
+
+
   # Spring 2009
 
   # Fall 2009
