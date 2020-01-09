@@ -1,10 +1,11 @@
-"""Turns an archive of papers in YAML format into a web page for Jekyll
+"""
+Turns an archive of papers in YAML format into a web page for Jekyll
 
     $ python3 archive.py archive.yaml > archive.md
 
 """
 
-# Copyright (c) 2017-2019 AIRG Authors.
+# Copyright (c) 2017-2020 AIRG Authors.
 #
 # This is free software released under the MIT License.  See
 # `LICENSE.md` for details.
@@ -63,12 +64,12 @@ output = sys.stdout
 output.write(
 """
 ---
-copyright_year: {:%Y}
+copyright_years: {:%Y}
 title: Archive
 ---
 
 """
-.lstrip().format(datetime.now()))
+.lstrip().format(datetime.now())) # TODO get list of actual copyright years
 
 # Output front matter
 output.write(

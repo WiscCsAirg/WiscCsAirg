@@ -1,5 +1,5 @@
 ---
-copyright_year: 2020
+copyright_years: 2017-2018, 2020
 title: Machine Learning and Artificial Intelligence Reading Group
 ---
 

@@ -69,11 +69,14 @@ Style
   the page footer (but make sure to update `copyright_year` in the YAML
   front matter)
 * Use the existing style in the file if unsure
+* List all relevant copyright years:
+
+      git blame <file> | sed -e 's/^.\+\?([^[:digit:]]\+[[:space:]]\+\([[:digit:]]\{4\}\)-.*$/\1/' | sort -u
 
 
 -----
 
-Copyright (c) 2017 [AIRG Authors](AUTHORS.md)
+Copyright (c) 2017-2018, 2020 [AIRG Authors](AUTHORS.md)
 [(CC-BY)](https://creativecommons.org/licenses/by/4.0/).  This is a free
 culture work licensed to the public under a [Creative Commons
 Attribution 4.0 International
