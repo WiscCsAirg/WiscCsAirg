@@ -1,5 +1,5 @@
 ---
-copyright_year: 2018
+copyright_year: 2020
 title: Machine Learning and Artificial Intelligence Reading Group
 ---
 
@@ -8,25 +8,24 @@ Machine Learning and Artificial Intelligence Reading Group
 
 
 We are the machine learning and artificial intelligence reading group
-(AIRG) in the [Computer Sciences Department](https://www.cs.wisc.edu/)
-at the [University of Wisconsin -- Madison](http://www.wisc.edu/).  We
+(AIRG) in the [Computer Sciences Department]( https://www.cs.wisc.edu/)
+at the [University of Wisconsin--Madison]( http://www.wisc.edu/).  We
 gather weekly during the semester to discuss papers in the areas of
 machine learning (ML), artificial intelligence (AI), natural language
 processing (NLP), computer vision (CV), and bioinformatics.  We are the
-primary reading group for the [AI
-area](https://research.cs.wisc.edu/areas/ai/) and cater to all its
-various topics, but mostly focus on ML.
+primary reading group for the [AI area](
+https://research.cs.wisc.edu/areas/ai/) and cater to all its various
+topics, but mostly focus on ML.
 
 
 Meetings
 --------
 
-AIRG meets Wednesdays from 4-5pm in CS 3310.  During spring 2019, AIRG
-runs from 01/30 to 05/01, with the following exceptions: 4:30pm on
-02/13, and no meeting on 03/20 due to spring break.
+AIRG typically meets Wednesdays from 4--5pm in CS 3310, but has not yet
+been scheduled for Spring 2020.
 
 Occasionally, when appropriate, AIRG is canceled in favor of the
-[Statistics Seminar](https://www.stat.wisc.edu/seminars).
+[Statistics Seminar]( https://www.stat.wisc.edu/seminars).
 
 
 Mission
@@ -59,7 +58,7 @@ Why Participate?
 * Meet your colleagues
 * Increase the breadth of your knowledge (while research is often about
   depth, you will need breadth for academic and other jobs)
-* Build your résumé (presentations go down in [history](archive.html)!)
+* Build your résumé (presentations go down in [history]( archive.html)!)
 * Earn the respect of your peers
 
 
@@ -72,7 +71,7 @@ by contacting the coordinators.  About a week before the assigned
 meeting date, the member announces [2] their paper via the mailing list.
 Other members then read the paper [3] and come to the meeting prepared
 to discuss it.  The volunteering member presents an overview of the
-paper (about 30-45 minutes if uninterrupted) and leads the ensuing
+paper (about 30--45 minutes if uninterrupted) and leads the ensuing
 discussion.  Questions of any kind are always welcome at any time.
 
 [1] A member is anyone who participates!
@@ -96,25 +95,24 @@ How to Participate
 * Show up to meetings (as often as you can!)
 * Read papers (as best you can!)
 * Lead paper discussions (optional but beneficial)
-* Join the mailing list:
-  [AIRG](https://lists.cs.wisc.edu/mailman/listinfo/airg).  The mailing
-  list is the primary means of communication.  All readings are
-  announced via the mailing list.  The list is limited to those with a
-  `*wisc.edu` e-mail address or members of the public that have shown up
-  to a meeting and asked to sign up.
+* Join the mailing list: [AIRG](
+  https://lists.cs.wisc.edu/mailman/listinfo/airg).  The mailing list is
+  the primary means of communication.  All readings are announced via
+  the mailing list.  The list is limited to those with a `*wisc.edu`
+  email address or members of the public that have shown up to a meeting
+  and asked to sign up.
 
 
 Ideas for What to Present
 -------------------------
 
-* Papers from conferences and journals (e.g. CVPR, NIPS, TPAMI, ICML,
-  Bioinformatics, JMLR, KDD, AAAI, Annals of Statistics, JAMIA, BMC
-  Bioinformatics, IJCAI, WSDM, Royal Statistical Society B, AIJ, JASA,
-  AISTATS, IJAR, MLJ, ICDM, JAIR, SDM, ECML-PKDD, UAI, AMIA, ECAI,
-  RECOMB, ICMLA, ICLR, etc.)
-* Papers / Chapters from the [PhD qualifying exam
-  list](http://aiqual.cs.wisc.edu/).  This material is always worth
-  reviewing, even for advanced students.
+* Papers from conferences and journals (e.g., CVPR, NeurIPS, ICLR, ICML,
+  TPAMI, Bioinformatics, AAAI, EMNLP, KDD, JMLR, IJCAI, JAMIA, Annals of
+  Statistics, JASA, AISTATS, WSDM, COLT, AIJ, ICDM, IJAR, DMKD, MLJ,
+  ICPR, KAIS, JAIR, SDM, CoNLL, UAI, ECML--PKDD, ECAI, AMIA, etc.)
+* Papers / Chapters from the [PhD qualifying exam list](
+  http://aiqual.cs.wisc.edu/).  This material is always worth reviewing,
+  even for advanced students.
 * Papers / Chapters you have read as part of a class (especially
   appropriate for newer students to lead)
 * Papers you have read for your research
@@ -122,16 +120,17 @@ Ideas for What to Present
 * Slides about a paper from a talk given at a conference
 * Practice talks of relevance to AIRG
 
-The material should be short enough to discuss in an hour, although, for
-longer topics, we have occasionally arranged "special sessions" that
-extend the meeting time or span multiple meetings.
+The material should be short enough to present and discuss in an hour,
+although, for longer topics, we have occasionally arranged "special
+sessions" that extend the meeting time or span multiple meetings.
 
 
 Coordinators
 ------------
 
-* Aubrey Barnard, the Monarch of AIRG
-* Ronak Mehta, the Hand of the Monarch
+* Ronak Mehta, the Monarch of AIRG
+* You?, the Hand of the Monarch
+* Aubrey Barnard, the Archivist
 
 
 Archive
